@@ -36,7 +36,7 @@ FairPlay generates reports that detail the negotiation process, the fairness of 
 
 ## Future Development
 - **Integration of More Complex Contracts**: Expand the scope of contracts to include more real-world legal documents.
-- **Agent Emotion Modeling**: Enhance emotional modeling to better reflect human negotiation patterns.
+- **Agent Emotion Modeling**: Enhance emotional modeling to better reflect human negotiation patterns. ### Why is this benefitial? ###
 - **User Interface**: Build a user-friendly interface for non-technical users to interact with the simulation.
 
 ## License

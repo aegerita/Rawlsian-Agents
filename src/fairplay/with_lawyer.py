@@ -1,10 +1,12 @@
+#%%
 import os
 from dotenv import load_dotenv
+from autogen import ConversableAgent, GroupChat, GroupChatManager
 
 # Load environment variables from .env file
 load_dotenv()
 
-from autogen import ConversableAgent, GroupChat, GroupChatManager
+#%%
 
 agent_a = ConversableAgent(
     name="Person_A",
@@ -38,7 +40,7 @@ constrained_group_chat = GroupChat(
     speaker_transitions_type="allowed",
     max_round=100,
     messages=[],
-    send_introductions=False,   # vail of ignorance
+    send_introductions=False,   # veil of ignorance
 )
 
 constrained_group_chat_manager = GroupChatManager(
@@ -54,3 +56,4 @@ chat_result = lawyer.initiate_chat(
     summary_method="reflection_with_llm",
 )
     
+# This is a lot closer to a contractual negotiation. The human in the loop requires too much work now, there's probably a smoother way to provide context to the agents. 
