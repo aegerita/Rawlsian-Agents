@@ -17,26 +17,26 @@ draft_creator = AssistantAgent(
 
 ###https://microsoft.github.io/autogen/0.2/docs/notebooks/JSON_mode_example#defining-allowed-speaker-transitions
 
-agent_b = ConversableAgent(
-    name="Representative_B",
-    system_message=system_messages.SF_CONTEXT,
+reviewer = ConversableAgent(
+    name="reviewer",
+    system_message=system_messages.REVIEWER,
     llm_config={"config_list": [{"model": os.environ["MODEL"], "api_key": os.environ["OPENAI_API_KEY"]}]},
 )
 
 arbitreur = ConversableAgent(
-    name="Arbitreur",
-    system_message=system_messages.SF_ARBITREUR,
+    name="arbitreur",
+    system_message=system_messages.ARBITREUR,
     llm_config={"config_list": [{"model": os.environ["MODEL"], "api_key": os.environ["OPENAI_API_KEY"]}]},
 )
 
 allowed_transitions = {
-    agent_a: [arbitreur],
-    agent_b: [arbitreur],
-    arbitreur: [agent_a, agent_b],
+    draft_creator: [reviewer],
+    reviewer: [arbitreur],
+    arbitreur: [reviewer],
 }
 
 group_chat = GroupChat(
-    agents=(agent_a, agent_b, arbitreur),
+    agents=(draft_creator, reviewer, arbitreur),
     messages=[],
     allowed_or_disallowed_speaker_transitions=allowed_transitions,
     speaker_transitions_type="allowed",
@@ -49,3 +49,4 @@ manager = GroupChatManager(
 )
 
 chat_result = arbitreur.initiate_chat(manager, message="Get an agreement on a prenuptial contract.")
+# %%

@@ -42,7 +42,7 @@ arbitrarily favor a particular person.
 
 Person A conditions:
 - Person A has a yearly income of $100,000 
-- Person Aowns a house that is worth $500,000.
+- Person A owns a house that is worth $500,000.
 - Person A has a savings account with $50,000.
 - Person A would prefer to keep the house and savings account 
 in case of a divorce.
