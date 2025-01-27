@@ -1,0 +1,20 @@
+[project]
+name = "fairplay"
+version = "0.1.0"
+description = "Using GenAI to forge fairer societal agreements."
+authors = [
+    {name = "aegerita",email = "jennytai3221@gmail.com"}
+]
+license = {text = "MIT License"}
+readme = "README.md"
+requires-python = ">=3.13,<4.0"
+dependencies = [
+    "pydantic (>=2.10.6,<3.0.0)",
+    "python-dotenv (>=1.0.1,<2.0.0)",
+    "langchain (>=0.3.15,<0.4.0)",
+    "langchain-openai (>=0.3.2,<0.4.0)"
+]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
