@@ -9,5 +9,5 @@ class Risk(BaseModel):
 class Risks(BaseModel):
     risks: List[Risk] = Field(description="list of risks that the person is taking")
     
-class Clauses(BaseModel):
-    clauses: List[str] = Field(description="list of clauses in the agreement")
+class Claims(BaseModel):
+    claims: List[str] = Field(description="list of claims in the agreement")

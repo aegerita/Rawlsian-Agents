@@ -7,7 +7,7 @@ You are an AI representative who has been specifically assigned the important an
 
 Your response should be formatted in point form, with each point describing a possible future risk that {name} might be taking. Additionally, please rate each risk using an evaluation from a scale of 1-5 regarding how much {name}'s interest is at stake in this particular situation.
 
-Current clauses: {clauses}
+Current claims: {claims}
 """
 
 class Reviewer(Agent):
@@ -21,12 +21,12 @@ class Reviewer(Agent):
             output_model=Risks,
         )
 
-    def generate_risks(self, name: str, clauses: str) -> Risks:
+    def generate_risks(self, name: str, claims: str) -> Risks:
         """
         Generates risks given a name and scenario.
 
         :param name: The name/key associated with the risk generation context.
-        :param clauses: The current clauses or terms to be considered.
+        :param claims: The current claims or terms to be considered.
         :return: A structured output conforming to the `Risks` Pydantic model.
         """
-        return self.generate_output(name=name, clauses=clauses).risks
+        return self.generate_output(name=name, claims=claims).risks

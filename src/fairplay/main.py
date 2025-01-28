@@ -1,9 +1,9 @@
 from fairplay.agents.arbitrator import Arbitrator
 from fairplay.agents.reviewer import Reviewer
-from fairplay.models import Clauses
+from fairplay.models import Claims
 
 
-CURRENT_CLAUSES = Clauses(clauses=[
+CURRENT_CLAIMS = Claims(claims=[
     "Person A’s house (valued at $500,000) remains the sole property of Person A",
     "Person B’s car (valued at $20,000) remains the sole property of Person B",
     "Person A’s savings ($50,000) remains with Person A",
@@ -20,9 +20,11 @@ CURRENT_CLAUSES = Clauses(clauses=[
     "Both parties affirm they will seek independent legal representation prior to finalizing the agreement."
 ])
 
+# TODO: another agent to generate the claims based on the case
+
 reviewer = Reviewer()
-risks_A = reviewer.generate_risks(name="Person A", clauses=CURRENT_CLAUSES)
-risks_B = reviewer.generate_risks(name="Person B", clauses=CURRENT_CLAUSES)
+risks_A = reviewer.generate_risks(name="Person A", claims=CURRENT_CLAIMS)
+risks_B = reviewer.generate_risks(name="Person B", claims=CURRENT_CLAIMS)
 combined_risks = risks_A + risks_B
 sorted_risks = sorted(combined_risks, key=lambda x: x.rate, reverse=True)
 print("Risks for Person A and Person B combined:")
@@ -34,14 +36,18 @@ for risk in sorted_risks:
     print(f"Rate: {risk.rate}")
     print(f"Description: {risk.description}")
     
-    clauses = arbitrator.propose_clause(clauses=CURRENT_CLAUSES, risk=risk.description)
-    print("Proposed clauses:")
-    print(clauses)
+    claims = arbitrator.propose_clause(claims=CURRENT_CLAIMS, risk=risk.description)
+    print("Proposed claims:")
+    print(claims)
+
+    # TODO: another agent to compare with law
     
-    CURRENT_CLAUSES.clauses.extend(clauses)
+    CURRENT_CLAIMS.claims.extend(claims)
     
 
 print("\n")
-print("Final clauses:")
-print(CURRENT_CLAUSES.clauses)
+print("Final claims:")
+print(CURRENT_CLAIMS.claims)
+
+# TODO: generate the final agreement
 
