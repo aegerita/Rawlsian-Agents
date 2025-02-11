@@ -1,4 +1,3 @@
-
 from fairplay.agents.base_agent import Agent
 from fairplay.models import Claims
 

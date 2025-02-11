@@ -1,0 +1,1348 @@
+@B,00022165,OR
+@1@Z20080515
+@2
+LeVan v. LeVan
+90 O.R. (3d) 1
+@4
+Court of Appeal for Ontario,
+Doherty, Borins and MacFarland JJ.A.
+May 15, 2008
+@6
+Family law -- Domestic contracts -- Setting aside -- Husband
+deliberately failing to disclose existence of certain assets to
+wife prior to entering into marriage contract -- Husband
+seriously misrepresenting extent and value of some of disclosed
+assets -- Husband misrepresenting nature and terms of marriage
+contract to wife -- Wife not receiving effective independent
+legal advice -- Contract extremely unfair to wife -- Trial
+judge not erring in setting aside contract under s. 56(4) of
+Family Law Act -- Family Law Act, R.S.O. 1990, c. F.3, s.
+56(4).
+Family law -- Property -- Equalization of net family property
+-- Unconscionability -- Marriage contract which court has set
+aside under s. 56(4) of Family Law Act not constituting written
+agreement between spouses within meaning of s. 5(6)(g) of Act
+-- Market-driven decrease in value of asset after valuation day
+not engaging s. 5(6)(h) of Act -- Family Law Act, R.S.O. 1990,
+c. F.3, ss. 5(6)(g), 5(6)(h).
+The parties were married for seven years and lived together
+for one year before marriage. The husband and his family owned
+the majority of shares in W Inc. The husband's father wished to
+ensure that shares of that company stayed within the family.
+Family members entered into certain agreements which provided
+that any family member who wished to continue to hold shares in
+W Inc. had to enter into a marriage contract. Before the
+parties' marriage, the husband informed the wife that a
+marriage contract had to be signed or the wedding would not
+take place. He told her that the sole purpose of the contract
+was to keep shares of W Inc. in the family. The contract was
+drafted by B, a matrimonial lawyer at the same firm as the
+family's corporate lawyers. The contract excluded all of the
+husband's business interests from net family property and
+severely restricted the wife's right to support. R, the lawyer
+initially retained by the wife, advised the wife that the
+contract was unconscionable. R was fired. Four days before the
+wedding, B asked another lawyer, H, to provide the wife with
+independent legal advice. H had acted for B in B's own family
+
+2008 ONCA 388 (CanLII)
+
+@3
+
+Held, the appeal should be dismissed. [page2 ]
+The trial judge did not err in setting aside the marriage
+contract under s. 56(4) of the FLA. She did so on the following
+grounds. The husband did not disclose that he held certain
+significant assets and he did not disclose the value of the
+assets which he did disclose. The wife did not receive
+effective independent legal advice, and some advice provided
+was wrong. The wife did not understand the nature and
+consequence of the marriage contract, and the husband
+misrepresented the nature and terms of the marriage contract.
+The husband's failure to disclose his entire assets to his wife
+was deliberate. The husband interfered with the wife's receipt
+of legal assistance from R. While the husband argued on appeal
+that the trial judge erred in importing the concept of "value"
+into s. 56(4), the husband's failure to disclose value for
+certain interests was not critical to the disclosure analysis.
+There was an abundance of evidence indicating that the husband
+had failed to comply with his disclosure obligations apart from
+his failure to disclose value for those assets. This failure
+was compounded by the serious misrepresentations respecting the
+extent and value of certain of the assets disclosed. The
+marriage contract itself was misleading. The wife had no chance
+of understanding what she was giving up when she signed the
+contract. In deciding how to exercise her discretion under s.
+56(4), the trial judge considered the "fairness" of the
+contract. Fairness is an appropriate consideration in the
+exercise of the court's discretion under s. 56(4). Once a judge
+has found one of the statutory preconditions to exist, he or
+she should be entitled to consider the fairness of the contract
+together with other factors in the exercise of his or her
+discretion. There was no reason to interfere with the trial
+judge's exercise of her discretion.
+The "written agreement between the spouses that is not a
+domestic contract" referred to in s. 5(6)(g) of the FLA does
+not include a marriage contract that has been set aside by the
+court.
+The significant market-driven decline in the value of the
+husband's shares in W Inc. after the separation was not a
+
+2008 ONCA 388 (CanLII)
+
+law matter. This was not disclosed to the wife. H met with the
+wife on one occasion, for approximately one hour, before the
+contract was signed. The wife sought to set aside the marriage
+contract under s. 56(4) of the Family Law Act. The husband
+submitted that if the contract were set aside, the equalization
+payment claimed by the wife would be unconscionable. He relied
+on ss. 5(6)(h) and 5(6)(g) of the FLA. The trial judge set
+aside the marriage contract under s. 56(4) of the FLA and
+rejected the husband's unconscionability argument. The husband
+was ordered to pay the wife an equalization payment of $5.3
+million, in addition to spousal and child support. The husband
+appealed.
+
+circumstance warranting unequal division within the meaning of
+s. 5(6)(h).
+
+The trial judge did not err in awarding post-judgment
+interest on the equalization payment and the lump sum spousal
+support.
+@5
+Cases referred to
+Arndt v. Arndt (1993), 15 O.R. (3d) 389, [1993] O.J. No. 2350,
+107 D.L.R. (4th) 1, 66 O.A.C. 4, 48 R.F.L. (3d) 353, 43
+A.C.W.S. (3d) 98 (C.A.), affg (1991), 6 O.R. (3d) 97, [1991]
+O.J. No. 1856, 37 R.F.L. (3d) 423, 29 A.C.W.S. (3d) 838 (Gen.
+Div.); Berdette v. Berdette (1991), 3 O.R. (3d) 513, [1991]
+O.J. No. 788, 81 D.L.R. (4th) 194, 47 O.A.C. 345, 41 E.T.R.
+126, 33 R.F.L. (3d) 113, 26 A.C.W.S. (3d) 1314 (C.A.) [Leave
+to appeal to S.C.C. refused (1991), 5 O.R. (3d) xii, [1991] 3
+S.C.R. v, [1991] S.C.C.A. No. 306, 85 D.L.R. (4th) viii, 137
+N.R. 388n, 55 O.A.C. 397n]; Davies v. Davies, [1988] O.J. No.
+458, 13 R.F.L. (3d) 278, 9 A.C.W.S. (3d) 209 (H.C.J.);
+Demchuk v. Demchuk, [1986] O.J. No. 1500, 1 R.F.L. (3d) 176,
+36 A.C.W.S. (2d) 498 (H.C.J.); Dochuk v. Dochuk, [1999] O.J.
+No. 363, 89 O.T.C. 41, 44 R.F.L. (4th) 97 (Gen. Div.); Dubin
+v. Dubin, [2003] O.J. No. 547, 34 R.F.L. (5th) 227, 120
+A.C.W.S. (3d) 647 (S.C.J.); Hartshorne v. Hartshorne, [2004]
+1 S.C.R. 550, [2004] S.C.J. No. 20, 2004 SCC 22, 236 D.L.R.
+(4th) 193, 318 N.R. 1, [2004] 6 W.W.R. 1, J.E. 2004 -723,
+194 B.C.A.C. 161, 25 B.C.L.R. (4th) 1, 47 R.F.L. (5th) 5, 129
+A.C.W.S. (3d) 748; Heon v. Heon (1989), 69 O.R. (2d) 758,
+[1989] O.J. No. 1457, 34 E.T.R. 252, 22 R.F.L. (3d) 273,
+17 A.C.W.S. (3d) 74 (H.C.J.); Hickey v. Hickey, [1999] 2
+S.C.R. 518, [1999] S.C.J. No. 9, 172 D.L.R. (4 th) 577, 240
+N.R. 312, [1999] 8 W.W.R. 485, J.E. 99-1206, 138 Man. R. (2d)
+40, 46 R.F.L. (4th) 1, 88 A.C.W.S. (3d) 1044, REJB
+1999-12847; [page3 []cf2]Jamal v. Moolla Dawood, Sons & Co.,
+[1916] 1 A.C. 175 (J.C.P.C.); Kelly v. Kelly, [1986] O.J.
+No. 296, 50 R.F.L. (2d) 360, 37 A.C.W.S. (2d) 133 (H.C.J.);
+Koiter v. Koiter, [1996] O.J. No. 4490, 21 O.T.C. 3, 67
+A.C.W.S. (3d) 1152 (Gen. Div.); Macedo v. Macedo, [1996] O.J.
+No. 435, 19 R.F.L. (4th) 65, 61 A.C.W.S. (3d) 131 (Gen.
+Div.); McCutcheon v. McCutcheon, [1986] O.J. No. 2509, 2
+R.F.L. (3d) 327 (Dist. Ct.); Merklinger v. Merklinger (1996),
+30 O.R. (3d) 575, [1996] O.J. No. 4080, 26 R.F.L. (4th) 7, 67
+A.C.W.S. (3d) 322 (C.A.); Patrick v. Patrick, [2002] O.J. No.
+639, [2002] O.T.C. 131, 112 A.C.W.S. (3d) 302 (S.C.J.);
+Perrin v. Perrin, [1988] O.J. No. 1468, 17 R.F.L. (3d) 87
+(Dist. Ct.); Serra v. Serra, [2007] O.J. No. 446, 36
+R.F.L. (6th) 66, 154 A.C.W.S. (3d) 1138 (S.C.J.); Skrlj v.
+Skrlj, [1986] O.J. No. 404, 2 R.F.L. (3d) 305, 37 A.C.W.S.
+
+2008 ONCA 388 (CanLII)
+
+There was no error in the trial judge's awards of child and
+spousal support.
+
+Statutes referred to
+Family Law Act, R.S.O. 1990, c. F.3, ss. 5(6), 52(1) [as am.],
+56(4), (7)
+Family Law Act, R.S.P.E.I. 1988, c. F-2.1, s. 6(6)
+Matrimonial Property Act, R.S.N.S. 1989, c. 275
+Rules and regulations referred to
+Federal Child Support Guidelines, SOR/97-175
+Authorities referred to
+Ontario Law Reform Commission, Report on Family Law (Toronto,
+Ontario: 1993)
+Stark, H., and K. MacLise, Domestic Contracts: A Domestic Guide
+to Marriage Cohabitation and Separation Agreements in British
+Columbia and Ontario, 2nd ed. (Toronto: Thomson Carswell,
+2006)
+@6
+APPEAL by husband from judgment of Backhouse J. (2006), 82
+O.R. (3d) 1, [2006] O.J. No. 3584 (S.C.J.), supp. reasons
+[2006] O.J. No. 4599, 32 R.F.L. (6th) 359 (S.C.J.), setting
+aside the marriage contract, awarding the wife equalization
+payment and ordering the husband to pay spousal and child
+support.
+@8
+Alan J. Lenczner, Q.C. and Gerald P. Sadvari, for appellant.
+Philip M. Epstein, Q.C. and Ilana I. Zylberman, for
+respondent.
+@7
+The judgment of the court was delivered by
+BORINS J.A.: -I
+[1] Richard Bruce LeVan (the "husband") appeals from the
+judgment of Backhouse J., which set aside a marriage contract
+that he entered into with the respondent, Erika Margaret LeVan
+(the "wife") prior to their marriage for failure to comply
+
+2008 ONCA 388 (CanLII)
+
+(2d) 207 (H.C.J.); Stone v. Stone (2001), 55 O.R. (3d)
+491, [2001] O.J. No. 3282, 203 D.L.R. (4th) 257, 156 O.A.C.
+345, 39 E.T.R. (2d) 292, 18 R.F.L. (5th) 365, 107 A.C.W.S.
+(3d) 269 (C.A.); Warne v. Warne (1992), 8 O.R. (3d) 571,
+[1992] O.J. No. 591, 39 R.F.L. (3d) 392, 32 A.C.W.S. (3d)
+790 (Gen. Div.)
+
+[2] The appellant contends that the trial judge erred as
+follows:
+(1) In setting aside the marriage contract in accordance with
+s. 56(4) of the FLA.
+(2) In importing the word and concept of "value" into s. 56(4)
+(a) of the FLA.
+(3) In failing to find that the equalization payment claimed by
+the wife is unconscionable in accordance with s. 5(6) of
+the FLA.
+(4) In awarding spousal and child support based on the
+husband's income of $370,000 for the year 2005.
+(5) In awarding post-judgment interest on the equalization
+payment and the lump-sum spousal support.
+[3] These issues form the basis of this appeal. For the
+reasons that follow, I would dismiss the appeal.
+II
+[4] In lengthy and detailed reasons for judgment, the trial
+judge carefully reviewed the evidence and the law, made
+findings of fact and reached her conclusion. I will liberally
+borrow from the trial judge's reasons for judgment in setting
+out the facts leading up to her decision.
+III
+[5] Before reviewing the facts, it will be helpful to set out
+the relevant provisions of ss. 5(6), 52(1) and 56(4) of the
+FLA: [page5 ]
+5(6) The court may award a spouse an amount that is more or
+less than half the difference between the net family
+properties if the court is of the opinion that equalizing the
+net family properties would be unconscionable, having regard
+to,
+. . . . .
+(g) a written agreement between the spouses that is not
+a domestic contract; or
+(h) any other circumstance relating to the acquisition,
+disposition, preservation, maintenance or
+
+2008 ONCA 388 (CanLII)
+
+with s. 56(4) of the Family Law Act, R.S.O. 1990, c. F.3
+("FLA"). [page4 ]The husband was ordered to pay the wife an
+equalization payment of $5.3 million as well as retroactive
+spousal support of $163,340. The trial judge ordered that post judgment interest shall accrue on the entire equalization
+payment and the lump sum spousal support from the date of the
+judgment. In addition, the trial judge awarded monthly spousal
+support of $6,640 based on the husband's yearly income of
+$370,000 commencing June 1, 2006, to be reduced pursuant to a
+formula in accordance with receipt of the equalization payment
+and to be credited against post-judgment interest. The husband
+was also ordered to pay child support for two children in the
+amount of $4,544 monthly, and retroactive child support of
+$43,792. Costs of $646,602.20 were awarded to the wife.
+
+52(1) Two persons who are married to each other or intend
+to marry may enter into an agreement in which they agree on
+their respective rights and obligations under the marriage or
+on separation, on the annulment or dissolution of the
+marriage or on death, including,
+(a) ownership in or division of property;
+(b) support obligations;
+(c) the right to direct the education and moral
+training of their children, but not the right to
+custody of or access to their children; and
+(d) any other matter in the settlement of their
+affairs.
+. . . . .
+56(4) A court may, on application, set aside a domestic
+contract or a provision in it,
+(a) if a party failed to disclose to the other
+significant assets, or significant debts or other
+liabilities, existing when the domestic contract
+was made;
+(b) if a party did not understand the nature or
+consequences of the domestic contract; or
+(c) otherwise in accordance with the law of contract.
+IV
+[6] The parties lived together in Listowel, Ontario, from
+June 1995 until their marriage on June 22, 1996. There are two
+young children of the marriage. The parties separated on
+October 27, 2003. The issues involved in this di spute revolve
+around a marriage contract that was signed by the parties on
+June 20, 1996, two days prior to the marriage.
+[7] At the time the marriage contract was signed, the husband
+was a very wealthy man. The husband and his family own the
+majority of shares of Wescast Industries Inc. ("Wescast"), the
+world's largest manufacturer of exhaust manifolds, and a
+publicly traded company. Mr. LeVan, Sr., together with his
+wife, created a [page6 ]complex corporate structure that
+included a number of different companies and a family trust
+(the "LeVan Family Trust").
+[8] In 1996, the husband and his three siblings each held 25
+per cent of the common shares of three companies within the
+corporate structure: RyVan Inc. ("RyVan"), Grannyco Inves tments
+Ltd. ("Grannyco") and RWL Investments Ltd. ("RWL"). In
+addition, all four siblings were the sole beneficiaries of the
+LeVan Family Trust, in which there were significant assets. It
+was the opinion of Linda Brent, the wife's valuator, that at
+the date of marriage, the midpoint value of the husband's
+business assets was over $14 million, after applying
+significant discounts and deducting contingent taxes. Ms.
+
+2008 ONCA 388 (CanLII)
+
+improvement of property.
+.....
+
+[9] It was always the desire of Mr. LeVan, Sr. to protect the
+shares of the family company. Thus, any child contemplating
+marriage was instructed to enter into a pre-nuptial agreement,
+or marriage contract, in which it was provided that the
+proposed spouse release all claims to Wescast shares. In this
+way, Mr. LeVan, Sr. intended to keep the shares of the family
+company within the family.
+[10] Mr. LeVan, Sr. retained the services of George Wilson at
+Gowling LaFleur Henderson ("Gowlings") as his corporate legal
+adviser. With Mr. Wilson's assistance, the LeVan f amily members
+entered into a Voting Trust Agreement and a Unanimous
+Shareholders Agreement, to which were attached model marriage
+contracts. Each agreement provided that any family member, who
+was to be married and who wished to continue to hold shares in
+Wescast, had to enter into a marriage contract based on the
+model contract. As it was frequently the subject of
+conversation around the dinner table at family gatherings, the
+husband, his siblings and their prospective partners knew of
+the desire to maintain control of Wescast shares within the
+family.
+[11] The model marriage contract contained provisions to
+protect the LeVan family's control of Wescast. However, it did
+not require the prospective spouse to agree to exclude assets
+from equalization or to limit support rights. Rather, the
+agreements restricted the actions that could be taken directly
+against the LeVan family companies and stipulated the method of
+valuation of the LeVan company shares for the purposes of a
+property or support claim.
+[12] The husband was the first of the four siblings to enter
+into a marriage contract. Before their engagement in December
+1995, [page7 ]the wife was aware that if she and Mr. LeVan were
+to marry, they would have to enter into a marriage contract as
+Mr. LeVan, Sr. wanted to make sure that the Wescast shares
+stayed within the family. A month or so after the engagement,
+and shortly after the wedding venue was booked for June 22,
+1996, the wife broached the subject of the marriage con tract
+with the husband as she thought it would have to be dealt with
+before the wedding. The husband told her not to worry because
+there was a lot of time until the wedding. He said that his
+lawyers were working on it. He reassured the wife, telling her
+that the marriage contract was only to ensure that if they
+split up, there would be no possibility of an outsider taking
+over Wescast.
+[13] However, the husband did nothing about the marriage
+
+2008 ONCA 388 (CanLII)
+
+Brent's evidence was uncontradicted, as the husband did not
+provide the court with a valuation of his net worth at the
+dates of marriage, separation or trial. This would have
+assisted the court in assessing the impact of the equalization
+payment on his net worth.
+
+[14] Ms. Bales' first draft of the contract, which she sent
+to the husband, provided that the LeVan companies were to be
+treated as excluded property, including any property into which
+they could be traced. However, there was no restriction on the
+wife's right to support and she was entitled to a joint
+interest in the matrimonial home. Subsequent changes to the
+first draft made the marriage contract more favourable to the
+husband and less favourable to the wife. Subsequent drafts
+maintained this inequity. A significant change in the final
+draft was the insertion of para. 8 (c), which severely
+restricted the wife's right to claim support if there was a
+marriage breakdown. That clause limited the wife's support to
+the income and assets that were not excluded in the contract.
+These changes extended far beyond the model marriage contract
+attached to the Voting Trust Agreement and the Unanimous
+Shareholders Agreement.
+[15] On May 16, 1996, Ms. Bales sent the draft marriage
+contract to Mr. Wilson. Her accompanying memo informed Mr.
+Wilson that under the FLA the husband was required to disclose
+to the [page8 ]wife all of his significant assets and
+liabilities. She told him that she would like to provide enough
+detail to satisfy the other side, without providing more
+information than was necessary. She directed Mr. Wilson's
+attention to Schedule A to the contract, which constituted the
+husband's disclosure. She also directed his attention to a
+footnote in that Schedule, which stated that the interests of
+the LeVan family members in the LeVan Family Companies were
+frozen through an estate freeze in January 1996 at a freeze
+value per share of US$9.75. Mr. Wilson did not reply to Ms.
+Bales' memo.
+[16] Schedule A was the only financial disclosure provided by
+the husband. It indicated that the husband had no debts. His
+net worth was disclosed as "$80,000 + LeVan Family Companies
+interest". It disclosed that the $80,000 was held in RRSPs,
+bank accounts and the original house deposit. It disclosed that
+the husband owned 100 common shares in RyVan Inc. This Schedule
+was accompanied by a declaration that each party had fully and
+completely disclosed to the other the nature and extent of all
+of his or her significant assets.
+
+2008 ONCA 388 (CanLII)
+
+contract until May 8, 1996, six weeks before the wedding date.
+On that occasion, for the first time, he met with Karen Bales,
+a family law lawyer at Gowlings, the corporate lawyers for the
+LeVan companies. The husband testified that he had nothing to
+do with the property provisions of the marriage contr act which
+were created and mandated by his father and Mr. Wilson. As
+confirmed by Ms. Bales, the husband was only interested in
+support provisions and the provision regarding the matrimonial
+home. He did not wish to pay the wife support in the event of a
+marriage breakdown. Mr. LeVan, Sr. died in April 2003. Mr.
+Wilson was not called as a witness.
+V
+
+[18] In addition, the footnote included in the Schedule was
+later found to have been inaccurate, since not all the interest
+in the LeVan Family companies were frozen. The footnote also
+failed to disclose how many shares were frozen or how many
+shares the husband held. It was of no help in providing
+disclosure of the husband's assets. Indeed, as Ms. Bales
+acknowledged, the footnote was meaningless as it disc losed
+insufficient information.
+[19] In late May, the wife was provided with a copy of the
+final draft of the marriage contract. The husband advised her
+to get her own lawyer to review the contract. She had never had
+any dealings with a lawyer. Based on her parents'
+recommendation, she retained Paul Ross, a general practitioner
+in Goderich, Ontario, who had experience in family law. [page9
+]
+[20] On May 28, 1996, Ms. Bales sent Mr. Ross the draft
+marriage contract with a covering letter that gave him some
+background. She described this as a "first go-round" in the
+expectation that Mr. Ross would ask for more information. Mr.
+Ross did request additional information. He asked for the
+values of the husband's interest in the LeVan compani es and for
+the holdings in the Family Trust. Although she acknowledged in
+her testimony that it was essential that the wife know the
+husband's income and her worth, Ms. Bales did not give Mr. Ross
+any information other than Schedule A. She testified th at she
+sent Mr. Ross the information that had been provided to her.
+However, as the trial judge observed, Ms. Bales had access to
+much more significant information about the husband's income
+and net worth through Gowlings and the corporate accountants of
+the LeVan Family Companies.
+[21] Mr. Ross first met with the wife on June 3, 1996. At
+that time, she informed him that her understanding was that the
+purpose of the contract was to protect the shares in the LeVan
+Family Companies and to ensure that the Wescast shares did not
+go outside the family. She also told him that her husband had
+said that there would be no marriage unless she signed the
+contract. Mr. Ross informed her that the agreement went much
+
+2008 ONCA 388 (CanLII)
+
+[17] However, there was a great deal of information that was
+not included in the Schedule A disclosure. The Schedule
+provided no disclosure of the husband's income. No values were
+inserted for his interest in the LeVan Companies or for his
+contingent beneficial interest in the LeVan Family Trust. The
+absence of this information proved to be significant, as the
+wife's valuator valued the mid-point range of the husband's
+business assets at the date of marriage at $14,664,500. In
+addition, the husband did not disclose that he owned one common
+share in each of Grannyco and RWL. Ms. Brent valued the
+midpoint range of these two shares at the date of marriage as
+$1.9 million and $7.25 million respectively.
+
+[22] In written correspondence to Ms. Bales, Mr. Ross
+expressed the view that the contract was unfair and
+overreaching and continued to request disclosure of the value
+of the holdings in the Family Trust. He even proposed drafting
+his own contract. In subsequent correspondence, Ms. Bales
+provided some more detailed information concerning the
+husband's share holdings, however, she did not provide values.
+[23] The further disclosure provided by Ms. Bales was
+seriously misleading and littered with informational gaps. Ms.
+Bales failed to disclose that [the] husband and his three
+siblings had always been treated equally under the LeVan Family
+Trust, and that it was his parents' intention to continue to
+treat the children equally. She misrepresented that the
+husband's contingent interest in the Trust had a "very minimal
+value" at the date of marriage, whereas Ms. Brent valued the
+holdings of the Trust at $30 million. She responded to Mr.
+Ross' request for values for the husband's business interests
+as a request for full valuations and refused to provide such on
+the basis of cost and time.
+[24] In addition, at the request of Mr. Ross, she sent him
+copies of the Voting Trust Agreement and the Unanimous
+Shareholders Agreement, and directed his attention to the
+Schedules to those [page10 ]agreements which set out the
+minimum terms of the model marriage contract. This simply
+served to enhance Mr. Ross' confusion since the marriage
+contract prepared by Ms. Bales did not contemplate equalization
+of net family property and was substantially and materially
+different from the model contracts in the two agreements.
+[25] As the wedding approached and without a contract signed,
+the husband began to undermine the wife's relationship with,
+and confidence in, Mr. Ross. On June 18, 1996, Mr. Ross
+received a message from Ms. Bales' secretary informing him of
+the husband's instructions that Ms. Bales have no further
+communications with him. Mr. Ross wrote to the wife advising
+her that the contract was "unconscionable" and expressing his
+concern that undue pressure was being put on her to sign the
+contract. It would appear that the wife disregarded this
+advice.
+[26] With Mr. Ross out of the picture and the wedding a few
+days away, Ms. Bales decided to ask Susan Heakes, a family law
+specialist with Blake, Cassels and Graydon, if she would
+provide independent legal advice to the wife. On Tuesday, June
+18, 1996, Ms. Bales left a voicemail for Ms. Heakes requesting
+that she act for a wife on a marriage contract. She explained
+that the wedding was on Saturday and that the wife wanted to
+see her on Thursday to have the contract explained. Ms. Heakes
+agreed to act for the wife notwithstanding that the wedding was
+
+2008 ONCA 388 (CanLII)
+
+further than merely protecting the family's shares in Wescast
+and that, in his opinion, it did not treat her fairly.
+
+[27] Ms. Heakes met alone with the wife for approximately one
+hour two days before the wedding. During this meeting the
+wife's disclosure statement was prepared and a change was made
+to the contract to reflect that the house deal had fallen
+through. As such, the trial judge found that it was unlikely
+that the contract was reviewed in detail. Ms. Heakes relied
+entirely on documents provided by Ms. Bales, which consisted of
+the same documents provided to Mr. Ross, as well as
+correspondence between counsel. These documents contained the
+misrepresentations about the husband's financial position. She
+did not ask Ms. Bales to insert values for the husband's assets
+into Schedule A. Ms. Heakes did not appreciate that the model
+marriage contracts did not require the exclusion of business
+assets from equalization of net family property. She testified
+that she did not remember if she reviewed with the wife the
+model marriage [page11 ]contracts contained in the Voting Trust
+Agreement and the Unanimous Shareholders Agreement.
+[28] The marriage contract was signed on the d ay the wife met
+with Ms. Heakes. The husband testified that up to the day the
+contract was signed, he was continuing to tell the wife that if
+the contract was not signed, there would be no marriage. As the
+trial judge found, in the contract that was signed, the wife's
+ability to claim spousal support, contrary to the model
+marriage contracts, was significantly compromised. She gave up
+her right to share in the increase in value of virtually all of
+the husband's assets without knowing the husband's income from
+all sources, and without having any idea of his net worth.
+Moreover, Ms. Heakes also did not possess this information at
+the time she provided legal advice to the wife for the purpose
+of signing the marriage contract. Even though she testifi ed
+that she would not advise a client without financial
+disclosure, she failed to request financial disclosure from Ms.
+Bales. Consequently, Ms. Heakes was in no position to advise
+the wife in a meaningful way about the marriage contract.
+VI
+[29] The trial judge thoroughly reviewed the evidence of the
+wife's valuator, Linda Brent. She accepted Ms. Brent's
+evidence. Using the midpoint, Ms. Brent's opinion was that the
+net value of the husband's business interests was $33,277,161
+at the date of the separation, and $14,664,500 at the date of
+the marriage. The increase in value amounts to $18,612,661.
+Based on the closing price of $14 a share on May 29, 2006, Ms.
+Brent estimated the value of the husband's holding company to
+be $13 million. According to the husband's financial statement
+sworn on May 15, 2006, shortly before the trial, his personal
+
+2008 ONCA 388 (CanLII)
+
+imminent because she was comfortable with Ms. Bales being on
+the other side and with the wife having had a previous lawyer.
+Ms. Heakes had acted for Ms. Bales in her recent divorce. This
+was not disclosed to the wife. The wife testified that she was
+told by the husband that his lawyer had found another lawyer in
+Toronto willing to let her sign the contract.
+
+[30] In terms of liquidity, Ms. Brent testified that the
+husband had [$] 1.6 million in his personal stock portfolio on
+December 31, 2005 and that he could use his holding company to
+pay him the redemption amount of his preference shares.
+However, this would be limited to $6.3 million of the $9.3
+million redemption amount because of a limiting provision in
+the company's articles. She thought that other family members
+had the financial ability to buy the husband's sha res.
+[31] Ms. Brent imputed yearly income to the husband of
+$496,000 for 2004 and $370,000 for 2005. The wife's position
+was that the husband should pay child and spousal support on an
+annual imputed income of $370,000. [page12 ]
+VII
+[32] The trial judge spent considerable time reviewing the
+testimony of the witnesses and making findings of credibility.
+Her principle finding of fact was that husband had breached his
+statutory obligation to provide financial disclosure to the
+wife. She found that he didn't make the required disclosure for
+two reasons. First, he did not want his wife to know his income
+or the value of his assets because he wanted to control their
+lifestyle during marriage. Second, he was afraid that full
+disclosure might lead to more aggressive demands and a less
+favourable contract. Thus, the trial judge concluded that the
+husband had deliberately breached s. 56(4)(a) of the FLA by
+choosing not to make complete financial disclosure to t he wife
+of his income and his assets when entering into the contract.
+[33] It is now well established that a finding that a party
+has violated a provision of s. 56(4) of the FLA does not
+automatically render the contract a nullity. Rather, a trial
+judge must determine whether it is appropriate, in the
+circumstances, to order that the contract be set aside. This is
+a discretionary exercise. See Dochuk v. Dochuk, [1999] O.J. No.
+363, 44 R.F.L. (4th) 97 (Gen. Div.). Here, the trial judge
+determined that it was appropriate to set aside the marriage
+contract. She recognized that it was appropriate to exercise
+that discretion not simply because of the failure to disclose,
+but also because of other factors relevant to s. 56(4), such as
+the wife's failure to understand the nature and consequences of
+the contract in accordance with s. 56(4)(b).
+[34] The trial judge relied upon the following findings to
+set aside the marriage contract apart from the husband's
+failure to disclose the value of his significant assets:
+(1) The husband failed to disclose his income tax returns.
+(2) The husband failed to disclose shares that he held in
+Grannyco and RWL.
+(3) The footnote to Schedule A was inaccurate and did not
+
+2008 ONCA 388 (CanLII)
+
+assets totalled $2,112,700. It is important to note that by the
+time of trial, there had been a sharp decline in the price of
+Wescast shares.
+
+[35] The trial judge recognized each of these factors in
+support of her determination that the husband had failed to
+comply with his disclosure obligation under s. 56(4)(a) of the
+FLA. In exercising her discretion to set aside the marriage
+contract, the trial judge further identified the following
+factors:
+(1) The wife did not receive effective independent legal advice
+and some advice provided was wrong.
+(2) The wife did not understand the nature and consequence of
+the marriage contract.
+(3) The husband misrepresented the nature and terms of the
+marriage contract to the wife.
+(4) The husband's failure to disclose his entire assets to his
+wife was deliberate.
+(5) The husband interfered with the wife's receipt of legal
+assistance from her first lawyer, Mr. Ross.
+[36] Virtually all of the trial judge's findings that I have
+outlined, in one way of another, were material to the wife's
+decision to sign the marriage contract.
+[37] In exercising discretion to set aside the marriage
+contract, the trial judge rejected the husband's position that
+even though he failed to disclose his assets, the wife would
+have signed the contract in any event because she was intent on
+marrying him. At para. 226, the trial judge commented:
+It is submitted on behalf of the husband that regardless of
+what his net worth and income were and regardless of whether
+there were misrepresentations about his finances, they were
+not material as the wife would have signed the contract
+anyway. It is clear that the wife wanted to get married and
+that the husband was insisting that the contract be signed
+before getting married. The wife stated on cross-examination
+that no matter what number was in the husband's Schedule A,
+that she was going to sign the contract because she wanted to
+get married and "because she was signing this contract to
+protect Bruce's interest in Wescast". I find that the wife
+was acknowledging that she understood that there would be no
+marriage without a marriage contract. I do not agree that she
+was acknowledging that she would sign any contract regardless
+
+2008 ONCA 388 (CanLII)
+
+contain sufficient information to be meaningful.
+(4) The disclosure provided was misleading. For example, the
+husband's lawyer stated that his interest in the Family
+Trust had a very "minimal value".
+(5) The husband's lawyer failed to disclose that he had three
+siblings, and that the four LeVan children had always been
+treated equally under the Family Trust. [page13 ]
+(6) The financial statements for RWL, Grannyco and the Family
+Trust were not provided.
+(7) The husband's lawyer failed to disclose that, in addition
+to being a capital beneficiary of the Trust, the husband
+was also an income beneficiary.
+
+[38] Having set aside the marriage contract, the trial judge
+was then required to determine how to properly equalize the
+parties' net family property. She relied on the evidence of the
+wife's valuator to determine the husband's net family property
+to be $20,654,416.52 and that of the wife to be $211,298.45.
+She held that the equalization payment by the husband to the
+wife would be $10,221,559.04. The husband argued that under s.
+5(6)(g) and (h) of the FLA there should be an unequal payment.
+He stated that in the circumstances it would be unconscionable
+to equalize the net family properties. He relied on the
+decrease in value of the Wescast shares and the terms of the
+marriage contract. He submitted that given the restrictions on
+the transfer of the Wescast shares, it would be unconscionable
+to place any value on the shares other than their current
+value. The husband further submitted that any equal division
+would result in his entire net worth being given to the wife,
+which would be unconscionable.
+[39] The wife's position was that it is the value o f the net
+family properties on the valuation date, in this case, the date
+of separation, that is determinative. As it is to be expected
+that market values or conditions will have changed from the
+date of separation to the date of trial, this cannot be said to
+be unconscionable. Counsel for the wife submitted that if the
+decrease in value of Wescast shares was relevant, then only the
+decrease that occurred after the husband could reasonably have
+sold his shares should be considered, as he must assume
+responsibility for any loss arising from his delay in failing
+to sell his shares. Counsel for the wife told the court that if
+the contract was set aside, the wife was willing to accept an
+equalization payment of $5.3 million. He stated that it would
+not be unconscionable to require the husband to pay
+approximately 50 per cent of the equalization payment
+calculated by Ms. Brent and accepted by the trial judge.
+[40] The trial judge stated that the proper approach to the
+application of s. 5(6), as stated by this court in Stone v.
+Stone (2001), 55 O.R. (3d) 491, [2001] O.J. No. 3282 (C.A.), at
+para. 39, is as follows: [page15 ]
+(1) Establish each spouse's net family property pursuant to s.
+4 of the FLA by determining and valuing the property owned
+
+2008 ONCA 388 (CanLII)
+
+of its terms and regardless of the extent of her future
+husband's income and assets. She was prepared to "protect
+[page14 ]Bruce's interest in Wescast". I find that she
+understood that the contract did this because of her future
+husband's misrepresentations. Had the husband disclosed the
+value of his assets and his income, this would have given the
+wife's lawyers an opportunity to negotiate provisions less
+onerous to the wife. I find that had he fully disclosed as
+required, it is likely that the marriage contract would have
+been more favourable to the wife, or that the wife,
+recognizing how unfair it was, would have refused to sign it.
+VIII
+
+[41] The trial judge found that s. 5(6)(g) did not apply as
+the "written agreement" contemplated by that provision does not
+include a marriage contract that the court has set aside.
+[42] The trial judge considered the more difficult issue to
+be whether a decrease in net family property that is solely
+market driven and not caused by a party's conduct falls within
+s. 5(6)(h). No case was provided by counsel on whether such a
+decrease has been recognized as a basis for unconscionability
+under s. 5(6)(h). The trial judge developed the conclusion that
+s. 5(6)(h) was not engaged on the facts of this case. In
+reaching this determination, she relied on the Ontario Law
+Reform Commission's 1993 Report on Family Law, that expressed
+the view that s. 5(6) did not authorize the court to consider
+post-valuation date fluctuations in value of net family
+property, and that recommended that the FLA be amended to
+provide such authorization.
+[43] Notwithstanding this conclusion, the trial judge went on
+to consider what her view would have been if the decrease in
+the value of the Wescast shares could have been the basis for a
+finding of unconscionability under s. 5(6). At para. 270, she
+concluded as follows:
+The husband did not do a valuation of his net worth at the
+date of separation or trial. Ms. Brent's rough estimate of
+the husband's net worth at trial was approximately $15
+million. This is a heavily discounted value. An equalization
+payment of $10 million would leave the husband with
+substantially less in value than the wife. In my opinion,
+this result shocks my conscience and I find it
+unconscionable.
+[44] The trial judge then proceeded to calculate an unequal
+division of the parties' net family property on the ground of
+unconscionability notwithstanding her finding that s. 5(6) did
+not [page16 ]apply. The trial judge adopted counsel for the
+wife's submission that the correct approach is to fix an amount
+that is closest to the equalization payment in the particular
+circumstances of the case. This was in contrast to the approach
+advanced by the husband's counsel, who argued that the court
+
+2008 ONCA 388 (CanLII)
+
+by each spouse on the valuation date;
+(2) Apply s. 5(1) of the FLA and determine the equalization
+payment; and
+(3) Decide whether, in view of circumstances in s. 5(6), it
+would be unconscionable to equalize net family properties.
+See, also, Berdette v. Berdette (1991), 3 O.R. (3d) 513, [1991]
+O.J. No. 788 (C.A.). As the first two steps had been
+determined, the trial judge said that what remained was to
+decide whether unconscionability applied. She added, correctly,
+that the circumstances which are claimed to be unconscionable
+must come within at least one of the subsections of s. 5(6):
+Berdette v. Berdette, supra.
+
+In my respectful opinion, Mr. Epstein's submission [counsel
+for the wife] is more consistent with the Act. Instead of
+imposing one's own assessment of fairness, the court
+determines when unconscionability ends. In this way, the
+basic principle of equal division is only departed from to
+the extent necessary to avoid unconscionability. Many equal
+divisions may be unfair. But, unless unconscionable, these
+are operative.
+[45] Clearly influenced by the wife's compromise offer to
+accept approximately one half of the equalization payment to
+which the trial judge found she was entitled, at para. 275 the
+trial judge concluded:
+In my opinion, $5.3 million which is all that is requested,
+is not unconscionable. I base this conclusion on the fact
+that the shares did not decrease in value immediately. The
+husband could have protected himself by a disposition. He
+chose not to. Placing the entire loss on the wife would be
+unfair. Sharing it more or less equally results in a net
+family property of $5,000,000 plus the house or $5.3 million.
+IX
+[46] In assessing child support, the trial judge accepted Ms.
+Brent's calculation of $370,000 as the husband's annual income
+for 2005. Applying the Federal Child Support Guidelines, SOR/
+97-175, she ordered that he pay support for the two children
+in the monthly amount of $4,544. She further found, on the
+basis of Ms. Brent's calculations, that the husband was
+required to pay the wife $43,792 for retroactive child support.
+[47] In an addendum to her reasons for judgment, the trial
+judge dealt with spousal support and post-judgment interest. As
+she had imputed $370,000 as the husband's annual income for
+child support, she accepted the same amount for spousal
+support. She awarded $6,640 a month, and provided a formula for
+its reduction, and awarded retroactive spousal support of
+$163,340.
+[48] Without any discussion, the trial judge ordered that
+post-judgment interest accrued from the date of judgment on the
+entire equalization payment and the lump sum spousal support.
+X
+[49] I will now address the two main issues involved in the
+appeal, followed by the remaining issues. First, I will
+consider [page17 ]whether the trial judge erred in setting
+aside the marriage contract in accordance with s. 56(4) of the
+FLA. As for the second, the court was asked to articulate the
+proper approach to the unequal division of net family property
+
+2008 ONCA 388 (CanLII)
+
+should determine the variation based on principles of
+"fairness", approaching the matter from an equitable
+perspective. At para. 274, the trial judge said:
+
+[50] Section 56(4) of the FLA was designed to address and
+codify prior concerns maintained by courts that both parties
+fully understood their rights under the law when contracting
+with their spouses. [See Note 1 below] It has been characterized
+as the "judicial oversight" provision of marriage agreements:
+Hartshorne v. Hartshorne, [2004] 1 S.C.R. 550, [2004] S.C.J. No.
+20, at para. 14. The provision is of such significance that, in
+accordance with s. 56(7), it cannot be waived by the parties.
+[51] The analysis undertaken under s. 56(4) is essentially
+comprised of a two-part process: Demchuk v. Demchuk, [1986]
+O.J. No. 1500, 1 R.F.L. (3d) 176 (H.C.J.). First, the court
+must consider whether the party seeking to set aside the
+agreement can demonstrate that one or more of the circumstances
+set out within the provision have been engaged. Once that
+hurdle has been overcome, the court must then consider whether
+it is appropriate to exercise discretion in favour of setting
+aside the agreement. This approach was adopted and applied by
+the trial judge in this case.
+[52] As discussed, the issue of focus at trial was whether
+the husband had complied with his financial disclosure
+obligation under s. 56(4)(a). In Patrick v. Patrick, [2002]
+O.J. No. 639, 112 A.C.W.S. (3d) 302 (S.C.J.), the husband
+failed to disclose either the existence or value of his RRSPs
+prior to entering into a marriage contract. At trial, the
+husband argued that his failure to disclose was immaterial,
+since the RRSPs were not to be shared at any time, regardless
+of their value. Mesbur J. rejected this argument, noting at
+para. 53 that "[p]arties are, therefore, not even permitted to
+contract out of the obligation to disclose" and ordered that
+the contract be set aside for failure to make financial
+disclosure in accordance with s. 56(4)(a). In reachin g this
+[page18 ]conclusion, at para. 52 the trial judge emphasized
+the importance of ensuring that parties have a full
+understanding of their rights before entering into such
+contracts:
+Marriage contracts are a device by which parties can opt out
+of most or part of the Family Law Act, its property
+provisions, its support provisions, or both. Fundamental to a
+choice to opt out of the legislative scheme is a clear
+understanding of what one's rights and obligations might be
+if there were no marriage contract. It is in this context
+that financial disclosure is critical.
+
+2008 ONCA 388 (CanLII)
+
+under s. 5(6)(h) of the Act. As I will explain, in my view it
+is not appropriate to consider this question given that the
+trial judge found that s. 5(6) was not engaged. How the trial
+judge was able to make an unequal division in these
+circumstances is not entirely clear from her reasons. In any
+event, as I understand the husband's appeal, it is contended
+that the trial judge erred in the amount awarded to the wife on
+an unequal division of the parties' net family properties.
+
+. . . knowing assets and liabilities at the date of the
+agreement is fundamental to an eventual calculation of net
+family property. A party needs to know what asset base might
+potentially grow, in order to determine what he or she is
+being asked to give up in the agreement. Coupled with
+financial disclosure is the notion of understanding legal
+rights and obligations under the legislative scheme. This
+second notion carries with it the concept of independent
+legal advice. Thus, a party must know what assets and
+liabilities exist at the date of the contract, and must
+understand the general legislative scheme in order to know
+what he or she is giving up in the proposed agreement.
+[54] In this case, the disclosure provided by the husband was
+insufficient to enable the wife to have a clear understanding
+of exactly what rights she was giving up by entering into the
+contract. The husband failed to disclose that he held shares in
+Grannyco and RWL, which were found to be of significant value.
+He failed to provide any financial statements for Grannyco, RWL
+or the Family Trust. No income tax returns were provided for
+the husband and there was no disclosure whatsoever of his
+income. Overall, the information provided by the husband made
+it impossible to calculate or determine his net worth.
+[55] While he disclosed his interest in "significant assets"
+such as the LeVan Companies and the LeVan Family Trust, he
+failed to disclose values for these interests. At trial, the
+husband's interest in the Family Trust was valued at $3.4
+million at the date of marriage. The trial judge found that the
+husband's disclosure obligation required him to disclose the
+value of these significant assets.
+[56] On appeal, the husband argued that the trial judge erred
+in importing the word "value" into s. 56(4)(a), contrary to the
+plain wording of the section. He noted that the term "value" is
+used extensively throughout other parts of the statute. Thus,
+the legislature is presumed to have expressly excluded "value"
+from s. 56(4). In addition, the husband submitted that it would
+be onerous and expensive to require valuations for marriage
+contracts and would often result in parties making estimates of
+values, thereby creating a risk of misrepresentation, which in
+itself could be a basis to set aside the agreement. [page19 ]
+[57] The trial judge relied on the decision in Demchuk v.
+Demchuk, supra, in support of her conclusion that the
+disclosure obligation under s. 56(4)(a) encompasses an
+obligation to disclose the value of the assets. There is no
+case law that supports the husband's position that the positive
+obligation required by s. 56(4)(a) can be met by providing only
+a list of significant assets without some indication of value
+
+2008 ONCA 388 (CanLII)
+
+[53] This view is reinforced in Dubin v. Dubin, [2003] O.J.
+No. 547, 34 R.F.L. (5th) 227 (S.C.J.), at para. 32:
+
+[58] In the circumstances of this case, it is my view that
+the husband's failure to disclose value for his interests in
+the LeVan Companies and the Family Trust is not critical to the
+disclosure analysis. As the trial judge indicated in her
+findings, there is an abundance of evidence indicating that the
+husband had failed to comply with his disclosure obligation
+apart from his failure to disclose value for these assets. As
+discussed, this failure was compounded by the serious
+misrepresentations respecting the extent and value of certain
+of the assets disclosed.
+[59] In addition, the marriage contract itself was
+misleading. Ms. Bales incorporated the terms of the model
+marriage contract under the Voting Trust Agreement which
+stipulated the method of valuation of the LeVan company shares
+for the purpose of a property or support claim. As admitted by
+Ms. Bales, someone reading this agreement might believe that it
+contemplated a valuation of the shares in the LeVan family
+companies. These facts coupled with the wife's misunderstanding
+about the effect of the contract meant that the wife had no
+chance whatsoever of understanding what she was giving up when
+she signed the contract.
+[60] Based upon the trial judge's 12 findings of fact that I
+have outlined, she properly exercised her discretion to set
+aside the contract for failure to comply with s. 56(4)(a). In
+deciding how to exercise discretion, the trial judge considered
+the "fairness" of the contract. The appellant emphasizes that
+unfairness in a contract is not a proper basis for setting aside
+marriage contracts in Ontario. [See Note 2 below] Although there
+is nothing in the governing legislation [page20 ]that suggests
+that fairness is a consideration in deciding whether or not to
+set aside a marriage contract, I do not see why fairness is not
+an appropriate consideration in the exercise of the court's
+discretion in the second stage of the s. 56(4)(a) analysis. In
+my view, once a judge has found one of [the] statutory
+preconditions to exist, he or she should be entitled to consider
+the fairness of the contract together with other factors in the
+exercise of his or her discretion. It seems to me that a judge
+would be more inclined to set aside a clearly unfair contract
+than one that treated the parties fairly.
+[61] However, this was not the only reason the trial judge
+articulated in support of her decision to set aside the
+
+2008 ONCA 388 (CanLII)
+
+being attributed to them. Having said this, I note that the
+trial judge did not engage in a detailed statutory
+interpretation of the absence of the term "value" from the
+provision. As such, I see no reason to engage in such an
+analysis here. Moreover, the trial judge's findings o f fact
+which I have outlined in paras. 34 and 35 fully support her
+decision to set aside the marriage contract, essentially on the
+basis of the husband's reprehensible conduct leading to the
+signing of the marriage contract.
+
+[62] These findings are reasonably supported by the evidence
+presented at trial. I therefore see no reason to interfere with
+them in this case. In essence, the trial judge found that the
+husband failed to make full disclosure of his significant
+assets, that his disclosure was incomplete and inadequate and
+that his failure to make full disclosure was a deliberate
+attempt to mislead his wife. As such, the trial judge's
+decision to set aside the contract should be upheld.
+XI
+[63] Section 5(6) of the Family Law Act empowers the court to
+award a spouse an amount that is more or less than one-half the
+difference between their net family properties where the court
+is of the view that equalization would be unconscionable. The
+court's authority to order unequal division is severely
+restricted to those circumstances that are "unconscionable" and
+that fall within the specific circumstances set out in clauses
+(a) through (h) of s. 5(6).
+[64] In this case, the husband advanced the argument at trial
+that s. 5(6)(g) and (h) applied to support an unequal division
+of matrimonial property.
+[65] As noted, the trial judge concluded that s. 5(6)(g) was
+not applicable since the marriage contract had been set aside
+in its [page21 ]entirety. I agree with that view. Section 5(6)
+(g) was not designed to include a marriage contract that has
+been set aside by the court.
+[66] In finding that the significant decline in the value of
+the husband's shares after separation was not a circumstance
+warranting unequal division within the meaning of s. 5(6)(h),
+the trial judge stated the following at para. 267:
+The legislature chose a specific day for valuation. Increases
+and/or decreases after this day will frequently occur. Some
+of these will be large. The longer the delay between
+valuation day and the trial date, the more likely that
+fluctuations may occur. I recognize that the threshold of
+unconscionability is a high one, but had the legislature
+intended that post valuation date increases and decreases in
+value might form the basis of a s. 5(6) application, I think
+it likely, given the frequency of these events, that it would
+have included a provision to this effect.
+
+2008 ONCA 388 (CanLII)
+
+contract. As I have stated, in exercising her discretion, the
+trial judge also made the following findings: (i) the husband
+had interfered the wife's lawyer of choice; (ii) the wife's
+lawyers were unable to appreciate the consequences of the
+contract and impart them to the wife due to lack of financial
+disclosure and misrepresentations; (iii) the wife had not
+received effective independent legal advice and some advice
+provided was wrong; and (iv) the wife did not understand the
+nature or consequences of the contract she signed.
+
+[68] The framework established by the legislation introduces
+a debtor-creditor regime that focuses on the sharing of the net
+value of the property acquired during marital cohabitation. See
+Berdette v. Berdette, supra. The debt crystallizes and becomes
+owing on the date of separation. Thereafter, financial
+increases or decreases experienced by the debtor are of no
+concern to the creditor, unless the debtor files for
+bankruptcy. [See Note 3 below]
+[69] The rationale behind the trial judge's finding in this
+case finds support in the decision of Warne v. Warne (1992), 8
+O.R. (3d) 571, [1992] O.J. No. 591 (Gen. Div.), in which Walsh
+J. stated [at para. 26]: [page22 ]
+Given the carefully crafted complex property scheme
+propounded in Part I of the Act, dependant as it is on events
+prior to separation, it is difficult to conceive that the
+legislature, without so specifically providing, intended one
+subsection thereof, s. 5(6)(h) to entirely change this scheme
+and permit consideration of post-separation events.
+[70] This view has since been adopted in a number of cases.
+In Kelly v. Kelly, [1986] O.J. No. 296, 50 R.F.L. (2d) 360
+(H.C.J.), the court held that a decline in the value of
+farmlands post-separation was not a circumstance that warranted
+unequal division. The court noted that "other circumstances"
+within the meaning of s. 5(6)(h) were circumstances relating to
+pre-valuation date circumstances. This view was also adopted in
+Arndt v. Arndt (1991), 6 O.R. (3d) 97, [1991] O.J. No. 1856
+(Gen. Div.), Skrlj v. Skrlj, [1986] O.J. No. 404, 2 R.F.L.
+(3d) 305 (H.C.J.), and Heon v. Heon (1989), 69 O.R. (2d)
+758, [1989] O.J. No. 1457 (H.C.J.).
+[71] In Arndt, Conant J. stated at p. 103 O.R.:
+I am mindful and have considered s. 5(6) of the Family Law
+Act, 1986 as to unequal payment. Although the market has
+considerably declined since the valuation date, a declining
+market is not one of the factors set out in s. 5(6) and I am
+not empowered to vary the equalization payment on that basis.
+In Kelly v. Kelly (1986), 50 R.F.L. (2d) 360 (Ont. H.C.J.),
+
+2008 ONCA 388 (CanLII)
+
+[67] In assessing this issue, it is important to note that
+Ontario's FLA does not give rise to a proprietary entitlement,
+nor does it provide either spouse with an interest in the
+assets accumulated during the marriage. Instead, the FLA
+provides for an equalization payment on the date of separation.
+A sum of money must be assessed as a substitute for the
+property that the spouse would have had at the end of the
+marriage. As a result, the spouse with the lower net family
+property becomes an unsecured creditor of the spouse with the
+higher net family property in the amount of the equalization
+payment.
+
+. . . even if I had decided that it was unconscionable, I
+seriously doubt that s. 5(6) has any application because
+valuation is determined as of the date of separation and
+"debts or other liabilities" mentioned in para. (f) and
+"other circumstances" mentioned in para. (h) refer to
+debts or other liabilities and other circumstances in
+existence prior to, or as of, the date of separation. There
+are no transitional provisions in the Family Law Act which
+would apply in these circumstances.
+Accordingly, there will be no adjustment for declining
+prices of real estate under that section.
+[72] An appeal to this court was dismissed: (1993), 15 O.R.
+(3d) 389, [1993] O.J. No. 2350 (C.A.). While both the
+majority and the dissenting reasons offer some support for the
+position of Conant J., in my view it cannot be said that the
+issue was decided by this court.
+[73] More recently, in Serra v. Serra, [2007] O.J. No. 446,
+36 R.F.L. (6th) 66 (S.C.J.), Herman J. refused to impose an
+unequal division under s. 5(6)(h) where the value of the
+husband's business had declined significantly after separation.
+The trial judge noted the following at paras. 134 and 135:
+Turning to the language of s. 5(6)(h) itself, a marketdriven decline in value does not appear to come within the
+"acquisition, disposition, preservation, maintenance or
+improvement" of a property. This is to be contrasted [page23
+]to a situation in which the conduct of a spouse had an
+impact on the value of the property.
+I conclude that the circumstances in which a court may
+order an unequal division of net family property under s.
+5(6) do not include a market-driven decline in the value of
+the property.
+[74] However, the courts have not fully rejected the
+possibility of considering post-separation circumstances under
+s. 5(6). On some occasions, courts have interpreted s. 5(6) as
+permitting the adjustment of the equalization payment in light
+of all circumstances existing at the time the case is decided.
+See the brief endorsement in Merklinger v. Merklinger (1996),
+30 O.R. (3d) 575, [1996] O.J. No. 4080, 26 R.F.L. (4th) 7
+(C.A.). Such approach clearly suggests that the court may
+account for post-valuation date events in considering the
+application of s. 5(6). This approach was also adopted in the
+
+2008 ONCA 388 (CanLII)
+
+Potts J. was of the view that s. 5(6) refers to circumstances
+in existence prior to, or as of the date of separation. He
+seriously doubted that, even if a decrease in the value of
+property after separation created an unconscionable result,
+one could vary the equalization payment under s. 5(6). At p.
+366, he stated the following:
+
+[75] Thus, there does seem to be room within s. 5(6) to
+consider post-separation circumstances in limited situations,
+such as where the conduct of one spouse post-separation has
+resulted in a significant depletion of assets. Nevertheless, the
+cases that have considered post valuation date fluctuations in a
+spouse's net family property are uniform that this factor does
+not come within the stipulated grounds in s. 5(6). [See Note 4
+below] However, in the context of this case, for the reasons
+that follow, I am of the view that it is not appropriate in this
+case to consider the decrease in the value of the husband's
+assets subsequent to the valuation date.
+[76] First, it is as a result of the husband's
+misrepresentations and his own conduct in failing to provide
+proper financial disclosure that has put him into the situation
+of having his property and the value of the shares subject to
+the equalization provisions of the FLA. [page24 ]
+[77] Second, as determined by the trial judge, the husband
+could have disposed of his shares to hedge against the setting
+aside of the contract, but he chose not to do so. In making
+this determination, the trial judge considered the evidence of
+the legal experts, Tim Youdan and Michael Disney of Davies,
+Philips, Vineberg, who produced a report that provided that the
+husband had no ability to directly sell the Wescast shares. At
+para. 243, the trial judge makes the following finding in this
+regard:
+I accept [the evidence of Ms. Brent] that "prohibited
+transfer" in the Youdan report does not mean that a sale of
+the husband's shares cannot occur. Rather, it is a defined
+term that triggers the right of first refusal by the siblings
+and then a conversion of the shares into Class A shares.
+[78] The trial judge also accepted the evidence of Ms. Brent
+that the husband had the right to redeem his preference shares
+in RyVan at any time, and that the right of first refusal by
+his family created a market and some liquidity. There was also
+evidence that Wescast shares could be sold through secondary
+offerings and through "bought deal" arrangements with
+institutional investors. In my view, it is not unconscionable
+to force the husband to bear the consequences of his choices in
+light of the trial judge's finding that "[t]he husband could
+
+2008 ONCA 388 (CanLII)
+
+following cases: Davies v. Davies, [1988] O.J. No. 458, 13
+R.F.L. (3d) 278 (H.C.J.); McCutcheon v. McCutcheon, [1986] O.J.
+No. 2509, 2 R.F.L. (3d) 327 (Dist. Ct.); Perrin v. Perrin,
+[1988] O.J. No. 1468, 17 R.F.L. (3d) 87 (Dist. Ct.); and
+Macedo v. Macedo, [1996] O.J. No. 435, 19 R.F.L. (4th) 65 (Gen.
+Div.). However, it is important to point out that in each of
+these cases, the court's decision to order an unequal division
+under s. 5(6) was related to the conduct of one of the spouses
+post-separation, or, in the case of Perrin, related to the
+medical condition of the wife post-separation.
+
+[79] Third, no one would suggest that any ordinary creditor
+share the burden of a debtor's reversal of fortune. For all
+other purposes, including bankruptcy, the wife is treated as an
+ordinary unsecured creditor. The application of this rule is
+consistent with the common law in relation to publicly traded
+shares. When there is a breach of contract and shares of a
+publicly traded company are involved, Lord Wrenbury's decision
+in Jamal v. Moolla Dawood, Sons & Co., [1916] 1 A.C. 175
+(J.C.P.C.) has been consistently applied. Lord Wrenbury says
+at p. 179, if the seller retains the shares after the breach,
+the speculation as to the way the market will subsequently turn
+is the speculation of the seller, not of the buyer; the seller
+cannot recover from the buyer the loss below the market price
+at the date of the breach if the market falls, nor is he liable
+to the purchaser for the profit if the market rises.
+[80] For these reasons, I would not interfere with the trial
+judge's finding that s. 5(6) is not engaged on the facts of
+this case.
+[81] The husband did not challenge the $5.3 million
+equalization payment on the ground that the trial judge
+exceeded her authority in ordering an unequal division of the
+net family properties once she found that none of the
+circumstances in s. 5(6) of the FLA were engaged. It is to be
+recalled that after reaching this conclusion, she went on to
+consider what her view would have [page25 ]been if the decrease
+in value of the Wescast shares could have been the basis for a
+finding of unconscionability under s. 5(6). It would, however,
+appear that the trial judge would have found that an
+equalization payment of $10 million was unconscionable as it
+would leave the husband with substantially less in value than
+the wife. However, it is significant that the ultimate
+equalization payment of $5.3 million ordered by the trial judge
+was a result of the wife's compromise proposal to accept that
+amount as conveyed by her counsel during argument, being an
+amount that counsel and the trial judge felt was not
+unconscionable. I can find no reason other than the wife's
+compromise for the trial judge's award of an unequal division
+of the net family properties. This was the reason the trial
+judge awarded an unequal equalization payment, a result that
+clearly benefited the husband.
+[82] Whether the trial judge had authority under the FLA to
+make this award, which I doubt, was not raised by either party
+as a ground of appeal. Rather, the husband challenged the $5.3
+million payment on the ground that he could not afford to pay
+this amount. However, having found that s. 5(6) was not
+engaged, the trial judge could not have been criticized had she
+awarded the wife an equalization payment of $10 mi llion on the
+basis of Ms. Brent's calculations. As I have indicated, the
+husband received a substantial benefit when the trial judge
+
+2008 ONCA 388 (CanLII)
+
+have protected himself by a disposition".
+
+[83] Counsel for the parties presented substantial trial
+submissions on the proper approach to an unequal division to
+net family properties when s. 5(6) is engaged. As I have
+indicated, as s. 5(6) was not engaged, it would not be
+appropriate to deal with this issue.
+[84] Therefore, I would not vary the equalization payment of
+$5.3 million.
+XII
+[85] The remaining grounds of appeal allege error on the part
+of the trial judge in awarding child and spousal support based
+on the husband's income of $370,000 for the year 2005, and in
+awarding post-judgment interest on the equalization payment of
+$5.3 million and on the retroactive support of $163,340 payable
+to the wife.
+[86] In my view, the trial judge did not err in awarding
+child support and spousal support on what was an essentially
+imputed annual income of the husband for 2005 of $370,000 as
+determined by the wife's valuator, Ms. Brent. In Hickey v.
+Hickey, [1999] 2 S.C.R. 518, [1999] S.C.J. No. 9, at paras.
+10-12, the Supreme Court held that appeal courts should not
+overturn support orders unless the trial judge's reasons
+disclose an error in principle, a [page26 ]significant
+misapprehension of the evidence or that the award is clearly
+wrong. In my view, the husband failed to demonstrate any of
+these factors.
+[87] The husband did not produce an income report, nor did
+his counsel cross-examine Ms. Brent on her income report. The
+trial judge was entitled to accept Ms. Brent's calculation. I
+would not interfere with the trial judge's awards of child and
+spousal support based on an imputed 2005 income of $370,000.
+[88] As for the wife's entitlement to post-judgment interest,
+the trial judge ordered that the equalization payment and the
+retroactive spousal support payment be paid over a period of
+about two years. She did so not on the basis that the husband
+lacked the present ability to pay, but on the basis of the
+wife's concession and because it was a reasonable period of
+time for the husband to liquidate his stocks. Where
+equalization payments are payable over a period of years, the
+courts award post-judgment interest as a matter of course. In
+Koiter v. Koiter, [1996] O.J. No. 4490, 67 A.C.W.S. (3d) 1152
+(Gen. Div.), at para. 22, the court noted that "it should be
+the rule, rather than the exception" that an equalization
+payment attracts interest. To do otherwise would effectively
+alter the amount of the equalization payment found owing in the
+first place, due to the time value of money. Therefore, I would
+not give effect to this ground of appeal.
+XIII
+
+2008 ONCA 388 (CanLII)
+
+reduced the equalization payment to $5.3 million.
+
+Appeal dismissed.
+Notes
+---------------Note 1: H. Stark and K. MacLise, Domestic Contracts: A
+Comprehensive Guide to Marriage Cohabitation and Seperation
+Agreements in British Coloumbia and Ontario, 2nd ed. (Toronto:
+Thomson Carswell, 2006), at p. 1-52.
+Note 2: This is in contrast with the approach in British
+Columbia, where the primary policy objective guiding the courts'
+role in division of assets on marital breakdown is fairness:
+Hartshorne v. Hartshorne, supra, at para. 8.
+Note 3: This is in contrast to the approach in some other
+provinces such as Nova Scotia which, under the Matrimon ial
+Property Act, R.S.N.S. 1989, c. 275, provides the spouses with
+an equal right to share in the assets accumulated during
+marriage. Under this approach, it might make more sense for the
+court to account for post-separation decreases in the value of
+the property since the legislation provides a spouse with the
+right to a share of the actual asset.
+Note 4: There are provinces where family law legislation
+expressly permits the court to consider this factor in
+equalization of the parties' property. See, e.g., Family Law
+Act, R.S.P.E.I. 1988, c. F-2.1, s. 6(6).
+---------------@1<QLDATE C=20080716 U=20090605>
+@H
+<QLNI ID="CA00000005593621" REVLVL="00002" ODATE="20080716"/>
+
+2008 ONCA 388 (CanLII)
+
+[89] For all of the above reasons, I would dismiss the appeal
+with costs. Counsel for the respondent has ten days from the
+release of these reasons to make brief submissions in respect
+to costs. Counsel for the appellant will have seven days to
+reply.
+
+
