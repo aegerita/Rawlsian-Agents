@@ -19,15 +19,21 @@ The project focuses on simulating negotiations between AI agents, incorporating 
     ```bash
     cd FairPlay
     ```
-3. Install the necessary dependencies:
+3. Create a virtual environment (Optional):
     ```bash
-    pip install -r requirements.txt
+    python -m venv venv
+    source venv/bin/activate
     ```
+4. Install the necessary dependencies:
+    ```bash
+    poetry install
+    ```
+5. Create a `.env` file in the root directory based on the `.env.example` file.
 
 ## Usage
 Run the simulation by executing the simulation scripts. For example:
 ```bash
-python simulations/basic.py
+python ./src/FairPlay/main.py 
 ```
 This will initialize the AI agents and begin the negotiation simulation. 
 
