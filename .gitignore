@@ -3,5 +3,6 @@ venv/
 .vscode/
 .cache/
 __pycache__/
+.python-version
 
 .DS_Store
