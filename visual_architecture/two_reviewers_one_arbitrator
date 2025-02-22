@@ -1,0 +1,9 @@
+digraph "Two Reviewers, One Arbitrator" {
+	A [label="Reviewer A"]
+	B [label="Reviewer B"]
+	C [label="Claims Aggregation Step"]
+	D [label=Arbitrator]
+	A -> C
+	B -> C
+	C -> D
+}
