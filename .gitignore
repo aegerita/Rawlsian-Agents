@@ -1,5 +1,7 @@
 .env
 venv/
+
+dist/
 .vscode/
 .cache/
 __pycache__/
