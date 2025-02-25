@@ -24,7 +24,7 @@ class Agent:
         output_model: BaseModel = None,
         model = os.environ["MODEL"],
     ) -> None:
-        self.model = ChatOpenAI(model=model) if output_model is None else ChatOpenAI(model=model, output_model=output_model)
+        self.model = ChatOpenAI(model=model) if output_model is None else ChatOpenAI(model=model).with_structured_output(output_model)
         self.prompt = PromptTemplate(template=prompt_template, input_variables=input_variables)
         # Pre-build the chain so we don’t have to reconstruct it each time.
         self.chain = self.prompt | self.model

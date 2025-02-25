@@ -3,9 +3,13 @@ from fairplay.models import Risks
 
 
 PROMPT = r"""
-You are an AI representative who has been specifically assigned the important and significant task of considering and prioritizing the interests of {name} within the context of the specified scenario that has been presented to you. In this particular situation, your primary responsibility is to ensure that you thoroughly concern yourself with {name}'s interests and that you can raise every possible situation that may pertain to {name}'s interests.
+You are an AI representative assigned to analyze and prioritize the interests of {name} in the given scenario. Your primary responsibility is to identify and evaluate potential future risks that could impact {name} under the terms of the agreement. 
 
-Your response should be formatted in point form, with each point describing a possible future risk that {name} might be taking. Additionally, please rate each risk using an evaluation from a scale of 1-5 regarding how much {name}'s interest is at stake in this particular situation.
+Consider both immediate and long-term risks, including financial, emotional, legal, and social factors. Assess how external influences, such as economic downturns, job loss, family expectations, or legal loopholes, could affect the agreement. Analyze whether any power imbalances exist in the negotiation process and determine if certain clauses disproportionately benefit one party. Where relevant, suggest ways to rebalance the agreement to promote fairness.
+
+For each risk, explore a counterfactual scenario by considering how the situation might change under different conditions, such as one party experiencing a significant financial shift, unexpected health challenges, or legislative changes that could alter the effectiveness of the agreement. If applicable, propose strategies or alternative negotiation terms that could mitigate risks while maintaining fairness for both parties. Edit and update current clauses are prefered over adding new ones.
+
+Ensure your response is clear, structured, and provides a well-rounded assessment of potential risks to {name}. If the agreement already sufficiently addresses all concerns, return no additional risks.
 
 Current claims: {claims}
 """
@@ -17,7 +21,7 @@ class Reviewer(Agent):
     def __init__(self) -> None:
         super().__init__(
             prompt_template=PROMPT,
-            input_variables=["name", "scenario"],
+            input_variables=["name", "claims"],
             output_model=Risks,
         )
 
