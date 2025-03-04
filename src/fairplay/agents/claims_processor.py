@@ -1,16 +1,9 @@
-import os
-from typing import List, Any
-
-from dotenv import load_dotenv
-from langchain_core.prompts import PromptTemplate
-from langchain_core.output_parsers.transform import BaseTransformOutputParser
+from typing import List
 from langchain.output_parsers import MarkdownListOutputParser
-from pydantic import BaseModel, Field
 
 
 from fairplay.agents.base_agent import Agent
 
-load_dotenv()
 
 CLAIMS_PROCESSOR_PROMPT = r"""
 You are a legal clerk that will receive free text detailing material conditions, concerns and objectives from a client.
@@ -48,22 +41,14 @@ Free text:
 
 """
 
-class ClaimsProcessor(BaseModel, Agent):
-    free_text: str = Field(default="", description="free text with relevant claims in it. This is the input to the processor")
-    claims: List[str] = Field(default_factory=list, description="list of claims in the free text. This is populated by the processor")
-    model: str = Field(default=os.environ["MODEL"], description="Name of the model to be used.") 
-    prompt: PromptTemplate = Field(default=None, description="Template string for the prompt.")
-    output_parser: BaseTransformOutputParser = Field(default=MarkdownListOutputParser(), description="Output parser to be used for parsing the model output.")
-    chain: Any = Field(default=None, description="Chain of prompt, model and output parser")
+class ClaimsProcessor(Agent):
+    free_text: str      # free text with relevant claims in it. This is the input to the processor
     
-    def __init__(self, **data) -> None:
-        BaseModel.__init__(self, **data)
-        Agent.__init__(
-            self,
+    def __init__(self) -> None:
+        super().__init__(
             prompt_template=CLAIMS_PROCESSOR_PROMPT,
             input_variables=["free_text"],
-            output_parser=self.output_parser,
-            model=self.model,
+            output_parser=MarkdownListOutputParser(),
         )
         
 
@@ -71,4 +56,4 @@ class ClaimsProcessor(BaseModel, Agent):
         self.free_text = free_text
 
     def process_claims(self) -> List[str]:
-        self.claims = self.generate_output(free_text = self.free_text)
+        return self.generate_output(free_text = self.free_text)

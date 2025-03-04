@@ -1,5 +1,5 @@
 # %%
-from fairplay.claims_processor import ClaimsProcessor
+from fairplay.agents.claims_processor import ClaimsProcessor
 
 cp = ClaimsProcessor()
 
@@ -14,12 +14,12 @@ to be able to make sure that the share account is invested
 with care so that your saving grows. In the event of your 
 parents pass away, you do not want to share their inheritance 
 with your partner. You have to make sure all of your concerns 
-are addressed before you say that."""
+are addressed."""
 
 cp.load_free_text(free_text)
 
 # %%
-cp.process_claims()
+claims = cp.process_claims()
 
 # %%
-print(cp.claims)
+print(claims)
