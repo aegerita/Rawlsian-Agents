@@ -35,7 +35,7 @@ print(final_agreement)
 
 # %%
 
-with open("../docs/LeVan vs LeVan final agreement.md", 'w') as file:
+with open("src/docs/LeVan vs LeVan final agreement.md", 'w') as file:
     file.write(final_agreement)
 
 # %%

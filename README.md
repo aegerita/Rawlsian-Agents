@@ -28,7 +28,7 @@ The project focuses on simulating negotiations between AI agents, incorporating 
 ## Usage
 Run the simulation by executing the simulation scripts. For example:
 ```bash
-python ./src/FairPlay/main.py 
+python ./src/fairplay/main.py 
 ```
 This will initialize the AI agents and begin the negotiation simulation. 
 
