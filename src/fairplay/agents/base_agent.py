@@ -29,6 +29,7 @@ class Agent:
     ) -> None:
         partial_variables = {}
         if output_parser is not None:
+            self.output_parser = output_parser
             format_instructions = output_parser.get_format_instructions()
             partial_variables = {"format_instructions": format_instructions}
         self.model = ChatOpenAI(model=model) if output_model is None else ChatOpenAI(model=model).with_structured_output(output_model)

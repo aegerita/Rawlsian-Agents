@@ -41,15 +41,14 @@ Free text:
 
 """
 
-class ClaimsProcessor(Agent):
-    free_text: str      # free text with relevant claims in it. This is the input to the processor
-    
+class ClaimsProcessor(Agent):  
     def __init__(self) -> None:
         super().__init__(
             prompt_template=CLAIMS_PROCESSOR_PROMPT,
             input_variables=["free_text"],
             output_parser=MarkdownListOutputParser(),
         )
+        self.free_text = ""
         
 
     def load_free_text(self, free_text: str):
