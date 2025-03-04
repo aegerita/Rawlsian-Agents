@@ -1,0 +1,74 @@
+import os
+from typing import List, Any
+
+from dotenv import load_dotenv
+from langchain_core.prompts import PromptTemplate
+from langchain_core.output_parsers.transform import BaseTransformOutputParser
+from langchain.output_parsers import MarkdownListOutputParser
+from pydantic import BaseModel, Field
+
+
+from fairplay.agents.base_agent import Agent
+
+load_dotenv()
+
+CLAIMS_PROCESSOR_PROMPT = r"""
+You are a legal clerk that will receive free text detailing material conditions, concerns and objectives from a client.
+Your task is to identify and extract relevant, specific and actionable claims from the text and format them in a factual,
+depersonalized bullet list. Focus on claims that provide clear, concrete information about the client's assets, liabilities,
+and specific desires for the agreement. Avoid including general statements or broad concerns that lack specificity.
+
+EXAMPLE:
+
+Free text:
+You are Person A who tries to negotiate a prenuptial agreement 
+with your partner. You want to make sure that you are satisfied
+with the agreement. You have a yearly income of $100,000 and 
+you own a house that is worth $500,000. You have a savings 
+account with $50,000. You want to make sure that you keep your 
+house and your savings account in case of a divorce. You want 
+to be able to make sure that the share account is invested 
+with care so that your saving grows. In the event of your 
+parents pass away, you do not want to share their inheritance 
+with your partner. You have to make sure all of your concerns 
+are addressed before you say that.
+
+Extracted claims:
+
+- Person A has a yearly income of $100,000.
+- Person A owns a house worth $500,000 and wants to keep it in case of a divorce.
+- Person A has a savings account with $50,000 and wants to keep it in case of a divorce.
+- Person A wants to ensure that the shared account is invested carefully to grow their savings.
+- In the event of Person A's parents' passing, Person A does not want to share their inheritance with their partner.
+
+Solve the task using only the information below:
+
+Free text:
+{free_text}
+
+"""
+
+class ClaimsProcessor(BaseModel, Agent):
+    free_text: str = Field(default="", description="free text with relevant claims in it. This is the input to the processor")
+    claims: List[str] = Field(default_factory=list, description="list of claims in the free text. This is populated by the processor")
+    model: str = Field(default=os.environ["MODEL"], description="Name of the model to be used.") 
+    prompt: PromptTemplate = Field(default=None, description="Template string for the prompt.")
+    output_parser: BaseTransformOutputParser = Field(default=MarkdownListOutputParser(), description="Output parser to be used for parsing the model output.")
+    chain: Any = Field(default=None, description="Chain of prompt, model and output parser")
+    
+    def __init__(self, **data) -> None:
+        BaseModel.__init__(self, **data)
+        Agent.__init__(
+            self,
+            prompt_template=CLAIMS_PROCESSOR_PROMPT,
+            input_variables=["free_text"],
+            output_parser=self.output_parser,
+            model=self.model,
+        )
+        
+
+    def load_free_text(self, free_text: str):
+        self.free_text = free_text
+
+    def process_claims(self) -> List[str]:
+        self.claims = self.generate_output(free_text = self.free_text)
