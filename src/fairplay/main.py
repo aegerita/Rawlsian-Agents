@@ -3,8 +3,11 @@ from fairplay.agents.arbitrator import Arbitrator
 from fairplay.agents.drafter import Drafter
 from fairplay.agents.reviewer import Reviewer
 
+folder_path = "../docs/LeVan vs LeVan/"
+input_file = "initial_agreement.md"
+output_file = "final_agreement.md"
 
-with open("src/docs/LeVan vs LeVan initial agreement.md", 'r') as file:
+with open(folder_path + input_file, "r") as file:
     case_file = file.read()
 
 #%%
@@ -35,7 +38,7 @@ print(final_agreement)
 
 # %%
 
-with open("src/docs/LeVan vs LeVan final agreement.md", 'w') as file:
+with open(folder_path + output_file, 'w') as file:
     file.write(final_agreement)
 
 # %%

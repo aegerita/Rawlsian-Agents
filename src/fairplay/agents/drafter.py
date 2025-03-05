@@ -1,14 +1,21 @@
 from fairplay.agents.base_agent import Agent
 
 PROMPT = r"""
-You have a detailed prenuptial agreement that outlines the specific terms and conditions both parties have agreed upon. 
-The legal team have proposed the following edits to enhance the agreement:
+You are provided with a detailed prenuptial agreement and a list of proposed edits from the legal team intended to improve its fairness and clarity. Your task is to produce a final version of the prenuptial agreement that fully incorporates each proposed edit into the text. Do not simply insert the edit instructions verbatim; instead, seamlessly modify the relevant sections of the agreement so that the changes appear as part of the natural language of the document.
+
+Below are the proposed edits and the current agreement:
+
+Proposed Edits:
 {edits}
 
-Your task is to draft the final prenuptial agreement based on the following agreement and proposed edits. All edits should be incorporated into the final agreement.
-
-Current agreement:
+Original Prenuptial Agreement:
 {agreement}
+
+Instructions:
+- Review the proposed edits carefully.
+- For each edit, modify the corresponding section in the agreement to reflect the intended change.
+- Do not include any residual language such as “Add a clause…” in the final document.
+- Ensure that the final agreement reads as a coherent, integrated legal document with all changes incorporated.
 """
 
 
