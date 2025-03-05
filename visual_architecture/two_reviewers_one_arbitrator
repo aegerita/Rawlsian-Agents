@@ -1,9 +1,11 @@
-digraph "Two Reviewers, One Arbitrator" {
+digraph "Two Reviewers, One Arbitrator, One Drafter" {
 	A [label="Reviewer A"]
 	B [label="Reviewer B"]
 	C [label="Claims Aggregation Step"]
 	D [label=Arbitrator]
+	E [label=Drafter]
 	A -> C
 	B -> C
 	C -> D
+	D -> E
 }
