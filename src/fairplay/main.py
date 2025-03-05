@@ -3,7 +3,7 @@ from fairplay.agents.arbitrator import Arbitrator
 from fairplay.agents.drafter import Drafter
 from fairplay.agents.reviewer import Reviewer
 
-folder_path = "../docs/LeVan vs LeVan/"
+folder_path = "src/docs/SC vs TC/"
 input_file = "initial_agreement.md"
 output_file = "final_agreement.md"
 
