@@ -6,7 +6,7 @@ from fairplay.agents.base_agent import Agent
 
 
 CLAIMS_PROCESSOR_PROMPT = r"""
-You are a legal clerk that will receive free text detailing material conditions, concerns and objectives from a client.
+You are a legal clerk who will receive free text detailing material conditions, concerns and objectives from a client.
 Your task is to identify and extract relevant, specific and actionable claims from the text and format them in a factual,
 depersonalized bullet list. Focus on claims that provide clear, concrete information about the client's assets, liabilities,
 and specific desires for the agreement. Avoid including general statements or broad concerns that lack specificity.
