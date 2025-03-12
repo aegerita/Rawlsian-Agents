@@ -1,9 +1,12 @@
 digraph "Two Reviewers, One Arbitrator, One Drafter" {
+	F [label="Initial Conditions" shape=rectangle]
 	A [label="Reviewer A"]
 	B [label="Reviewer B"]
-	C [label="Claims Aggregation Step"]
+	C [label="Claims Aggregation Step" shape=rectangle]
 	D [label=Arbitrator]
 	E [label=Drafter]
+	F -> A
+	F -> B
 	A -> C
 	B -> C
 	C -> D
