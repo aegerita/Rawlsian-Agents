@@ -1,14 +1,14 @@
+
 # FairPlay: Using Generative AI to Forge Fairer Societal Agreements
 
 ## Project Overview
-FairPlay is a capstone project that leverages generative AI to simulate bilateral negotiations with the aim of promoting fairness in societal agreements. Inspired by John Rawls' Theory of Justice, this project explores how AI can help identify and address biases in agreements, such as employment contracts, service agreements, and lease agreements.
+FairPlay is a capstone project that leverages generative AI to simulate bilateral negotiations with the aim of promoting fairness in societal agreements. Inspired by John Rawls' Theory of Justice, this project explores how AI can help identify and address biases in agreements, such as prenuptial agreements, employment contracts, service agreements, and lease agreements.
 
-The project focuses on simulating negotiations between AI agents, incorporating cognitive, emotional, and strategic elements to understand fairness dynamics. By implementing principles from Rawls' "veil of ignorance" and Pareto efficiency, FairPlay aims to create AI-driven tools that can guide real-world contract negotiations towards more equitable outcomes.
+The project focuses on simulating negotiations between AI agents, incorporating cognitive, emotional, and strategic elements to understand fairness dynamics. By implementing a full fledged Rawlsian framework, FairPlay aims to create AI-driven tools that can guide real-world contract negotiations towards more equitable outcomes.
 
 ## Methodology
 1. **Simulated Multi-agent Setting**: AI agents start negotiations behind a "digital veil of ignorance," unaware of the social status or preferences of the entities they represent.
-2. **Iterative Renegotiation**: Agents continually renegotiate agreements, evaluating terms until fairness is reached.
-3. **Agreement Analysis**: A system to assess biases and quantify the fairness of contracts based on initial and final terms.
+2. **Agreement Analysis**: A system to assess biases and quantify the fairness of contracts by comparative analysis between initial and final terms.
 
 ## Installation
 1. Clone the repository:
@@ -28,16 +28,17 @@ The project focuses on simulating negotiations between AI agents, incorporating 
 ## Usage
 Run the simulation by executing the simulation scripts. For example:
 ```bash
-python ./src/fairplay/main.py --folder_path 'src/docs/SC vs TC/'
+poetry env activate
+poetry run python ./src/fairplay/main.py --folder_path 'src/docs/SC vs TC/'
 ```
 This will initialize the AI agents and begin the negotiation simulation. 
 
 ## Results and Insights
-FairPlay generates reports that detail the negotiation process, the fairness of the outcomes, and key metrics. These reports will help in understanding the impact of different negotiation strategies and fairness principles.
+FairPlay generates reports that detail the negotiation process, and the fairness of the outcomes. These reports will help in understanding how FairPlay improves the fairness of contracts within a Rawlsian framework. 
 
 ## Future Development
 - **Integration of More Complex Contracts**: Expand the scope of contracts to include more real-world legal documents.
-- **Agent Emotion Modeling**: Enhance emotional modeling to better reflect human negotiation patterns. ### Why is this benefitial? ###
+- **Comparative Quantitative Assessment of Outputs**: Place a metric on how much the contract improved by being fed to FairPlay. 
 - **User Interface**: Build a user-friendly interface for non-technical users to interact with the simulation.
 
 ## License
