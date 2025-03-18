@@ -15,6 +15,9 @@ cp.load_free_text(free_text)
 claims = cp.process_claims()
 print(claims)
 
+with open("../src/docs/LeVan vs LeVan/recovered_claims.txt", "w") as file:
+    file.write(str(claims))
+
 # %%
 draft = bd.draft_agreement(PRENUP_TEMPLATE, claims, free_text)
 print(draft)
