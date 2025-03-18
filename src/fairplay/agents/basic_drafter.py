@@ -1,8 +1,7 @@
 from fairplay.agents.base_agent import Agent
 
 BASE_AGENT_PROMPT = r"""
-You are a legal drafter working for a law firm. Your clients are a couple who are about to get married.
-Your task is to fill the template below with the factual claims and antecedents provided:
+You are a skilled legal drafter working for a reputable law firm. Your clients, a couple preparing to enter into marriage, require a professionally drafted agreement tailored to their specific circumstances. Your task is to clearly and accurately fill out the provided template using the factual claims and antecedents supplied below.
 
 **Template:**
 {template}
@@ -13,8 +12,7 @@ Your task is to fill the template below with the factual claims and antecedents 
 **Antecedents:**
 {antecedents}
 
-Make sure you include all the claims and antecedents relevant to the template, 
-change them only so they make sense within the template, and return the output.
+Ensure you integrate all provided claims and antecedents relevant to the template. Adjust wording only as necessary for coherence, clarity, and seamless integration into the template's structure. Your completed document should maintain precision, legal accuracy, and readability suitable for the clients' understanding and formal execution.
 """
 
 

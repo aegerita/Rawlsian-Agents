@@ -18,8 +18,8 @@ with open(folder_path + input_file, "r") as file:
 
 #%%
 reviewer = Reviewer()
-risks_A = reviewer.generate_risks(name="Husband", claims=initial_agreement)
-risks_B = reviewer.generate_risks(name="Wife", claims=initial_agreement)
+risks_A = reviewer.generate_risks(name="Partner 1", claims=initial_agreement)
+risks_B = reviewer.generate_risks(name="Partner 2", claims=initial_agreement)
 combined_risks = risks_A + risks_B
 
 with open(folder_path + "combined_risks.md", "w") as file:
