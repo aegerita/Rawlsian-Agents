@@ -1,92 +1,144 @@
-# Prenuptial Agreement
+# Pre-nuptial Agreement
 
 The Parties/signatories to this Agreement are advised that signature of this document will have legal consequences. Where either Party is unsure or does not understand the legal obligations and responsibilities placed upon them under this Agreement, they are advised to seek legal advice before signing.
 
-## Introduction
-This Prenuptial Agreement ("Agreement") is made on this 4th day of April 2014, between **[SC]** and **[TC]**, collectively referred to as "the Parties," in contemplation of their upcoming marriage.
+## Pre-Nuptial Agreement
 
-## Recitals
-- **Purpose of the Agreement**: The Parties enter into this Agreement to establish their respective rights and obligations regarding property, assets, and support, including provisions for financial support, in the event of a dissolution of their marriage. Thus, this Agreement shall be legally binding upon them.
+for use in England and Wales
 
-- **Voluntary Execution**: The Parties acknowledge that they are entering into this Agreement fully aware of the rights and responsibilities that they may be acquiring or surrendering as a consequence of entering into this Agreement and that both have decided to enter into the Agreement on their own free will, without coercion or duress.
+This DEED is made on: _________________________
 
-- **Disclosure**: The Parties confirm that they have fully and frankly disclosed their assets, liabilities, and financial circumstances to each other prior to signing this Agreement. The Parties declare that they have each acquired all their separate property independently and without any contribution from the other.
+### 1. PARTIES
 
-- **Legal Advice**: The Parties have received independent legal advice regarding the terms and implications of this Agreement.
+A. Mr TC, aged 58, currently residing in north London, England  
+(hereafter the "First Party" or “Husband”)
 
-- **Children**: The Parties have acknowledged the existence of children from previous relationships or otherwise, as listed below:
-  - Children of [SC]: [List of Children]
-  - Children of [TC]: [List of Children]
-  - Children of both [SC] and [TC]: [List of Children]
+B. SC, aged 50, currently residing in north London, England  
+(hereafter the "Second Party" or “Wife”)
 
-- **Binding Nature**: The Parties intend that this Agreement shall be legally binding upon them and their heirs, receivers, trustees, and personal representatives.
+This DEED provides:
 
-## Article I - Separate Property
-- **Definition**: Separate Property shall include all property expected to remain separate, acquired before or during the marriage.
+### 2. BACKGROUND
 
-- **Ownership**: Each Party shall retain full ownership and control over their respective Separate Property, including the right to manage, dispose of, or otherwise deal with such property as they see fit. 
-  - The Wife shall retain full and exclusive ownership of **Property Y**, all investment properties held in joint names or in the name of **Property Co Ltd** and **Investment Property Co Ltd**, and any and all investment accounts, stocks, and securities held in her sole name.
-  - The Husband shall retain sole ownership of **Property X** as his primary residence and shall retain his pension entitlements and any retirement accounts held in his name.
-  
-- **Management Decisions**: Both Parties must mutually agree on any sale or significant management decisions regarding their respective Separate Properties, promoting transparency and fairness.
+A. This Agreement is made in contemplation of and is conditional upon the intended marriage of the First Party and the Second Party on ______________________ (the "Marriage").
 
-- **Consultation for Major Investments**: Both Parties agree to consult a joint financial advisor for any major investment decisions to ensure mutual understanding and agreement on significant financial actions.
+B. The First Party and the Second Party wish to enter into a binding agreement, recording their wishes and intentions regarding their finances and property in the event their Marriage breaks down and in the event of proceedings in the courts of England, Wales, or any other jurisdiction for the dissolution or annulment of the Marriage or for a decree of judicial separation or financial support of any kind or in relation to any of their property or assets.
 
-## Article II - Marital Property
-- **Definition**: Marital Property shall include any assets acquired jointly during the marriage that do not fall under Separate Property.
+C. Both Parties acknowledge:
 
-- **Division**: In the event of a dissolution of the marriage, Marital Property shall be divided between the Parties in a fair and equitable manner, based on a formula that explicitly considers both Parties' financial and non-financial contributions to the marriage.
+i) The Husband, Mr TC, ceased employment in June 2020 due to an increasingly debilitating neurological condition, Parkinson’s Disease, formally diagnosed in 2011 but affecting him since approximately 2003/2004.
 
-## Article III - Spousal Support
-- **Waiver**: The Wife shall have no obligation to provide spousal maintenance or financial support to the Husband beyond the division of assets specified in this Agreement. The Parties waive any rights to make further claims on each other's real estate, investments, pensions, or other financial assets beyond this Agreement.
+ii) The Wife, SC, has primarily been a homemaker in recent years, having previously pursued university education to Masters level and having worked with non-governmental organizations.
 
-- **Exception**: The Husband acknowledges that he has independent financial means and can manage his own future expenses, including medical and care-related costs.
+iii) In 1998, the Parties jointly purchased their family home (referred to herein as "Property X"), located in north London, and have owned the property for more than 20 years.
 
-- **Temporary Financial Support**: If the Husband's income drops below a specified threshold or he experiences other specified financial hardships, he may receive temporary financial support from the Wife for a defined period.
+iv) During their marriage, the Parties acquired multiple valuable residential and investment properties, largely titled jointly and managed jointly. These properties were principally funded by the Husband’s substantial earnings during their marriage.
 
-- **Re-evaluation of Support**: The spousal support obligations of each Party shall be subject to re-evaluation and modification based on significant changes in either Party's financial situation.
+D. At the time of signing the previous marital agreement in 2014, the Parties had total net assets valued at approximately "£5,824,000".
 
-## Article IV - Debts and Liabilities
-- **Separate Debts**: Any debts or liabilities incurred by either party before or during the marriage shall remain the responsibility of the party who incurred them.
+E. The Parties acknowledge and explicitly reference their previously made marital agreement of 2014, in which the Husband voluntarily agreed to terms significantly favorable to the Wife, such that he would receive only about "£1,177,000 (around 20% of total assets)", significantly less than an equal division would have produced had the matter gone to court at that stage.
 
-- **Joint Debts**: The Parties agree to share responsibility for medical expenses exceeding a specified threshold to protect the Husband from bearing the full burden of unforeseen health-related costs. The Wife's obligation towards the Husband's medical expenses shall be limited to a maximum amount of [insert specific amount], beyond which the Wife shall not be liable for any joint medical liabilities incurred by the Husband.
+F. The Husband's intentions, confirmed explicitly in writing to his solicitor in February 2014, were:  
+"Given my Parkinson's, it makes no sense for me to have any assets in the long term... In that case, the best outcome for SC and MC would be for SC to own all assets as sole owner."  
+He further explicitly stated that "my position is that SC should have the maximum possible share of the assets upon a breakdown of our marriage."
 
-## Article V - Amendments and Modifications
-- **Writing Requirement**: Any amendments or modifications to this Agreement must be in writing and signed by both Parties.
+G. It is recorded that the Husband has indicated he would accept terms significantly favorable to the Wife without contestation, despite receiving competent, independent legal advice to the contrary.
 
-- **Periodic Review**: The Parties agree to conduct periodic reviews of this Agreement every two years to adapt to any significant legal or legislative changes affecting prenuptial agreements and may also review asset values and financial arrangements in the event of substantial economic changes.
+H. Both Parties reconfirm their explicit understanding and agreement that in the event of a permanent breakdown of the marriage, their respective rights and obligations will be exclusively governed by this Agreement, irrespective of either Party’s age or health conditions, including any further deterioration of the Husband’s health. The Parties further agree that the terms of this Agreement will not be subject to review or variation, except as stated within this document to ensure fairness and equity in light of significant changes in circumstances.
 
-- **Effective Date**: Amendments or modifications shall become effective upon execution by both Parties.
+I. Both Parties affirm having received independent legal advice prior to executing this Agreement and are fully aware of the rights and responsibilities they may be acquiring or surrendering as a consequence of entering into this Agreement, and enter into this Agreement of their own free will.
 
-## Article VI - Death or Incapacity
-- **Survivorship Rights**: In the event of the death of either Party, the surviving Party shall be entitled to [Specify rights, if any].
+J. The following child is the child of both Mr TC and SC:  
+MC, currently aged 17 (nearly 18), presently enrolled at a private boarding school.
 
-- **Incapacity**: In the event of incapacity or disability of either Party, the other Party shall have the right to [Specify rights, if any].
+K. Both Parties are domiciled and habitually resident in England and Wales and intend this Agreement to bind their heirs, receivers, trustees, and personal representatives.
 
-## Article VII - Governing Law
-- **Jurisdiction**: This Agreement shall be governed by and construed in accordance with the laws of England and Wales.
+### 3. DATE OF EFFECT
 
-- **Residence**: The Parties are both domiciled and habitually reside in England and Wales.
+This Agreement shall come into effect upon the Parties celebrating a valid ceremony of Marriage on _____________________ or at any other later date, provided that if the Marriage is not celebrated within 12 months of the date of this Agreement, it shall be deemed discharged unless revived by supplemental agreement signed by both Parties.
 
-- **Dispute Resolution**: Any disputes arising from or related to this Agreement shall be resolved through mediation or, if necessary, through the courts of England and Wales.
+### 4. ASSETS
 
-## Article VIII - Entire Agreement
-This Agreement represents the entire understanding between the Parties regarding their rights and obligations in the event of a dissolution of their marriage and supersedes any prior agreements or understandings, whether oral or written.
+A. The Parties explicitly confirm their marital home is “Property X”, located in north London and jointly owned by the Parties.
 
-## Article IX - Non Disclosure
-The Parties agree not to disclose the terms, conditions nor any financial details supporting this Agreement to any third party, except as required by law.
+B. All assets titled individually by either Party prior to the Marriage shall remain in their respective absolute beneficial ownership throughout the Marriage and upon any subsequent dissolution unless otherwise expressly stipulated.
 
-## Article X - Severability of Clauses
-Where any accepted and recognised body of authority finds any clause, provision, undertaking, condition, obligation, term or any other stipulation within this Agreement to be unlawful, unconscionable or unenforceable to any such extent, such clause, provision, undertaking, condition, obligation, term or any other stipulation within this Agreement shall be severed from the remainder of the Agreement and all other remaining clauses, provisions, undertakings, conditions, obligations, terms and all and any other stipulations shall remain in effect and valid to their fullest extent as permitted by the law.
+C. Neither Party shall make a claim against individually titled assets of the other, whether acquired before or after the marriage, nor pursue claims arising from their marriage unless expressly stipulated herein.
 
-## Signature Block
-IN WITNESS WHEREOF, the Parties have executed this Agreement on the date first above written.
+D. Both Parties explicitly agree that all joint real property acquired during the marriage and currently held jointly—including specifically the family home Property X and all additional investment properties and residential assets jointly acquired—shall become the sole absolute property of the Wife (SC) following any dissolution of marriage, consistent with the explicit intentions and voluntary offers made by the Husband.
 
-__________________________
-[SC]
+E. Both Parties explicitly acknowledge that the Husband has voluntarily offered additional assets—specifically Property Z and all investment properties—to the Wife, notwithstanding that these additional assets were not actively sought by the Wife at the time of this Agreement.
 
-__________________________
-[TC]
+### 5. PROVISION ON DISSOLUTION
 
-__________________________
-Witness
+A. The Parties explicitly agree that upon dissolution, annulment, or permanent separation of longer than six months:
+
+i) All individually owned property shall remain the respective property of the individual owner;
+
+ii) All joint property, specifically including but not limited to Property X, Property Z, and all additional investment properties acquired or owned jointly during the marriage, shall be subject to a review for equitable distribution that considers both parties’ ongoing financial needs and contributions.
+
+iii) Both Parties agree to a spousal support provision that allows for temporary financial support for the Husband aligned with changes in his economic circumstances, to ensure fair access to resources post-dissolution, irrespective of the distribution of properties between parties.
+
+iv) Both Parties agree that, irrespective of the dissolution of marriage, they shall make financial provisions to ensure adequate support for their child’s educational expenses and future living costs, reviewing these provisions annually to reflect changes in both parties' financial situations.
+
+B. In the event of significant changes in employment status or income level for either Party, a review of the financial provisions may be requested by either Party to allow for temporary adjustments to financial claims or support, reflecting the current financial realities of both Parties.
+
+C. Both Parties explicitly acknowledge this Agreement represents their free, comprehensive, and final agreement regarding financial matters, intended explicitly not to be subject to any subsequent review or variation, with the exception of the provisions above regarding changes in circumstances.
+
+### 6. PROVISION ON DEATH
+
+A. In the event of the death of either Party, the provisions herein relating to assets shall remain binding and enforceable to the extent permissible by law.
+
+B. Personal chattels shall be distributed in accordance with will provisions executed individually and in conformity with this Agreement. 
+
+### 7. EXECUTION OF WILLS
+
+The Parties agree to execute wills reflecting provisions consistent with clauses 5 and 6 herein and further explicitly agree not to pursue claims under the Inheritance (Provision for Family and Dependants) Act 1975 or any similar legal statute.
+
+### 8. VARIATION OR AMENDMENT
+
+Notwithstanding any other clause of the template provided, both Parties explicitly record here their intention that this Agreement shall be subject to review and potential amendment in the event of substantial changes in health or financial circumstances affecting either Party, with the goal of ensuring fairness and equitable protection of interests for both Parties. 
+
+The Parties shall engage a neutral third-party mediator to review the terms of the Agreement annually to confirm ongoing fairness and mutual consent, particularly in light of any health developments or significant life changes for either Party. Furthermore, both Parties agree to review and confirm their understanding of the terms of this Agreement annually, and any changes in circumstances or concerns regarding comprehension can be addressed openly without fear of contestation, ensuring both Parties maintain informed consent throughout the marriage, regardless of changes in health or financial status.
+
+Both Parties agree to conduct joint evaluations of their emotional and relational dynamics every two years, allowing for mutual consent to renegotiate any terms of this Agreement reflective of changes in circumstances or relationship health. Additionally, in the event of substantial changes to the laws governing prenuptial agreements, both Parties shall have the right to seek legal recourse to either amend the terms of this Agreement or assert rights to challenge its enforceability based on the prevailing legal standards at that time.
+
+### 9. JURISDICTION
+
+This Agreement shall be governed exclusively by English law and subject to the exclusive jurisdiction of the courts of England and Wales.
+
+### 10. PUBLICATION
+
+Neither Party shall permit publication of this Agreement or related details in any public media.
+
+### 11. SEVERABILITY OF CLAUSES
+
+Any unenforceable clause shall be severed without affecting the validity and enforceability of remaining clauses.
+
+EXECUTED AS A DEED
+
+SIGNED AS A DEED by
+
+__________________________________  
+Signature of Mr TC (Husband)
+
+in the presence of
+
+__________________________________  
+Signature of Witness  
+__________________________________  
+Name (BLOCK CAPITALS)  
+Address: ____________________________________________
+
+SIGNED AS A DEED by
+
+__________________________________  
+Signature of SC (Wife)
+
+in the presence of
+
+__________________________________  
+Signature of Witness  
+__________________________________  
+Name (BLOCK CAPITALS)  
+Address: ____________________________________________
