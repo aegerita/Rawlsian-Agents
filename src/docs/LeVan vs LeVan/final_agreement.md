@@ -1,80 +1,124 @@
 # Prenuptial Agreement
 
-The Parties/signatories to this Agreement are advised that signature of this document will have legal consequences. Where either Party is unsure or does not understand the legal obligations and responsibilities placed upon them under this Agreement, they are advised to seek legal advice before signing.
+The Parties/signatories to this Agreement are advised that signing this document will have legal consequences. Where either Party is unsure or does not understand the legal obligations and responsibilities placed upon them under this Agreement, they are advised to seek legal advice before signing.
 
 ## Introduction
-This Prenuptial Agreement ("Agreement") is made on June 20, 1996, between Richard Bruce LeVan ("Husband") and Erika Margaret LeVan ("Wife"), collectively referred to as "the Parties," in contemplation of their upcoming marriage.
+
+This Prenuptial Agreement ("Agreement") is made on [Date] between [Husband's Name] ("the Husband") and [Wife's Name] ("the Wife"), collectively referred to herein as "the Parties," in contemplation of their upcoming marriage.
 
 ## Recitals
-- **Purpose of the Agreement**: The Parties enter into this Agreement to establish their respective rights and obligations regarding property, assets, and support in the event of a dissolution of their marriage. Thus, this Agreement shall be legally binding upon them.
 
-- **Voluntary Execution**: The Parties acknowledge that they are entering into this Agreement fully aware of the rights and responsibilities they may be acquiring or surrendering as a consequence of entering into this Agreement, and both have decided to enter into the Agreement of their own free will, without coercion or duress.
+- **Purpose of the Agreement**:  
+The Parties enter into this Agreement to establish their respective rights and obligations regarding property, assets, and support in the event of a dissolution of their marriage. Specifically, this Agreement is executed pursuant to existing family obligations set forth by the Husband's family, wherein family members desiring to retain ownership shares in Wescast Industries Inc. ("Wescast") are mandated to enter into such a marriage contract.  
 
-- **Disclosure**: The Parties confirm that they have fully and frankly disclosed their assets, liabilities, and financial circumstances to each other prior to signing this Agreement. The Parties declare that they have each acquired all their separate property independently and without any contribution from the other. Both Parties agree to provide a complete and detailed financial disclosure, including but not limited to assets, liabilities, and income, prior to signing this Agreement, to ensure informed consent and equitable decision-making.
+- **Voluntary Execution**:  
+The Wife acknowledges that prior to marriage, the Husband explicitly informed her that signing this Agreement was mandatory, without which the marriage would not proceed. The Husband further explicitly informed the Wife that the sole objective of this Agreement is to ensure that shares in Wescast remain exclusively within his family. The Wife, being fully apprised of this motivation, and after considering its implications, has voluntarily agreed to the execution of this Agreement. The Parties affirmatively declare that they are entering this Agreement fully informed and voluntarily, without duress or coercion.  
 
-- **Legal Advice**: The Parties affirm that they each had reasonable opportunities to seek independent legal advice, confirm their understanding of the Agreement, and were not subject to coercive circumstances or undue pressure during negotiation, with this affirmation being documented through sign-off by their respective legal counsels. Both Parties also agree to consult with independent financial advisors or mediators prior to executing this Agreement to ensure that they fully understand the implications and fairness of all terms discussed.
+- **Disclosure**:  
+The Parties acknowledge that the Husband has provided limited financial disclosure, explicitly represented in Schedule A as follows:  
+   - Husband’s stated net worth at the date of marriage is "$80,000 + LeVan Family Companies interest (the Trust)," the stated $80,000 comprising RRSPs, bank accounts, and an original house deposit.  
+   - Ownership of 100 common shares in RyVan Inc. explicitly declared.  
+   - The Husband specifically holds 25% common shares in three companies: RyVan Inc., Grannyco Investments Ltd., and RWL Investments Ltd.  
+   - The Husband maintains contingent beneficial interest in the LeVan Family Trust ("the Trust"), a trust with significant assets of which he is one of four sole beneficiaries, with this contingent interest having a "very minimal value" at the date of marriage as explicitly indicated by the Husband.  
+   - At the time of signing, the Husband has explicitly declared having no debts.  
 
-- **Children**: The Parties have acknowledged the existence of children from their marriage as follows:
-    - Children of Richard Bruce LeVan: 2 young children from the marriage.
-    - Children of Erika Margaret LeVan: None.
-    - Children of both Richard Bruce LeVan and Erika Margaret LeVan: 2 young children.
+The Husband explicitly declined to provide detailed disclosure of his full income or exact net worth beyond the above-stated Schedule A, declaring explicitly his desire to prevent the Wife from having details about his total income and complete asset valuation as a means to maintain control over their lifestyle during marriage. The Wife acknowledges and agrees explicitly to proceed without such detailed disclosure, accepting the limitations of the provided financial information. 
 
-- **Binding Nature**: The Parties intend that this Agreement shall be legally binding upon them and their heirs, receivers, trustees, and personal representatives.
+- **Legal Advice**:  
+The Parties confirm they have each received independent legal advice regarding the terms and implications of this Agreement and will provide signed documentation from an independent legal advisor affirming that they fully understand the implications of this Agreement and the consequences of waiving their rights under it, prior to execution.
+
+- **Children**:  
+The Parties acknowledge the existence of two young children resulting from their marriage:  
+- Children of both Husband and Wife: [Names of Children]  
+The Parties explicitly recognize these children for purposes of clarity in future obligations and agreements.
+
+- **Binding Nature**:  
+The Parties explicitly intend this Agreement to be fully binding upon themselves, their heirs, executors, trustees, successors, assigns, and personal representatives.
 
 ## Article I - Separate Property
-- **Definition**: Separate Property shall include all property each Party acquired before or during the marriage; any appreciation in the value of the Husband's business interests during the marriage shall be subject to joint valuation and fair division in the event of separation or divorce.
 
-- **Ownership**: Each Party shall retain full ownership and control over their respective Separate Property, including the right to manage, dispose of, or otherwise deal with such property as they see fit.
+- **Definition**:  
+Separate Property explicitly includes all assets listed in Schedule A and specifically encompasses all of the Husband's business interests, including but not limited to:  
+   - All shares, dividends, interests or assets associated with Wescast Industries Inc., RyVan Inc., Grannyco Investments Ltd., RWL Investments Ltd., and the LeVan Family Trust, and including any appreciation or income arising therefrom during the marriage.  
+
+- **Ownership**:  
+Each Party explicitly retains full ownership and control over their respective Separate Property, including the right to exclusively manage, dispose, or otherwise deal with such property as they see fit without claim by the other. Each Party also has the right to opt-out of specific provisions related to Separate Property, and such decisions shall not impact the validity of their marriage nor their entitlement to negotiate further on these matters.
 
 ## Article II - Marital Property
-- **Definition**: Marital Property shall include any property acquired by the Parties during the marriage that is not classified as Separate Property.
 
-- **Division**: In the event of a dissolution of the marriage, Marital Property shall be divided between the Parties in a fair and equitable manner, taking into account the contributions of each Party to the acquisition and maintenance of such property.
+- **Definition**:  
+Marital Property explicitly excludes all assets classified as Separate Property and shall refer only to property jointly acquired by the Parties during marriage, excepting those designated explicitly as Separate Property. Marital Property shall include any asset masterfully derived from joint endeavors, stipulating that contributions made by either Party—financially or otherwise—be recognized irrespective of title or registration, including joint incomes, business efforts, and other forms of collaborative investments.
+
+- **Division**:  
+Marital Property acquired by joint contributions shall, in the event of dissolution of the marriage, be divided between the Parties fairly and equitably, subject explicitly to each Party's contributions towards the acquisition, maintenance, and growth of such property. The Wife explicitly acknowledges relinquishment of any entitlement to claim the increased value of the Husband's Separate Property, including all enumerated business interests, during the marriage.
 
 ## Article III - Spousal Support
-- **Waiver**: The Wife hereby waives her right to claim spousal support; however, this waiver may be revisited and modified in the event of significant changes in financial circumstances, including unemployment, debilitating illness, or other unforeseen hardships. This waiver has been made with the understanding that the Husband's financial circumstances, including the value of his assets and income, have not been fully disclosed to the Wife.
 
-- **Exception**: Notwithstanding the waiver of spousal support, the Parties acknowledge that both may seek a review of this clause if a significant change in circumstances occurs, including a significant decline in health or disability of either Party, at which point both Parties agree to reassess the terms regarding spousal support based on the needs arising from such circumstances.
+- **Waiver**:  
+The Parties explicitly agree, as per the Husband’s explicit wishes clearly communicated prior to signing this Agreement, that in the event of marriage breakdown, the Husband does not wish to pay spousal support to the Wife. However, in the event of significant changes in circumstances, including but not limited to job loss, disability, or other unforeseen financial hardships, either Party may petition the court for reconsideration of the waiver of spousal support as outlined herein. 
+
+- **Exception**:  
+Both Parties agree to finalize child support calculations based on both Parties' incomes and assets at the time of any dissolution, ensuring that the welfare of the children remains a priority and is proportionate to each Party's financial ability. The Parties further agree that the right to claim spousal support shall be re-evaluated to ensure equitable support arrangements for both Parties in the event of significant life changes, such as health crises or prolonged job loss impacting either Party’s financial stability.
 
 ## Article IV - Debts and Liabilities
-- **Separate Debts**: Each Party shall be responsible for their own separate debts incurred before or during the marriage.
 
-- **Joint Debts**: Any debts jointly incurred by the Parties during the marriage shall be explicitly defined as debts incurred together for common purpose or benefit during the marriage. A detailed schedule outlining examples of what constitutes separate versus joint debts shall be attached, along with a provision requiring annual financial reviews to assess the status of joint liabilities.
+- **Separate Debts**:  
+The Parties expressly confirm the Husband's absence of debt at the time of signing. Each Party shall be solely responsible for debts incurred individually during the marriage without recourse to the other's Separate Property.
+
+- **Joint Debts**:  
+Any debts assumed jointly during the term of the marriage shall be the equal responsibility of both Parties in the absence of explicit agreement otherwise.
 
 ## Article V - Amendments and Modifications
-- **Writing Requirement**: Any amendments or modifications to this Agreement must be in writing and signed by both Parties.
 
-- **Effective Date**: Amendments or modifications shall become effective upon execution by both Parties.
+- **Writing Requirement**:  
+Any amendments or modifications to this Agreement must explicitly be in writing and signed by both Parties.
+
+- **Periodic Review and Mediation**:  
+The Parties agree to meet every [specified time period, e.g., two years] to review the terms of this Agreement and to mediate any changes to ensure that both Parties are adequately informed and consent to any amendments in light of evolving circumstances.
+
+- **Effective Date**:  
+Amendments or modifications shall explicitly become effective immediately upon mutual execution by both Parties.
 
 ## Article VI - Death or Incapacity
-- **Survivorship Rights**: In the event of the death of either Party, the surviving Party shall be entitled to all rights to the Separate Property as herein defined.
 
-- **Incapacity**: In the event of incapacity or disability of either Party, the other Party shall have the right to make decisions regarding the care and welfare of dependent children and shall be entitled to the rights provided in this Agreement regarding property.
+- **Survivorship Rights**:  
+In the event of death, no rights shall automatically vest to the surviving Party regarding Separate Property; such Separate Property shall explicitly pass according to testamentary instructions or prevailing estate laws, explicitly excluding any claim by the other Party unless otherwise separately documented.
+
+- **Incapacity**:  
+In the event either Party becomes incapacitated, the other Party's rights shall be according to applicable law or separate arrangements apart from this Agreement.
 
 ## Article VII - Governing Law
-- **Jurisdiction**: This Agreement shall be governed by and construed in accordance with the laws of Ontario.
 
-- **Residence**: The Parties are both domiciled and habitually reside in Listowel, Ontario.
+- **Jurisdiction**:  
+This Agreement shall be governed by and construed in accordance with the laws of [State/Province], or, in the event of relocation of either Party, the laws of the jurisdiction of the Party filing for divorce, recognizing and accommodating the potential application of relevant jurisdictional laws for enforcement of this Agreement.
 
-- **Dispute Resolution**: Any disputes arising from or related to this Agreement shall be resolved through mediation or, if necessary, through the courts of Ontario.
+- **Residence**:  
+The Parties explicitly certify that they both are domiciled and habitually reside in [State/Province].
+
+- **Dispute Resolution**:  
+Any disputes regarding this Agreement will first be subject to mediation; failing resolution, disputes shall be determined exclusively by the courts of [State/Province].
 
 ## Article VIII - Entire Agreement
-This Agreement represents the entire understanding between the Parties regarding their rights and obligations in the event of a dissolution of their marriage and supersedes any prior agreements or understandings, whether oral or written.
 
-## Article IX - Non-Disclosure
-The Parties agree not to disclose the terms, conditions, nor any financial details supporting this Agreement to any third party, except as required by law.
+This Agreement explicitly constitutes the Parties' full and complete understanding regarding their respective rights and obligations related to their marriage and supersedes any prior agreements or understandings, oral or written.
+
+## Article IX - Non Disclosure
+
+The Parties explicitly agree not to disclose the terms, conditions, nor any financial details underlying this Agreement to any third party except as mandated by law.
 
 ## Article X - Severability of Clauses
-Where any accepted and recognized body of authority finds any clause, provision, undertaking, condition, obligation, term, or any other stipulation within this Agreement to be unlawful, unconscionable, or unenforceable to any such extent, such clause, provision, undertaking, condition, obligation, term, or any other stipulation within this Agreement shall be severed from the remainder of the Agreement, and all other remaining clauses, provisions, undertakings, conditions, obligations, terms, and all and any other stipulations shall remain in effect and valid to their fullest extent as permitted by the law.
+
+Should a recognized authority declare any clause, provision, or term in this Agreement unenforceable, such provision shall explicitly be severed from the Agreement; the remaining clauses shall explicitly remain fully enforceable to their fullest legal extent.
 
 ## Signature Block
+
 IN WITNESS WHEREOF, the Parties have executed this Agreement on the date first above written.
 
-__________________________  
-Richard Bruce LeVan  
+__________________________      
+[Husband's Name]      
 
-__________________________  
-Erika Margaret LeVan  
+__________________________      
+[Wife's Name]      
 
-__________________________  
-Witness  
+__________________________      
+Witness
