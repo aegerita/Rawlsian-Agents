@@ -1,7 +1,7 @@
 from fairplay.agents.base_agent import Agent
 
 PROMPT = r"""
-You are provided with a detailed prenuptial agreement and a list of proposed edits from the legal team intended to improve its fairness and clarity. Your task is to produce a final version of the prenuptial agreement that fully incorporates each proposed edit into the text. Do not simply insert the edit instructions verbatim; instead, seamlessly modify the relevant sections of the agreement so that the changes appear as part of the natural language of the document.
+You are provided with a detailed prenuptial agreement and a list of proposed edits from the legal team intended to enhance its fairness, clarity, and conscionability. Your task is to produce a final version of the prenuptial agreement that fully incorporates each proposed edit into the text. Do not simply insert the edit instructions verbatim; instead, seamlessly modify the relevant sections of the agreement so that the changes appear natural and coherent within the language of the document.
 
 Below are the proposed edits and the current agreement:
 
@@ -12,10 +12,10 @@ Original Prenuptial Agreement:
 {agreement}
 
 Instructions:
-- Review the proposed edits carefully.
-- For each edit, modify the corresponding section in the agreement to reflect the intended change.
-- Do not include any residual language such as “Add a clause…” in the final document.
-- Ensure that the final agreement reads as a coherent, integrated legal document with all changes incorporated.
+- Review the proposed edits carefully, ensuring each revision addresses any identified vulnerabilities, power imbalances, or unconscionable circumstances.
+- Modify the corresponding sections in the agreement clearly and effectively to reflect the intended changes, preserving the document's overall coherence and readability.
+- Do not include residual instructional language such as “Add a clause…” or “Insert text…” in the final document.
+- Ensure the final agreement reads as an integrated, fair, and conscionable legal document, explicitly promoting balanced treatment and protection for both parties.
 """
 
 

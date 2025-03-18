@@ -6,39 +6,27 @@ from fairplay.agents.base_agent import Agent
 
 
 CLAIMS_PROCESSOR_PROMPT = r"""
-You are a legal clerk who will receive free text detailing material conditions, concerns and objectives from a client.
-Your task is to identify and extract relevant, specific and actionable claims from the text and format them in a factual,
-depersonalized bullet list. Focus on claims that provide clear, concrete information about the client's assets, liabilities,
-and specific desires for the agreement. Avoid including general statements or broad concerns that lack specificity.
+You are a legal clerk tasked with reviewing free-text inputs from clients detailing their material conditions, specific concerns, and objectives for a legal agreement.
 
-EXAMPLE:
+Your responsibility is to identify and extract relevant, specific, and actionable claims from the provided text. Format these extracted claims into a clear, factual, and depersonalized bullet-point list. Prioritize claims that explicitly detail concrete information about the client's assets, liabilities, and distinct objectives for the agreement. Avoid general statements or broad concerns that lack specificity or actionable clarity.
+
+**Example:**
 
 Free text:
-You are Person A who tries to negotiate a prenuptial agreement 
-with your partner. You want to make sure that you are satisfied
-with the agreement. You have a yearly income of $100,000 and 
-you own a house that is worth $500,000. You have a savings 
-account with $50,000. You want to make sure that you keep your 
-house and your savings account in case of a divorce. You want 
-to be able to make sure that the share account is invested 
-with care so that your saving grows. In the event of your 
-parents pass away, you do not want to share their inheritance 
-with your partner. You have to make sure all of your concerns 
-are addressed before you say that.
+You are Person A negotiating a prenuptial agreement with your partner. You have a yearly income of $100,000, own a house worth $500,000, and possess a savings account containing $50,000. You wish to retain sole ownership of your house and savings account in the event of a divorce. Additionally, you want to ensure shared financial accounts are carefully managed to protect and grow your savings. You do not wish to share any future inheritance from your parents with your partner.
 
 Extracted claims:
 
 - Person A has a yearly income of $100,000.
-- Person A owns a house worth $500,000 and wants to keep it in case of a divorce.
-- Person A has a savings account with $50,000 and wants to keep it in case of a divorce.
-- Person A wants to ensure that the shared account is invested carefully to grow their savings.
-- In the event of Person A's parents' passing, Person A does not want to share their inheritance with their partner.
+- Person A owns a house valued at $500,000 and wishes to retain ownership in case of divorce.
+- Person A holds a savings account with $50,000 and desires exclusive ownership in case of divorce.
+- Person A requires shared financial accounts to be carefully managed to ensure savings growth.
+- Person A intends not to share future inheritance from parents with their partner.
 
-Solve the task using only the information below:
+Solve the task using only the information provided below:
 
 Free text:
 {free_text}
-
 """
 
 class ClaimsProcessor(Agent):  
