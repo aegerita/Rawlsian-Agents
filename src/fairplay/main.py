@@ -13,7 +13,6 @@ parser.add_argument("-fp", "--folder_path", default="src/docs/LeVan vs LeVan/", 
 
 args = parser.parse_args()
 folder_path = args.folder_path
-TEMPLATE = PRENUP_TEMPLATE
 input_file = "initial_conditions_free_text.txt"
 output_file = "final_agreement.md"
 
@@ -32,7 +31,7 @@ with open(folder_path + "recovered_claims.txt", "w") as file:
 
 # %%
 basic_drafter = BasicDrafter()
-initial_agreement = basic_drafter.draft_agreement(TEMPLATE, claims)
+initial_agreement = basic_drafter.draft_agreement(PRENUP_TEMPLATE, claims)
 print(initial_agreement)
 
 with open(folder_path + "initial_agreement.md", 'w') as file:

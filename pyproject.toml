@@ -47,6 +47,9 @@ urllib3 = "2.2.3"
 graphviz = "^0.20.3"
 isort = "^6.0.1"
 ipykernel = "^6.29.5"
+evaluate = "^0.4.3"
+torch = "^2.6.0"
+bert-score = "^0.3.13"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
