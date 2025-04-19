@@ -1,4 +1,4 @@
-from fairplay.agents.base_agent import Agent
+from rawlsian_agents.agents.base_agent import Agent
 
 BASE_AGENT_PROMPT = r"""
 You are a skilled legal drafter working for a reputable law firm. Your clients, a couple preparing to enter into marriage, require a professionally drafted agreement tailored to their specific circumstances. Your task is to clearly and accurately fill out the provided template using the factual claims supplied below.

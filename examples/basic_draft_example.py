@@ -1,7 +1,7 @@
 # %%
-from fairplay.agents.basic_drafter import BasicDrafter
-from fairplay.agents.claims_processor import ClaimsProcessor
-from fairplay.utils.prenup_templates import ENGLAND_AND_WALES_PRENUP_TEMPLATE
+from rawlsian_agents.agents.basic_drafter import BasicDrafter
+from rawlsian_agents.agents.claims_processor import ClaimsProcessor
+from rawlsian_agents.utils.prenup_templates import ENGLAND_AND_WALES_PRENUP_TEMPLATE
 
 # %%
 bd = BasicDrafter()

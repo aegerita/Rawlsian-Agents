@@ -1,5 +1,5 @@
 # %%
-from fairplay.agents.claims_processor import ClaimsProcessor
+from rawlsian_agents.agents.claims_processor import ClaimsProcessor
 
 cp = ClaimsProcessor()
 
