@@ -1,10 +1,10 @@
 #%%
-from fairplay.agents.arbitrator import Arbitrator
-from fairplay.agents.basic_drafter import BasicDrafter
-from fairplay.agents.claims_processor import ClaimsProcessor
-from fairplay.agents.drafter import Drafter
-from fairplay.agents.reviewer import Reviewer
-from fairplay.utils.prenup_templates import PRENUP_TEMPLATE
+from rawlsian_agents.agents.arbitrator import Arbitrator
+from rawlsian_agents.agents.basic_drafter import BasicDrafter
+from rawlsian_agents.agents.claims_processor import ClaimsProcessor
+from rawlsian_agents.agents.drafter import Drafter
+from rawlsian_agents.agents.reviewer import Reviewer
+from rawlsian_agents.utils.prenup_templates import PRENUP_TEMPLATE
 from argparse import ArgumentParser
 
 #%%

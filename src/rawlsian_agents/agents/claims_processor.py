@@ -2,7 +2,7 @@ from typing import List
 from langchain.output_parsers import MarkdownListOutputParser
 
 
-from fairplay.agents.base_agent import Agent
+from rawlsian_agents.agents.base_agent import Agent
 
 
 CLAIMS_PROCESSOR_PROMPT = r"""

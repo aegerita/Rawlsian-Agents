@@ -1,5 +1,5 @@
-from fairplay.agents.base_agent import Agent
-from fairplay.models import Arbitration
+from rawlsian_agents.agents.base_agent import Agent
+from rawlsian_agents.models import Arbitration
 
 PROMPT = r"""
 You have a detailed prenuptial agreement outlining specific terms and conditions agreed upon by both parties. One party has raised concerns about a potential future risk that could significantly affect both individuals. Your task is to comprehensively assess this risk, explicitly evaluating whether the agreement remains conscionable, and if necessary, suggest precise strategies or edits to existing clauses to mitigate it.
