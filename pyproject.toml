@@ -1,16 +1,18 @@
 [tool.poetry]
-name = "fairplay"
-version = "0.1.0"
-description = "Using GenAI to forge fairer societal agreements."
+name = "rawlsian_agents"
+
+version = "0.1.1"
+description = "An Application of Large Language Models (LLM) to Forge Fairer Bilateral Agreements"
+
 authors = ["Jenny Tai <jenny.tai@uwaterloo.ca>", "Sergio M. Ferro <sm.ferro54@gmail.com>"]
 packages = [
-    {include = "fairplay", from = "src"}
+    {include = "rawlsian_agents", from = "src"}
 ]
 license = "MIT License"
 readme = "README.md"
 
 [tool.poetry.scripts]
-fairplay = "fairplay.main:main"
+rawlsian_agents = "rawlsian_agents.main:main"
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.13"

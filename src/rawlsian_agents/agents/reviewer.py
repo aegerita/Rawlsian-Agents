@@ -1,5 +1,5 @@
-from fairplay.agents.base_agent import Agent
-from fairplay.models import Risks
+from rawlsian_agents.agents.base_agent import Agent
+from rawlsian_agents.models import Risks
 
 
 PROMPT = r"""
