@@ -13,7 +13,7 @@ The project focuses on simulating negotiations between AI agents, incorporating 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/smferro54/Rawlsian-Agents
+    git clone https://github.com/aegerita/Rawlsian-Agents.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -39,6 +39,7 @@ This solution generates reports that detail the negotiation process, and the fai
 ## Future Development
 - **Integration of More Complex Contracts**: Expand the scope of contracts to include more real-world legal documents.
 - **Comparative Quantitative Assessment of Outputs**: Place a metric on how much the contract improved by being fed to our Rawlsian engine. 
+
 - **User Interface**: Build a user-friendly interface for non-technical users to interact with the simulation.
 
 ## License
