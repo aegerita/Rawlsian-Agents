@@ -1,5 +1,5 @@
 #%%
-from fairplay.agents.best_effort_drafter import BestEffortDrafter
+from rawlsian_agents.agents.best_effort_drafter import BestEffortDrafter
 # %%
 with open("./benchmark_drafter_input/initial_agreement.md", 'r') as file:
     initial_agreement = file.read()
