@@ -1,4 +1,4 @@
-from fairplay.agents.base_agent import Agent
+from rawlsian_agents.agents.base_agent import Agent
 
 PROMPT = r"""
 You are provided with a prenuptial agreement and your task is to enhance its fairness, clarity, and conscionability. Feel free to modify the relevant sections of the agreement so that the changes appear natural and coherent within the language of the document.
