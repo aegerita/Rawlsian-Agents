@@ -1,5 +1,7 @@
 .env
+.env:Zone.Identifier
 venv/
+
 
 dist/
 .vscode/
@@ -9,3 +11,4 @@ __pycache__/
 
 .DS_Store
 poetry.lock
+
