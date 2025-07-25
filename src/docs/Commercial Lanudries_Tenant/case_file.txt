@@ -1,0 +1,132 @@
+4350 NW 8 Terrace, LLC, et al., Appellants,
+v.
+Commercial Laundries, Inc., Appellee.
+No. 3D23-2040.
+District Court of Appeal of Florida, Third District.
+
+Opinion filed May 14, 2025.
+An Appeal from the County Court for Miami-Dade County, Lower Tribunal Nos. 2023-1438-CC-05; 2023-001514-CC-05; 2023-001515-CC-05; 2023-001516-CC-05; 2023-001518-CC-05; 2023-001522-CC-05; and 2023-001534-CC-05, Michael G. Barket, Judge.
+
+León Cosgrove Jiménez, LLP, and Derek Eduardo León and Benjamin Weinberg, for appellants.
+
+Tripp Scott, P.A., and Paul O. Lopez and Jennifer A. Bautista (Fort Lauderdale), for appellee.
+
+Before EMAS, LINDSEY and LOBREE, JJ.
+
+EMAS, J.
+
+INTRODUCTION
+This appeal involves seven related lawsuits filed in the trial court, each involving a dispute over the construction of certain provisions contained in a long-term commercial lease. The Landlord, 4350 NW 8 Terrace, LLC, appeals a final judgment entered in favor of the Tenant, Commercial
+
+Laundries, Inc., following a bench trial. The Landlord contends the trial court erred in its interpretation of an addendum to the parties' commercial lease and, because of such interpretation, further erred in finding that the conditions to invoke a ten-year lease extension were satisfied.
+
+Upon our de novo review, we agree, and hold that the trial court erred in its construction of the addendum and in determining that the requisite conditions for the Tenant to invoke the ten-year lease extension were satisfied. We therefore reverse and remand with instructions to enter judgment in favor of the Landlord.
+
+FACTS AND PROCEDURAL HISTORY
+In October 1998, the parties executed a lease agreement providing rental space at seven properties for Commercial Laundries (Tenant) to operate a laundry machine business. The Lease provides for an initial ten-year term and that rent be paid in the form of "50% of the gross revenue derived from the operation of said equipment."
+
+The pertinent question raised below (and here on appeal) is: When did the lease terminate? Answering that question requires construction of the lease terms, in particular Paragraph Eight, as well as the Addendum to the Lease.
+
+Paragraph Eight of the Lease provides an option to extend the ten-year Lease for two successive seven-year terms:
+
+Lessee shall have an option to extend this Lease, upon identical terms and conditions as set forth herein, for two (2) successive periods of seven (7) years each, such options to be considered exercised unless Lessee notifies Lessor to the contrary of at least Six (6) months prior to the end of the original Lease term or the end of the first renewal term thereof.
+(Emphasis added).
+
+In contrast, the Addendum, executed at or around the same time as the Lease, provides for a ten-year extension of the Lease at the end of the initial ten-year term:
+
+[Landlord] and [Tenant] agree that for any buildings still owned by the [Landlord] at the end of the initial 10 year term [Tenant] shall then be entitled to extend the initial 10 year term for an additional 10 years in exchange for a payment of the then current market rate for similar laundry room leases.
+(Emphasis added). It is undisputed that the first condition in the Addendum was met—i.e., the Landlord still owned the buildings when the initial ten-year term ended in 2008.
+
+The dispute arises in large part from the parties' opposing interpretations of the Addendum. The Landlord contends the Tenant never extended the initial ten-year term under the Addendum (i.e., never exercised the option to do so) because the Tenant never paid "the then current market rate for similar laundry room leases." According to the Landlord, the Tenant instead exercised the option in Paragraph Eight, automatically extending the Lease for consecutive seven-year terms upon identical terms and conditions—twenty-four years, November 2022. The Tenant, however, contends the extension in the Addendum was a condition precedent (not an option) and necessarily extended the initial lease term to at least 2025 (ten-year extension plus seven-year extension in Paragraph Eight). The Tenant further contends the Landlord waived payment of market rate because it never requested same from the Tenant.
+
+Significant to this appeal, it is undisputed that, since 1998, Tenant has paid rent as "50% of the gross revenue derived from the operation."
+
+In October 2022, the Landlord contacted the Tenant to provide notice of expiration of the Lease in November 2022 (from the Landlord's vantage point, this would be after the initial ten-year term from 1998-2008, and the two seven-year extensions of the Lease under Paragraph Eight, from 2008-2015 and from 2015-2022). Tenant refused to vacate the properties, claiming that the Lease was not terminating in November of 2022, but instead would automatically extend to at least 2025 and potentially to 2032 (from the Tenant's vantage point, this would be after the initial ten-year term, the ten-year extension under the Addendum, and the two seven-year extensions under Paragraph Eight).
+
+The Tenant did not vacate, and, on January 20, 2023, the Landlord filed seven identical lawsuits, seeking eviction of Commercial Laundries, Inc., as a holdover tenant, under section 83.20(1), Florida Statutes. The Landlord maintained that the Lease expired on November 1, 2022—upon the initial ten-year term and two successive seven-year periods—and the Tenant filed an Answer and Affirmative Defenses with the attached Addendum, alleging the Lease term had not expired because the Addendum "renewed the initial term of the Lease in writing for an additional ten years." The Tenant further asserted that the Landlord received consideration for the Lease and Addendum in the form of a payment of $100,000.[1]
+
+The case proceeded to a bench trial where two witnesses testified: Ricardo Sarria (vice-president of the Landlord, 4350 NW 8 Terrace, LLC) and John Stewart (president of the Tenant, Commercial Laundries, Inc.).
+
+Sarria testified he was never advised by the Tenant of its intention to extend the 1998 Lease for a ten-year term (upon conclusion of the initial ten-year term in 2008) nor did he receive "a payment of the then current market rate for similar laundry room leases" in exchange for the ten-year extension as required by the Addendum. As to the Tenant's claim that it had paid $100,000 in 1998 to obtain the ten-year extension in the Addendum, Sarria testified that in a letter written by the Tenant (which was admitted into evidence) the Tenant agreed "to reimburse the Sarria's for leasehold improvements to be completed by lessor in the amount of $100,000" for various properties, including the seven properties at issue. Sarria confirmed that the Landlord made the leasehold improvements.
+
+Stewart testified that, prior to executing the underlying Lease, the parties had a lease for each of the same locations, all scheduled to terminate on the same date in 2022. Because the Tenant wanted to extend the lease beyond 2022, the parties executed the underlying Lease and the Tenant paid the Landlord $100,000. Stewart explained that he never would have paid the additional $100,000 with the expectation to end the Lease on the same date in 2022.
+
+Following the presentation of evidence and the parties' closing argument, and just prior to announcing its ruling, the trial court stated:
+
+What was never pointed out to the Court was who drafted the leases. I'm going to assume that the lessor drafted the leases. That would make sense to the Court.
+The trial court then made its oral pronouncement:
+
+The way I read it, I have to read it with its given words, 10 years. They get 10 years after that and then the seven and seven will kick in. And to quote in paragraph eight, "Lessees shall have the option to extend this lease upon identical terms and conditions set forth herein."
+Identical, they were paying 50 percent. They continue to pay 50 percent and they continue to accept 50 percent. For those reasons, I find in favor of the Defendant today.
+The trial court entered final judgment for the Tenant, finding in pertinent part:
+
+[A]t the expiration of the initial ten (10) year period of the Lease(s) the condition for the ten (10) year extension of the Lease(s) provided for in the Addendum was satisfied.
+[] [D]uring the ten (10) year extension of the Lease(s), [Landlord] accepted the rent without objection.
+The Landlord moved for rehearing, contending the trial court misconstrued the Addendum and that "[n]o evidence was presented at trial to support a finding that [the Landlord] drafted either the Lease or the Addendum."[2] Following a hearing, the trial court denied the motion for rehearing, and this appeal followed.
+
+STANDARD OF REVIEW
+"The interpretation of a lease agreement is a question of law and the applicable standard of review is de novo." Covelli Fam., L.P. v. ABG5, L.L.C., 977 So. 2d 749, 752 (Fla. 4th DCA 2008). However, "[i]n an appeal from a bench trial, the trial judge's findings of fact are clothed with a presumption of correctness on appeal, and these findings will not be disturbed unless the appellant can demonstrate that they are clearly erroneous." Id. (quotation omitted).
+
+Here, the trial court found the conditions in the Addendum were satisfied, extending the Lease's initial ten-year term an additional ten years. To the extent this conclusion is a fact-based one, we review this finding for clear error. La Ley Sports Complex at City of Homestead, LLC v. City of Homestead 255 So. 3d 468, 469 (Fla. 3d DCA 2018) ("We apply a clear error standard to the findings of fact, and a finding will not be disturbed unless it is totally unsupported by competent and substantial evidence, it is clearly against the weight of the evidence, or it was induced by an erroneous view of the law.").
+
+ANALYSIS AND DISCUSSION
+The Landlord contends the trial court erred in its interpretation of the Addendum to the Lease, and that there was no evidence presented below to prove the Tenant, prior to the end of the initial ten-year term in 2008, attempted to determine the then-current market rate for similar laundry room leases, or that the Tenant, in exchange for the ten-year extension of the initial ten-year term, made a "payment of the then current market rate for similar laundry room leases," as required by the Addendum's plain terms.
+
+We look first to the plain language of the Lease and the Addendum. The Lease provides for an initial ten-year term, and monthly rent to be paid in the form of "50% of the gross revenue derived from the operation of said equipment." Reading the Lease and Addendum together, the Tenant was presented with two methods by which to extend the Lease beyond its initial ten-year term:
+
+(1) The Automatic Extension Under the Lease:
+Lessee shall have an option to extend this Lease, upon identical terms and conditions as set forth herein, for two (2) successive periods of seven (7) years each, such options to be considered exercised unless Lessee notifies Lessor to the contrary of at least Six (6) months prior to the end of the original Lease term or the end of the first renewal term thereof.
+The language of this Lease provision is clear: The Tenant was given the option to extend the lease for seven years and again for a second seven-year extension; the terms of the seven-year extensions were identical to those terms and conditions stated in the Lease for the original ten-year term; and the option was automatic. The option was "to be considered exercised" unless the Tenant opted out by notifying the Landlord to the contrary at least six months before the end of the Lease term.
+
+(2) The Ten-Year Extension Under the Addendum in Exchange for Payment of Then-Current Market Rate:
+[Landlord] and [Tenant] agree that for any buildings still owned by the [Landlord] at the end of the initial 10 year term [Tenant] shall then be entitled to extend the initial 10 year term for an additional 10 years in exchange for a payment of the then current market rate for similar laundry room leases.
+There are two conditions attached to the exercise of the extension under the Addendum. The parties agree the first condition—that the Landlord still own the buildings at the end of the initial ten-year term—was satisfied. As for the second condition—that the Tenant was entitled to a ten-year extension "in exchange for a payment of the then current market rate for similar laundry room leases"—the parties agree (and the trial court found) that the Tenant continued to make payments in the same manner as it always had, e.g., 50% of the gross revenue derived from the laundry business.[3]
+
+Reading the two methods for extension together and upon consideration of the undisputed facts, the parties proceeded under the first method for extension—the automatic consecutive, seven-year extensions.
+
+There can be little doubt the seven-year automatic extension under the Lease was self-executing in the absence of action by the Tenant to opt out of the extension. It states the extension would be "considered exercised unless [Tenant] notifies [Landlord] to the contrary" at least six months before the end of the original Lease term or the end of the first renewal term thereof. (Emphasis added). Thus, the Tenant was required to take some action only if it did not wish to extend the Lease for two successive periods of seven years each.
+
+Therefore, unless the Tenant notified the Landlord "to the contrary" no later than April 30, 2008 (i.e., six months before the October 31, 2008, termination date of the Lease), the option to extend the Lease for an additional seven years would "be considered exercised." It is undisputed that the Tenant did not notify the Landlord "to the contrary," and so, on May 1, 2008, pursuant to the terms of the Lease, the Landlord could reasonably conclude that the Lease between it and the Tenant was automatically extended for an additional seven years, to October 31, 2015.
+
+It is likewise undisputed that the Tenant did not notify the Landlord "to the contrary," at the end of this seven-year extension of the Lease, and so on May 1, 2015, pursuant to the terms of the Lease, the Landlord once again could reasonably conclude that the Lease between it and the Tenant was automatically extended for an additional seven years, to October 31, 2022.
+
+Further, the seven-year extensions under the Lease were "upon identical terms and conditions" as that set forth in the Lease. These identical terms and conditions included, importantly, the payment of rent in an amount representing "50% of the gross revenue derived from the operation of said equipment." It is undisputed that, for the two seven-year terms following the end of the initial ten-year term of the Lease, the Tenant continued paying rent to Landlord in amounts representing 50% of the gross revenue.
+
+The above provision stands in stark contrast to the method for extending the Lease pursuant to the Addendum (an additional ten-year extension in exchange for payment of then-current market rate for similar laundry room leases).
+
+Unlike the seven-year extension option contained in the Lease, there is nothing in the Addendum to indicate that this extension would be "automatic" or "considered exercised" absent the Tenant notifying the Landlord "to the contrary" to avoid triggering this extension pursuant to the Addendum. Nor was an extension under the Addendum "upon identical terms and conditions" of the original term of the Lease.
+
+Instead, under the Addendum the Tenant was entitled to extend the ten-year term "in exchange for a payment of the then current market rate for similar laundry room leases." Importantly, this method of rent determination differed significantly from the initial ten-year term of the Lease, in which Tenant was paying Landlord "50% of the gross revenue derived from the operation of said equipment."
+
+The ten-year extension under the Addendum is not an "opt out" provision to be "considered exercised" absent notification to the contrary, but an extension available to the Tenant in exchange for the Tenant paying an amount of rent to be determined in an entirely different manner than established for the initial ten-year term of the Lease.
+
+The argument between the parties—over whether this provision was an "option" or a "condition precedent"—promotes form over substance. In substance, and reading the plain language of the Addendum, it is manifest that the requisite terms of the Addendum were not satisfied, for at least two reasons:
+
+1. There was no evidence presented at trial that the Tenant notified the Landlord that it wanted to exercise the ten-year option under the Addendum, nor any evidence that it offered to pay, or actually paid, "the then current rate for similar laundry room leases," the very consideration required of Tenant "in exchange for" the ten-year extension under the Addendum. Instead, the evidence at trial was that the Tenant simply continued to make rent payments in the same manner as it had for the first ten years under the Lease, an amount representing "50% of the gross revenue derived from the operation of said equipment" as provided under the terms of the Lease.
+2. By the time the initial ten-year lease term had expired (October 31, 2008), it was already too late for either party to satisfy the necessary conditions for a ten-year extension under the Addendum: pursuant to the terms of the Lease, the option to extend the lease an additional seven years was already "considered exercised" as of May 1, 2008, when the Tenant failed to notify the Landlord "to the contrary" no later than April 30, 2008 (i.e., six months prior to the end of the Lease).
+The evidence at trial, considered in light of the plain language of the Lease and Addendum, established that the Tenant—though entitled to extend the lease for an additional ten-year term no later than six months prior to the termination date—never did so.
+
+Instead, the Tenant exercised (or failed to opt out of) the option in Paragraph Eight of the Lease, which automatically extended the Lease for a seven-year term (and a subsequent seven-year term) upon identical terms and conditions as the original Lease. Cf. Thrifty Dutchman, Inc. v. Fla. Supermarkets, Inc., 541 So. 2d 634, 636 (Fla. 3d DCA 1989) ("The general rule governing notice of lease renewal is that the giving of timely notice, in accordance with the provisions of the lease, is a condition precedent to the lessee's right to renew. The rule is grounded on the principle that time is of the essence in an option contract and that a notice requirement is strictly construed. 3 G. Thompson, Real Property § 1122 (1980 Repl.)").
+
+To the extent the trial court's finding that the condition in the Addendum was met is based on the concept of waiver—i.e., that the Landlord waived entitlement to market price by accepting 50% gross revenue—such finding is similarly erroneous.
+
+The Tenant argues that the Landlord waived entitlement to payment of the then-market rate by continuing to accept payment in the form of 50% of gross revenue. This argument is unpersuasive given the Lease's plain language—Paragraph Eight provides for automatic renewal for two seven-year terms upon identical terms and conditions absent timely notice by the Tenant to the contrary. For instance, there would have been no way to distinguish between the Tenant opting to extend the Lease via the first method (failure to "opt out" resulting in a seven-year extension) and the Tenant's waiver position (that Landlord somehow waived acceptance of market rate payment by continuing to accept rent based on 50% gross revenue as provided in the Lease). Indeed, the Landlord's continued acceptance of rent in the form of 50% of gross revenue is not evidence of a waiver by Landlord, but rather evidence that the Lease was automatically extended for an additional seven years pursuant to Paragraph Eight of the Lease—"upon identical terms and conditions" as those in the initial Lease.
+
+There is also no evidence the Landlord acted contrary to its right to seek market value. McElroy v. Oaks on the Bay, LLC, 288 So. 3d 1259, 1261 (Fla. 2d DCA 2020) ("A party may waive a legal right, whether secured by contract, conferred by statute, or guaranteed by the Constitution. A party waives such a right by taking action that is inconsistent with that right.") (internal citations omitted). The Landlord's action in continuing to accept as rent 50% gross revenue cannot—in consideration of the plain language of the Lease and Addendum—establish a waiver and, as discussed, would require as a premise (one which we've already rejected) that the requisite conditions for a ten-year extension under the Addendum had been satisfied.
+
+To the extent that the Tenant's arguments are premised on a determination that the Addendum is ambiguous (e.g., it does not clearly state who must determine "then-current market rate for similar laundry room leases"), the trial court's construing of the Addendum against the Landlord as the presumed drafter was likewise erroneous, given that there was no admissible evidence presented either way and, in fact, the Addendum was drafted on Tenant stationery suggesting the Tenant, not the Landlord, was the drafter. DSL Internet Corp. v. TigerDirect, Inc. 907 So. 2d 1203, 1205 (Fla. 3d DCA 2005) ("Florida law requires that a contract be interpreted against the drafter when the contract contains ambiguous terms.").
+
+We find no merit in the remaining arguments raised by Tenant.
+
+CONCLUSION
+We hold that the trial court's determination—that the condition for the ten-year extension of the Lease provided for in the Addendum was satisfied—is clearly erroneous, and is not supported by competent and substantial evidence, or was "induced by an erroneous view of the law." La Ley Sports Complex, 255 So. 3d at 469. We reverse and remand with directions to enter final judgment for the Landlord.
+
+Reversed and remanded.
+
+Not final until disposition of timely filed motion for rehearing.
+
+[1] The Tenant filed a counterclaim for liquidated and compensatory damages but withdrew it after the close of evidence at the bench trial.
+
+[2] There was no admissible evidence presented on which party drafted the Addendum. Although Ricardo Sarria, vice president of the Landlord, testified that the Addendum was drafted by the Tenant, the trial court sustained the Tenant's objection to Sarria's testimony on this issue. The Landlord later requested in its motion for rehearing that the trial court reopen the case to allow for additional testimony on which party drafted the Addendum. The request was denied.
+
+[3] The dispute instead centers, in large part, on who bore the burden to request that payment be changed to "then current market rate for similar laundry room leases." According to the Tenant, because the "Landlord permitted Tenant to remain on the Properties without ever requesting the then-current market rate payment or raising the issue with the Tenant," the "Landlord by its actions waived the Addendum's condition of a then-current market rate payment . . . ." The Tenant further offers that the Landlord presented no evidence that the payments—which undisputedly remained the same throughout the initial-ten-year term—were not in fact "current market rate for similar laundry room leases." We disagree with both positions for the reasons discussed infra.
