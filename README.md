@@ -4,7 +4,7 @@
 ## Project Overview
 We introduce the concept of Rawlsian Agents as LLM entities that leverage generative AI to simulate bilateral negotiations with the aim of promoting fairness in societal agreements. Inspired by John Rawls' Theory of Justice, this project explores how AI can help identify and address biases in agreements, such as prenuptial agreements, employment contracts, service agreements, and lease agreements.
 
-The project focuses on simulating negotiations between AI agents, incorporating cognitive, emotional, and strategic elements to understand fairness dynamics. By implementing a full fledged Rawlsian framework, our solution aims to create AI-driven tools that can guide real-world contract negotiations towards more equitable outcomes.
+The project focuses on simulating negotiations between AI agents, incorporating cognitive, emotional, and strategic elements to understand fairness dynamics. By implementing a full-fledged Rawlsian framework, our solution aims to create AI-driven tools that can guide real-world contract negotiations towards more equitable outcomes.
 
 ## Methodology
 1. **Simulated Multi-agent Setting**: AI agents start negotiations behind a "digital veil of ignorance," unaware of the social status or preferences of the entities they represent.
@@ -21,15 +21,14 @@ The project focuses on simulating negotiations between AI agents, incorporating 
     ```
 3. Install the necessary dependencies:
     ```bash
-    poetry install
+    uv sync
     ```
-4. Create a `.env` file in the root directory based on the `.env.example` file.
+4. Create a `.env` file in the root directory based on the `.env.template` file.
 
 ## Usage
 Run the simulation by executing the simulation scripts. For example:
 ```bash
-poetry env activate
-poetry run python ./src/rawlsian_agents/main.py --folder_path 'src/docs/SC vs TC/'
+uv run python ./src/rawlsian_agents/main.py --folder_path 'src/docs/SC vs TC/'
 ```
 This will initialize the AI agents and begin the negotiation simulation. 
 

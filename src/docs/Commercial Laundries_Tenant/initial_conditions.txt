@@ -5,10 +5,11 @@ Initial conditions of the contract (Lease):
 - Lessee shall have an option to extend this Lease, upon identical terms and conditions as set forth herein, for two (2) successive periods of seven (7) years each, such options to be considered exercised unless Lessee notifies Lessor to the contrary of at least Six (6) months prior to the end of the original Lease term or the end of the first renewal term thereof.
 - The 7-year extensions are considered automatically exercised unless the Tenant notifies the Landlord otherwise at least 6 months before the end of the original lease term or the first renewal term.
 
-Initial conditions of the Addendum:
+Initial conditions of the Addendum, executed at or around the same time as the Lease:
 
 - [Landlord] and [Tenant] agree that for any buildings still owned by the [Landlord] at the end of the initial 10 year term [Tenant] shall then be entitled to extend the initial 10 year term for an additional 10 years in exchange for a payment of the then current market rate for similar laundry room leases.
 - The 10-year extension is "in exchange for a payment of the then current market rate for similar laundry room leases."
+- The Addendum was drafted on Tenant stationery suggesting the Tenant, not the Landlord, was the drafter.
 
 General rules governing leases:
 
