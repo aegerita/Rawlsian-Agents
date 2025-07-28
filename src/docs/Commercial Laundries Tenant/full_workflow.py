@@ -1,3 +1,4 @@
+"""This script processes a commercial lease agreement workflow, including claims processing, risk assessment, and drafting a final agreement. The initial stages were run in the `initial_draft.py` file, and this script continues from there."""
 #%%
 import os
 from rawlsian_agents.agents.arbitrator import Arbitrator
@@ -8,44 +9,32 @@ from rawlsian_agents.agents.reviewer import Reviewer
 from rawlsian_agents.utils.commercial_lease_templates import BC_LEASE_TEMPLATE
 
 # %%
-### voy aqui
 COMMERCIAL_LEASE_PROMPT = r"""
-You are an AI representative assigned to analyze and prioritize the interests of {name} in the given scenario. Your primary responsibility is to identify and evaluate potential future risks that could impact {name} under the terms of the agreement, explicitly assessing whether the agreement is conscionable.
+You are legal assistant assigned to analyze and prioritize the interests of {name}, a corporation. Your primary responsibility is to identify and evaluate potential future risks that could impact {name} under the terms of the agreement, explicitly assessing whether the agreement is conscionable.
 
-Consider both immediate and long-term risks, including financial, emotional, legal, and social factors. Assess how external influences, such as economic downturns, job loss, family expectations, or legal loopholes, could affect the agreement. Specifically evaluate whether any vulnerabilities—such as intellectual, economic, situational, emotional stress, or relationships of trust—were present and exploited during the negotiation process. Determine if any power imbalances exist or if certain clauses disproportionately benefit one party, raising concerns of unconscionability. Where relevant, suggest ways to rebalance the agreement to promote fairness.
+Consider both immediate and long-term risks, including financial, legal, and business factors. Assess how external influences, such as economic downturns, contract clarity, or legal loopholes, could affect the agreement. Determine if any power imbalances exist or if certain clauses disproportionately benefit one party. Where relevant, suggest ways to rebalance the agreement to promote fairness.
 
-For each identified risk or potential unconscionability, explore a counterfactual scenario by considering how the situation might change under different conditions, such as one party experiencing significant financial changes, unexpected health challenges, or legislative developments that could alter the effectiveness or fairness of the agreement. If applicable, propose specific strategies or alternative negotiation terms that could mitigate risks and address unconscionability concerns, preferably by editing and updating existing clauses rather than adding new ones.
+For each identified risk, explore a counterfactual scenario by considering how the situation might change under different conditions, such as one company experiencing  financial distress, business challenges, or legislative developments that could alter the effectiveness or fairness of the agreement. If applicable, propose specific strategies or alternative negotiation terms that could mitigate risks. Address concerns by editing and updating existing clauses rather than adding new ones.
 
-Ensure your response is clear, structured, and provides a comprehensive and balanced assessment of potential risks and conscionability issues relevant to {name}. If the agreement already sufficiently addresses all concerns and is conscionable, indicate clearly that no additional risks or changes are necessary.
+Ensure your response is clear, structured, and provides a comprehensive and balanced assessment of potential risks and issues relevant to {name}. If the agreement already sufficiently addresses all concerns, indicate clearly that no additional risks or changes are necessary.
+
+Keep in mind that you are representing a corporation, and your analysis should reflect the interests and conditions of a corporate entity.
 
 Current claims: {claims}
 """
 #%%
 folder_path = os.path.dirname(os.path.abspath(__file__)) + "/"
-input_file = "initial_conditions.txt"
 output_file = "final_agreement.md"
-
-# %%
-with open(folder_path + input_file, "r") as file:
-    free_text = file.read()
-
-# %%
-claims_processor = ClaimsProcessor()
-claims_processor.load_free_text(free_text)
-claims = claims_processor.process_claims()
-print(claims)
-
-with open(folder_path + "recovered_claims.txt", "w") as file:
-    file.write(str(claims))
 
 # %%
 with open(folder_path + "initial_agreement.md", "r") as file:
     initial_agreement = file.read()
 #%%
 reviewer = Reviewer()
-risks_A = reviewer.generate_risks(name="Partner 1", claims=initial_agreement)
-risks_B = reviewer.generate_risks(name="Partner 2", claims=initial_agreement)
-combined_risks = risks_A + risks_B
+reviewer.prompt_template = COMMERCIAL_LEASE_PROMPT
+risks_landlord = reviewer.generate_risks(name="landlord", claims=initial_agreement)
+risks_tenant = reviewer.generate_risks(name="tenant", claims=initial_agreement)
+combined_risks = risks_landlord + risks_tenant
 
 with open(folder_path + "combined_risks.md", "w") as file:
     file.write("## Combined Risks Identified\n")
