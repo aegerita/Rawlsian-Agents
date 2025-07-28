@@ -6,7 +6,6 @@ from rawlsian_agents.agents.basic_drafter import BasicDrafter
 from rawlsian_agents.agents.claims_processor import ClaimsProcessor
 from rawlsian_agents.agents.drafter import Drafter
 from rawlsian_agents.agents.reviewer import Reviewer
-from rawlsian_agents.utils.commercial_lease_templates import BC_LEASE_TEMPLATE
 
 # %%
 COMMERCIAL_LEASE_PROMPT = r"""
@@ -44,6 +43,25 @@ Identified risk:
 {risk}
 """
 
+COMMERCIAL_LEASE_DRAFT_PROMPT = r"""
+You are provided with a detailed commercial lease agreement and a list of proposed edits from the legal team intended to enhance its fairness, clarity, and conscionability. Your task is to produce a final version of the commercial lease agreement that fully incorporates each proposed edit into the text. Do not simply insert the edit instructions verbatim; instead, feel free to modify the relevant sections of the agreement so that the changes appear natural and coherent within the language of the document.
+Do not hesitate to remove contradicting clauses from the original agreement and replace them by the proposed edits. Ensure that the final agreement is balanced, fair, and legally sound, reflecting the interests and rights of both parties.
+
+Below are the proposed edits and the current agreement:
+
+Proposed Edits:
+{edits}
+
+Original commercial lease Agreement:
+{agreement}
+
+Instructions:
+- Review the proposed edits carefully, ensuring each revision addresses any identified vulnerabilities, power imbalances, or unconscionable circumstances.
+- Modify the corresponding sections in the agreement clearly and effectively to reflect the intended changes, preserving the document's overall coherence and readability.
+- Do not include residual instructional language such as “Add a clause…” or “Insert text…” in the final document.
+- Ensure the final agreement reads as an integrated, fair, and conscionable legal document, explicitly promoting balanced treatment and protection for both parties.
+"""
+
 #%%
 folder_path = os.path.dirname(os.path.abspath(__file__)) + "/"
 output_file = "final_agreement.md"
@@ -63,10 +81,14 @@ risks_landlord = reviewer.generate_risks(name="landlord", claims=initial_agreeme
 risks_tenant = reviewer.generate_risks(name="tenant", claims=initial_agreement)
 combined_risks = risks_landlord + risks_tenant
 
-with open(folder_path + "combined_risks.md", "w") as file:
-    file.write("## Combined Risks Identified\n")
-    for risk in combined_risks:
-        file.write(f"{risk}\n\n")
+if not os.path.exists(folder_path + "combined_risks.md"):
+    with open(folder_path + "combined_risks.md", "w") as file:
+        file.write("## Combined Risks Identified\n")
+        for risk in combined_risks:
+            file.write(f"{risk}\n\n")
+else:
+    with open(folder_path + "combined_risks.md", "r") as file:
+        combined_risks = file.read().split("\n\n")
 
 #%%
 edits = ["Proposed edits to the agreement:"]
@@ -79,22 +101,38 @@ arbitrator.set_prompt(
 arbitrator.set_chain()
 print("Arbitrator's analysis of risks and proposed edits:")
 print("\n")
-with open(folder_path + "risks_and_mitigations.md", "w") as file:
-    for risk in combined_risks:
+if not os.path.exists(folder_path + "risks_and_mitigations.md"):
+    with open(folder_path + "risks_and_mitigations.md", "w") as file:
+        for risk in combined_risks:
+            print(risk)
+            file.write(f"{risk}\n")
+            arbitration = arbitrator.propose_clause(claims=initial_agreement, risk=risk)
+            print(arbitration)
+            edits.append(arbitration.edit)
+            file.write(f"Arbitrator's POV:\n {arbitration}\n\n")
+    print("\n")
+    for edit in edits:
+        print(edit)
+else:
+    with open(folder_path + "risks_and_mitigations.md", "r") as file:
+        risks_and_mitigations = file.read().split("\n\n")
+    for risk in risks_and_mitigations:
         print(risk)
-        file.write(f"{risk}\n")
         arbitration = arbitrator.propose_clause(claims=initial_agreement, risk=risk)
         print(arbitration)
         edits.append(arbitration.edit)
-        file.write(f"Arbitrator's POV:\n {arbitration}\n\n")
-print("\n")
-for edit in edits:
-    print(edit)
-
 #%%
 drafter = Drafter()
+drafter.set_prompt(
+    COMMERCIAL_LEASE_DRAFT_PROMPT,
+    drafter.input_variables,
+    drafter.partial_variables,
+)
+drafter.set_chain()
 final_agreement = drafter.draft_agreement(agreement=initial_agreement, edits=edits)
 print("\nFinal agreement:")
 print(final_agreement)
 with open(folder_path + output_file, 'w') as file:
     file.write(final_agreement)
+
+# %%
