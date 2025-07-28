@@ -1,4 +1,4 @@
-**THIS LEASE made the  ___ day of _____________________, ___**.
+**THIS LEASE made the ___ day of _____________________, ___**.
 
 **LEASE AGREEMENT (DRAFT)**
 
@@ -19,7 +19,7 @@ AND:
 
 **RECITALS:**
 
-A. The Landlord is the registered owner of those lands and premises located at **4350 NW 8 Terrace** and legally described as:
+A. The Landlord is the registered owner of those lands and premises located at **4350 NW 8 Terrace** and legally described as:  
 [Legal Description of Lands]
 
 (the “Lands”).
@@ -78,13 +78,13 @@ The Tenant will use the Premises for the purpose of operating a laundry machine 
 
 **Annual Rent**
 
-Subject to Section 5.2, the Tenant will pay to the Landlord during the Term **50% of the gross revenue derived from the operation of said equipment** plus all applicable taxes per annum (the “Rent”), and such fee shall be paid to the Landlord **monthly**.
+The Tenant will pay the Landlord the greater of **$[fixed minimum amount] per annum** or **50% of the gross revenue derived from the operation of said equipment annually**. Such fee shall be paid to the Landlord monthly (the “Rent”).
 
 5.2
 
 **Rent Review**
 
-[IF APPLICABLE]
+After every five years from the Lease commencement date, both the Landlord and Tenant shall meet to review the terms of the Lease and assess any changes in market conditions, with the option to renegotiate terms or modify the lease if agreed by both parties.
 
 6.0
 
@@ -116,9 +116,9 @@ The Tenant will observe and perform all of the covenants and conditions of this 
 
 **Repair & Maintenance**
 
-(a) The Tenant will, at all times during the Term, promptly repair, clean, renew, and maintain the Premises in a condition that is safe and visually-acceptable to the Landlord including all Buildings, structures, facilities, landscaping, etc.
+(a) The Tenant will, at all times during the Term, promptly repair, clean, renew, and maintain the Premises in good condition, conforming to the following maintenance schedule: [insert detailed schedule and criteria for condition benchmarks], and shall provide written reports to the Landlord on a quarterly basis confirming the condition of the Premises. The Tenant shall permit the Landlord and its duly authorized agents or nominees, with or without workers and others, at all reasonable times to enter upon the Premises for the purpose of examining the state of repair, condition and use of them.
 
-(b) The Tenant will permit the Landlord and its duly authorized agents or nominees, with or without workers and others, at all reasonable times to enter upon the Premises for the purpose of examining the state of repair, condition and use of them, and the Tenant will repair and maintain, according to notice received from the Landlord within **[insert time period] days** from the date of the giving of such notice by the Landlord.
+(b) The Tenant's responsibility for repairs shall be capped at an amount equal to __% of the Annual Rent for any single repair, with costs exceeding this cap to be shared equally between the Landlord and Tenant. Any disputes regarding the condition or maintenance shall first be addressed through mediation between the parties before escalating to legal proceedings.
 
 6.5 
 
@@ -126,7 +126,7 @@ The Tenant will observe and perform all of the covenants and conditions of this 
 
 (a) The Tenant will not construct or alter any buildings or structures on the Premises unless such construction is in compliance with **[APPLICABLE REGULATION]**.
 
-(b) All construction or alteration of any buildings or structures on the Premises must conform to all applicable building safety and health standards and any applicable zoning regulations in effect in the jurisdiction in which the Premises are located, and must be certified as conforming thereto by a qualified professional (for example, an engineer or architect).
+(b) All construction or alteration of any buildings or structures on the Premises must conform to all applicable building safety and health standards and any applicable zoning regulations in effect in the jurisdiction in which the Premises are located and must be certified as conforming thereto by a qualified professional (for example, an engineer or architect).
 
 (c) Any construction or alteration on the Premises carried out by the Tenant will be at the sole cost of the Tenant.
 
@@ -136,7 +136,7 @@ The Tenant will observe and perform all of the covenants and conditions of this 
 
 **Assign or Sublet**
 
-[CONDITIONS FOR SUBLET IF APPLICABLE]
+The Landlord shall not unreasonably withhold consent to any assignment or subletting by the Tenant and shall respond to requests for consent within ten (10) business days, providing justification if consent is denied.
 
 6.7  
 
@@ -160,7 +160,7 @@ The Tenant will:
 
 **Indemnification**
 
-(a) The Tenant will indemnify the Landlord from and against all manner of actions or causes of action, claims, lawsuits, damages, losses, costs, including legal costs, or expenses of whatever kind (including, without limitation, legal fees on a solicitor and client basis) that the Landlord may sustain, incur or be put to by reason of or arising out of any act or omission of the Tenant or any persons for whom the Tenant is, at law, responsible, or from the use or occupation of the Premises, the Lands, or the Buildings, in whole or in part and, without limiting the generality of the foregoing, from the non-observance or non-performance by the Tenant, any persons for whom the Tenant is, at law, responsible, or any persons on the Premises for the purpose of doing business with the Tenant or otherwise dealing with the Tenant, or any of the obligations imposed under the provisions of any laws, ordinances, regulations, or requirements of any federal, provincial, municipal, or other authority, or any of the covenants, agreements, terms, conditions, and provisions contained in this Lease to be observed and performed by the Tenant.
+(a) The Tenant will indemnify the Landlord from and against all manner of actions or causes of action, claims, lawsuits, damages, losses, costs, including legal costs, or expenses of whatever kind arising directly from the negligence or misconduct of the Tenant or its agents, excluding claims arising from incidents not attributable to the actions of the Tenant.
 
 (b) The liability and indemnity contained in this Section 6.9 will survive any termination of this Lease and the expiry of the Term, anything in this Lease to the contrary notwithstanding.
 
@@ -216,13 +216,15 @@ The Tenant will:
 
 (b) strictly comply, and cause any person for whom it is in law responsible to comply, with all Environmental Laws regarding the use and occupancy of the Premises;
 
-(c) promptly provide to the Landlord a copy of any environmental site assessment, audit or report relating to the Premises conducted by or for the Tenant at any time, and, at the Landlord’s request from time to time, obtain from an independent environmental consultant approved by the Landlord an environmental site assessment of the Premises or an environmental audit of the operations of the Premises, including any additional investigations the environmental consultant may recommend;
+(c) conduct and provide reports of environmental assessments by a qualified third-party professional on an annual basis, at the Tenant's cost, which shall be available to both parties to determine any potential hazardous substance liabilities;
 
-(d) promptly notify the Landlord in writing of any release of a Hazardous Substance or Hazardous Substances or any other occurrence or condition at the Premises, or any adjacent property that would contaminate the Premises or subject the Landlord or the Tenant to any fines, penalties, orders, investigations, or proceedings under Environmental Laws;
+(d) promptly provide to the Landlord a copy of any environmental site assessment, audit or report relating to the Premises conducted by or for the Tenant at any time, and, at the Landlord’s request from time to time, obtain from an independent environmental consultant approved by the Landlord an environmental site assessment of the Premises or an environmental audit of the operations of the Premises, including any additional investigations the environmental consultant may recommend;
 
-(e) on the expiry or earlier termination of this Lease, or at any time if requested by the Landlord or required by any government authority pursuant to Environmental Laws, remove from the Premises all Hazardous Substances and remediate any contamination of the Premises or any adjacent property resulting from Hazardous Substances, in either case brought onto, used at, or released from the Premises by the Tenant or any person for whom it is in law responsible. The Tenant will perform these obligations promptly at its own cost and in accordance with Environmental Laws. All such Hazardous Substances will remain the property of the Tenant, notwithstanding any rule of law or other provision of this Lease to the contrary and notwithstanding the degree of their affixation to the Premises; and
+(e) promptly notify the Landlord in writing of any release of a Hazardous Substance or Hazardous Substances or any other occurrence or condition at the Premises, or any adjacent property that would contaminate the Premises or subject the Landlord or the Tenant to any fines, penalties, orders, investigations, or proceedings under Environmental Laws;
 
-(f) indemnify the Landlord and its officers, employees, agents, successors and assigns from any and all liabilities, actions, damages, claims, losses, costs, fines, penalties and expenses whatsoever (including all legal and consultants’ fees and expenses and the cost of remediation of the Premises, and any adjacent property) arising from or in connection with:
+(f) on the expiry or earlier termination of this Lease, or at any time if requested by the Landlord or required by any government authority pursuant to Environmental Laws, remove from the Premises all Hazardous Substances and remediate any contamination of the Premises or any adjacent property resulting from Hazardous Substances, in either case brought onto, used at, or released from the Premises by the Tenant or any person for whom it is in law responsible. The Tenant will perform these obligations promptly at its own cost and in accordance with Environmental Laws. All such Hazardous Substances will remain the property of the Tenant, notwithstanding any rule of law or other provision of this Lease to the contrary and notwithstanding the degree of their affixation to the Premises; and
+
+(g) indemnify the Landlord and its officers, employees, agents, successors and assigns from any and all liabilities, actions, damages, claims, losses, costs, fines, penalties and expenses whatsoever (including all legal and consultants’ fees and expenses and the cost of remediation of the Premises, and any adjacent property) arising from or in connection with:
 
 (i) any breach or non-compliance with the provisions of this Section 6.14 by the Tenant; or
 
@@ -288,7 +290,7 @@ Subject to the terms and conditions of this Lease (including, without restrictio
 
 **Landlord’s Payments**
 
-If the Landlord incurs any damage, loss or expense or makes any payment for which the Tenant is liable under this Lease, then the Landlord may at its option add the cost or amount of the damage, loss, expense or payment to the Rent and may recover it by all remedies available to the Landlord for the recovery for Rent in arrears.
+If the Landlord incurs any damage, loss or expense or makes any payment for which the Tenant is liable under this Lease, then the Landlord may at its option add the cost or amount of the damage, loss, expense or payment to the Rent and may recover it by all remedies available to the Landlord for the recovery of Rent in arrears.
 
 8.3
 
@@ -348,7 +350,7 @@ and in every such event the Landlord shall have the right to declare the Term en
 
 **Termination by Tenant**
 
-Notwithstanding any other provision of this Lease, the Tenant may terminate this Lease without cause on **one (1) year**’s written notice to the Landlord.
+Notwithstanding any other provision of this Lease, the Tenant may terminate this Lease without cause on **two (2) years** written notice to the Landlord.
 
 8.9  
 
