@@ -1,5 +1,5 @@
 BC_LEASE_TEMPLATE = r"""
-THIS LEASE made the _______ day of _____________________, 2017.
+THIS LEASE made the _______ day of _____________________, ___.
 
 LEASE AGREEMENT (DRAFT)
 
