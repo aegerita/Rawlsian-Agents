@@ -22,13 +22,17 @@ cwd = os.path.dirname(os.path.abspath(__file__))
 
 # %%
 bd = BasicDrafter()
-bd.prompt_template = COMMERCIAL_LEASE_MODIFIED_PROMPT
-cp = ClaimsProcessor()
+bd.set_prompt(
+    COMMERCIAL_LEASE_MODIFIED_PROMPT,
+    bd.input_variables,
+    bd.partial_variables,)
+bd.set_chain()
 # %%
 with open(f"{cwd}/initial_conditions.txt", "r") as file:
     free_text = file.read()
 
 # %%
+cp = ClaimsProcessor()
 cp.load_free_text(free_text)
 claims = cp.process_claims()
 print(claims)

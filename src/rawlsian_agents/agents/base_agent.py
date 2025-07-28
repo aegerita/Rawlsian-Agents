@@ -27,22 +27,48 @@ class Agent:
         model = os.environ["MODEL"],
         output_parser: BaseTransformOutputParser = None,
     ) -> None:
-        partial_variables = {}
+        self.prompt_template = prompt_template
+        self.input_variables = input_variables
+        self.output_model = output_model
+        self.model = ChatOpenAI(model=model) if self.output_model is None else ChatOpenAI(model=model).with_structured_output(self.output_model)
+        self.output_parser = output_parser
+        self.partial_variables = {}
         if output_parser is not None:
             self.output_parser = output_parser
             format_instructions = output_parser.get_format_instructions()
-            partial_variables = {"format_instructions": format_instructions}
-        self.model = ChatOpenAI(model=model) if output_model is None else ChatOpenAI(model=model).with_structured_output(output_model)
-        self.prompt = PromptTemplate(
-            template=prompt_template, 
-            input_variables=input_variables,
-            partial_variables=partial_variables
+            self.partial_variables = {"format_instructions": format_instructions}
+        self.set_prompt(
+            prompt_template=self.prompt_template,
+            input_variables=self.input_variables,
+            partial_variables=self.partial_variables,
         )
-        # Pre-build the chain so we don’t have to reconstruct it each time.
-        if output_parser is not None:
+        self.set_chain()
+        
+
+    def set_prompt(self, prompt_template: str, input_variables: List[str], partial_variables: dict) -> None:
+        """
+        Sets a new prompt template for the agent.
+
+        :param prompt_template: The new prompt template string.
+        :param input_variables: List of input variable names for the prompt template.
+        :param partial_variables: Dictionary of partial variables for the prompt.
+        :return: A PromptTemplate instance.
+        """
+        self.prompt = PromptTemplate(
+            template=prompt_template,
+            input_variables=input_variables,
+            partial_variables=partial_variables,
+        )
+    
+    def set_chain(self) -> None:
+        """
+        Pre-build the chain so we don’t have to reconstruct it each time.
+        """
+        if self.output_parser is not None:
             self.chain = self.prompt | self.model | self.output_parser
         else:
             self.chain = self.prompt | self.model
+            
 
     def generate_output(self, **input_data: Any) -> Any:
         """
