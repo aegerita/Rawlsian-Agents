@@ -10,4 +10,5 @@ __pycache__/
 .python-version
 
 .DS_Store
-*.lock
+poetry.lock
+uv.lock

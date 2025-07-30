@@ -1,10 +1,11 @@
 from rawlsian_agents.agents.base_agent import Agent
+from rawlsian_agents.utils.prompts import PRENUPTIAL_PROMPT
 
 class Drafter(Agent):
     """
     An agent specialized in drafting the prenuptial agreement.
     """
-    def __init__(self, prompt_template: dict) -> None:
+    def __init__(self, prompt_template: dict = PRENUPTIAL_PROMPT) -> None:
         super().__init__(
             prompt_template=prompt_template["drafter"],
             input_variables=["claims", "edits"]

@@ -8,15 +8,16 @@ If there exists any direct quotes or specific numerical values in the text, ensu
 **Example:**
 
 Free text:
-You are Person A negotiating a prenuptial agreement with your partner. You have a yearly income of $100,000, own a house worth $500,000, and possess a savings account containing $50,000. You wish to retain sole ownership of your house and savings account in the event of a divorce. Additionally, you want to ensure shared financial accounts are carefully managed to protect and grow your savings. You do not wish to share any future inheritance from your parents with your partner.
+You are Company X negotiating a commercial lease agreement for office space. The office space is 5,000 square feet, and the proposed monthly rent is $10,000. Company X wants the landlord to cover all maintenance costs and requests a five-year lease term with an option to renew. Company X also wants to ensure that rent increases are capped at 3% per year and that the lease allows for subleasing if the company expands.
 
 Extracted claims:
 
-- Person A has a yearly income of $100,000.
-- Person A owns a house valued at $500,000 and wishes to retain ownership in case of divorce.
-- Person A holds a savings account with $50,000 and desires exclusive ownership in case of divorce.
-- Person A requires shared financial accounts to be carefully managed to ensure savings growth.
-- Person A intends not to share future inheritance from parents with their partner.
+- Company X is negotiating a commercial lease for 5,000 square feet of office space.
+- The proposed monthly rent is $10,000.
+- Company X requests that the landlord covers all maintenance costs.
+- Company X seeks a five-year lease term with an option to renew.
+- Company X wants rent increases to be capped at 3% per year.
+- Company X requires the ability to sublease the space if the company expands.
 
 Solve the task using only the information provided below:
 
@@ -97,16 +98,15 @@ If there exists any direct quotes or specific numerical values in the text, ensu
 **Example:**
 
 Free text:
-You are Person A negotiating a prenuptial agreement with your partner. You have a yearly income of $100,000, own a house worth $500,000, and possess a savings account containing $50,000. You wish to retain sole ownership of your house and savings account in the event of a divorce. Additionally, you want to ensure shared financial accounts are carefully managed to protect and grow your savings. You do not wish to share any future inheritance from your parents with your partner.
+You are Company X negotiating a commercial lease agreement for office space. The office space is 5,000 square feet, and the proposed monthly rent is $10,000. Company X wants the landlord to cover all maintenance costs and requests a five-year lease term with an option to renew. Company X also wants to ensure that rent increases are capped at 3% per year and that the lease allows for subleasing if the company expands.
 
 Extracted claims:
-
-- Person A has a yearly income of $100,000.
-- Person A owns a house valued at $500,000 and wishes to retain ownership in case of divorce.
-- Person A holds a savings account with $50,000 and desires exclusive ownership in case of divorce.
-- Person A requires shared financial accounts to be carefully managed to ensure savings growth.
-- Person A intends not to share future inheritance from parents with their partner.
-
+- Company X is negotiating a commercial lease for 5,000 square feet of office space.
+- The proposed monthly rent is $10,000.
+- Company X requests that the landlord covers all maintenance costs.
+- Company X seeks a five-year lease term with an option to renew.
+- Company X wants rent increases to be capped at 3% per year.
+- Company X requires the ability to sublease the space if the company expands.
 Solve the task using only the information provided below:
 
 Free text:
@@ -114,7 +114,7 @@ Free text:
 """
 
 COMMERCIAL_LEASE_REVIEWER_PROMPT = r"""
-You are legal assistant assigned to analyze and prioritize the interests of {name}, a corporation. Your primary responsibility is to identify and evaluate potential future risks that could impact {name} under the terms of the agreement, explicitly assessing whether the agreement is conscionable.
+You are a legal assistant assigned to analyze and prioritize the interests of {name}, a corporation. Your primary responsibility is to identify and evaluate potential future risks that could impact {name} under the terms of the agreement, explicitly assessing whether the agreement is conscionable.
 
 Consider both immediate and long-term risks, including financial, legal, and business factors. Assess how external influences, such as economic downturns, contract clarity, or legal loopholes, could affect the agreement. Determine if any power imbalances exist or if certain clauses disproportionately benefit one party. Where relevant, suggest ways to rebalance the agreement to promote fairness.
 
