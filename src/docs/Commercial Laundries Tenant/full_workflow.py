@@ -35,7 +35,7 @@ with open(f"{folder_path}/initial_agreement.md", 'w') as file:
     file.write(draft)
 
 # %%
-with open(folder_path + "initial_agreement.md", "r") as file:
+with open(f"{folder_path}/initial_agreement.md", "r") as file:
     initial_agreement = file.read()
 #%%
 reviewer = Reviewer(COMMERCIAL_LEASE_PROMPT_CATALOGUE)
@@ -43,13 +43,13 @@ risks_landlord = reviewer.generate_risks(name="landlord", claims=initial_agreeme
 risks_tenant = reviewer.generate_risks(name="tenant", claims=initial_agreement)
 combined_risks = risks_landlord + risks_tenant
 
-if not os.path.exists(folder_path + "combined_risks.md"):
-    with open(folder_path + "combined_risks.md", "w") as file:
+if not os.path.exists(f"{folder_path}/combined_risks.md"):
+    with open(f"{folder_path}/combined_risks.md", "w") as file:
         file.write("## Combined Risks Identified\n")
         for risk in combined_risks:
             file.write(f"{risk}\n\n")
 else:
-    with open(folder_path + "combined_risks.md", "r") as file:
+    with open(f"{folder_path}/combined_risks.md", "r") as file:
         combined_risks = file.read().split("\n\n")
 
 #%%
@@ -57,8 +57,8 @@ edits = ["Proposed edits to the agreement:"]
 arbitrator = Arbitrator(COMMERCIAL_LEASE_PROMPT_CATALOGUE)
 print("Arbitrator's analysis of risks and proposed edits:")
 print("\n")
-if not os.path.exists(folder_path + "risks_and_mitigations.md"):
-    with open(folder_path + "risks_and_mitigations.md", "w") as file:
+if not os.path.exists(f"{folder_path}/risks_and_mitigations.md"):
+    with open(f"{folder_path}/risks_and_mitigations.md", "w") as file:
         for risk in combined_risks:
             print(risk)
             file.write(f"{risk}\n")
@@ -70,7 +70,7 @@ if not os.path.exists(folder_path + "risks_and_mitigations.md"):
     for edit in edits:
         print(edit)
 else:
-    with open(folder_path + "risks_and_mitigations.md", "r") as file:
+    with open(f"{folder_path}/risks_and_mitigations.md", "r") as file:
         risks_and_mitigations = file.read().split("\n\n")
     for risk in risks_and_mitigations:
         print(risk)
@@ -82,5 +82,5 @@ drafter = Drafter(COMMERCIAL_LEASE_PROMPT_CATALOGUE)
 final_agreement = drafter.draft_agreement(agreement=initial_agreement, edits=edits)
 print("\nFinal agreement:")
 print(final_agreement)
-with open(folder_path + "final_agreement.md", 'w') as file:
+with open(f"{folder_path}/final_agreement.md", 'w') as file:
     file.write(final_agreement)
