@@ -22,15 +22,16 @@ If there exists any direct quotes or specific numerical values in the text, ensu
 **Example:**
 
 Free text:
-You are Person A negotiating a prenuptial agreement with your partner. You have a yearly income of $100,000, own a house worth $500,000, and possess a savings account containing $50,000. You wish to retain sole ownership of your house and savings account in the event of a divorce. Additionally, you want to ensure shared financial accounts are carefully managed to protect and grow your savings. You do not wish to share any future inheritance from your parents with your partner.
+You are Company X negotiating a commercial lease agreement for office space. The office space is 5,000 square feet, and the proposed monthly rent is $10,000. Company X wants the landlord to cover all maintenance costs and requests a five-year lease term with an option to renew. Company X also wants to ensure that rent increases are capped at 3% per year and that the lease allows for subleasing if the company expands.
 
 Extracted claims:
 
-- Person A has a yearly income of $100,000.
-- Person A owns a house valued at $500,000 and wishes to retain ownership in case of divorce.
-- Person A holds a savings account with $50,000 and desires exclusive ownership in case of divorce.
-- Person A requires shared financial accounts to be carefully managed to ensure savings growth.
-- Person A intends not to share future inheritance from parents with their partner.
+- Company X is negotiating a commercial lease for 5,000 square feet of office space.
+- The proposed monthly rent is $10,000.
+- Company X requests that the landlord covers all maintenance costs.
+- Company X seeks a five-year lease term with an option to renew.
+- Company X wants rent increases to be capped at 3% per year.
+- Company X requires the ability to sublease the space if the company expands.
 
 Solve the task using only the information provided below:
 
@@ -121,25 +122,17 @@ If there exists any direct quotes or specific numerical values in the text, ensu
 
 **Example:**
 
-Free text: Corporation A is negotiating a merger agreement with Corporation B. Corporation A has an annual revenue of $100 million, owns office buildings valued at $500 million, and has cash reserves of $50 million. Corporation A wishes to retain full ownership of its real estate assets and cash reserves in the event the merger is dissolved. Additionally, they want to ensure that joint ventures are carefully managed to protect and grow their market share. Corporation A does not wish to share any future patents or intellectual property developed independently with Corporation B post-merger.
-
-The negotiation process is expected to last 6 months, with the merger to be finalized within 12 months if successful. Corporation A proposes a 5-year review clause to assess the merger's performance and allow for potential dissolution if targets are not met. They also suggest a 2-year non-compete clause for key executives in case of merger dissolution.
-
-Corporation A plans to invest $20 million in joint R&D projects over the next 3 years but wants to retain rights to any resulting innovations if the merger is dissolved within 5 years. They also propose a gradual integration of IT systems over 18 months to minimize disruption and maintain data security.
+Free text:
+You are Company X negotiating a commercial lease agreement for office space. The office space is 5,000 square feet, and the proposed monthly rent is $10,000. Company X wants the landlord to cover all maintenance costs and requests a five-year lease term with an option to renew. Company X also wants to ensure that rent increases are capped at 3% per year and that the lease allows for subleasing if the company expands.
 
 Extracted claims:
+- Company X is negotiating a commercial lease for 5,000 square feet of office space.
+- The proposed monthly rent is $10,000.
+- Company X requests that the landlord covers all maintenance costs.
+- Company X seeks a five-year lease term with an option to renew.
+- Company X wants rent increases to be capped at 3% per year.
+- Company X requires the ability to sublease the space if the company expands.
 
-Corporation A has an annual revenue of $100 million.
-Corporation A owns office buildings valued at $500 million and wishes to retain ownership if the merger is dissolved.
-Corporation A has cash reserves of $50 million and desires exclusive ownership if the merger is dissolved.
-Corporation A requires joint ventures to be carefully managed to ensure market share growth.
-Corporation A intends not to share future patents or intellectual property developed independently post-merger.
-The negotiation process is expected to last 6 months, with merger finalization within 12 months if successful.
-Corporation A proposes a 5-year review clause for merger performance assessment.
-A 2-year non-compete clause for key executives is suggested in case of merger dissolution.
-Corporation A plans to invest $20 million in joint R&D over 3 years.
-Corporation A wants to retain rights to innovations from joint R&D if the merger dissolves within 5 years.
-A gradual IT systems integration over 18 months is proposed for minimal disruption and data security.
 Solve the task using only the information provided below:
 
 Free text: {free_text}
