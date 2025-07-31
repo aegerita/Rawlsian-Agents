@@ -1,14 +1,15 @@
 from rawlsian_agents.agents.base_agent import Agent
 from rawlsian_agents.models import Risks
+from rawlsian_agents.utils.prompts import PRENUPTIAL_PROMPT_CATALOGUE
 
 
 class Reviewer(Agent):
     """
     An agent specialized in generating risk scenarios.
     """
-    def __init__(self, prompt_template: dict) -> None:
+    def __init__(self, prompt_catalogue: dict = PRENUPTIAL_PROMPT_CATALOGUE) -> None:
         super().__init__(
-            prompt_template=prompt_template["reviewer"],
+            prompt_template=prompt_catalogue["reviewer"],
             input_variables=["name", "claims"],
             output_model=Risks,
         )

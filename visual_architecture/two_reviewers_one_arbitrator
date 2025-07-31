@@ -1,14 +1,53 @@
-digraph "Two Reviewers, One Arbitrator, One Drafter" {
-	F [label="Initial Conditions" shape=rectangle]
-	A [label="Reviewer A"]
-	B [label="Reviewer B"]
-	C [label="Claims Aggregation Step" shape=rectangle]
-	D [label=Arbitrator]
-	E [label=Drafter]
-	F -> A
-	F -> B
-	A -> C
-	B -> C
-	C -> D
-	D -> E
+digraph "Rawlsian Agents Workflow" {
+    rankdir=LR;
+    ratio="0.15";
+    newrank=true;
+	size="15";	
+    node [fontsize=24];
+    edge [fontsize=20];
+
+    // Input Stage
+    FACTS [label="Case Facts &\nLegal Template" shape=box style=filled fillcolor=lightblue]
+
+    // Processing Stage
+    CP [label="Claims\nProcessor" shape=ellipse style=filled fillcolor=lightgray]
+    DRAFT [label="Initial Draft" shape=box style=filled fillcolor=lightyellow]
+
+    // Review Stage - Rawlsian
+    RA [label="Reviewer A\n(Rawlsian)" shape=ellipse style=filled fillcolor=lightgreen]
+    RB [label="Reviewer B\n(Rawlsian)" shape=ellipse style=filled fillcolor=lightgreen]
+
+    // Arbitration Stage
+    ARB [label="Arbitrator\n(Rawlsian)\n*Blind to identities of\ncombined risks authors" shape=ellipse style=filled fillcolor=lightgreen]
+
+    // Final Stage
+    FD [label="Final\nDrafter" shape=ellipse style=filled fillcolor=lightgray]
+    FINAL [label="Fair Contract\nProposal" shape=box style=filled fillcolor=lightcoral]
+
+    // Horizontal flow
+    FACTS -> CP
+    CP -> DRAFT [label="Facts Known at\nOriginal Signing"]
+    DRAFT -> RA
+    DRAFT -> RB
+    RA -> ARB [label="Bias and Risks\nAnalysis"]
+    RB -> ARB [label="Bias and Risks\nAnalysis"]
+    ARB -> FD [label="Recommended Edits for\nIncreased Fairness"]
+    FD -> FINAL
+
+    // Legend table positioned below FACTS
+    legend_table [shape=plaintext label=<
+        <table border="0" cellspacing="2" cellpadding="2">
+        <tr>
+        <td><font color="lightgreen" point-size="40">●</font> <font point-size="24">Rawlsian</font></td>
+        <td><font color="lightgray" point-size="40">●</font> <font point-size="24">Non-Rawlsian</font></td>
+        </tr>
+        <tr>
+        <td><font color="lightblue" point-size="40">●</font> <font point-size="24">Input</font></td>
+        <td><font color="lightcoral" point-size="40">●</font> <font point-size="24">Output</font></td>
+        </tr>
+        </table>
+    >]
+    
+    // Position legend below FACTS with invisible edge
+    FACTS -> legend_table [style=invis tailport=s headport=n minlen=0.1 splines="ortho"]
 }

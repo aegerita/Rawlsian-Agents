@@ -1,14 +1,15 @@
 from rawlsian_agents.agents.base_agent import Agent
 from rawlsian_agents.models import Arbitration
+from rawlsian_agents.utils.prompts import PRENUPTIAL_PROMPT_CATALOGUE
 
 
 class Arbitrator(Agent):
     """
     An agent specialized in analyzing and proposing claims for identified risks.
     """
-    def __init__(self, prompt_template: dict) -> None:
+    def __init__(self, prompt_catalogue: dict = PRENUPTIAL_PROMPT_CATALOGUE) -> None:
         super().__init__(
-            prompt_template=prompt_template["arbitrator"],
+            prompt_template=prompt_catalogue["arbitrator"],
             input_variables=["claims", "risk"],
             output_model=Arbitration,
         )
