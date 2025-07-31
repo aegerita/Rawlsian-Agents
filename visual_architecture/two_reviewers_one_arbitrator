@@ -1,5 +1,6 @@
 digraph "Rawlsian Agents Workflow" {
 	ratio="1"
+	size="15";	
     node [fontsize=24];
     edge [fontsize=20];
 
@@ -26,8 +27,8 @@ digraph "Rawlsian Agents Workflow" {
     CP -> DRAFT [label="Facts Known at\nOriginal Signing"]
     DRAFT -> RA
     DRAFT -> RB
-    RA -> ARB [label="Bias and Risks\nAnalysis"]
-    RB -> ARB [label="Bias and Risks\nAnalysis"]
+    RA -> ARB [label="Bias and Risks\nAnalysis" position=left]
+    RB -> ARB [label="Bias and Risks\nAnalysis" position=right]
     ARB -> FD [label="Recommended Edits for\nIncreased Fairness"]
     FD -> FINAL
 
@@ -45,5 +46,7 @@ digraph "Rawlsian Agents Workflow" {
         </table>
     >]
 
+	FINAL -> legend_table [style=invis]
+	// Position legend below FACTS with invisible edge
 	FINAL -> legend_table [style=invis]
 }
