@@ -1,8 +1,5 @@
 digraph "Rawlsian Agents Workflow" {
-    rankdir=LR;
-    ratio="0.15";
-    newrank=true;
-	size="15";	
+	ratio="1"
     node [fontsize=24];
     edge [fontsize=20];
 
@@ -38,8 +35,8 @@ digraph "Rawlsian Agents Workflow" {
     legend_table [shape=plaintext label=<
         <table border="0" cellspacing="2" cellpadding="2">
         <tr>
-        <td><font color="lightgreen" point-size="40">●</font> <font point-size="24">Rawlsian</font></td>
-        <td><font color="lightgray" point-size="40">●</font> <font point-size="24">Non-Rawlsian</font></td>
+        <td><font color="lightgreen" point-size="40">●</font> <font point-size="24">Rawlsian Agent</font></td>
+        <td><font color="lightgray" point-size="40">●</font> <font point-size="24">Non-Rawlsian Agent</font></td>
         </tr>
         <tr>
         <td><font color="lightblue" point-size="40">●</font> <font point-size="24">Input</font></td>
@@ -47,7 +44,6 @@ digraph "Rawlsian Agents Workflow" {
         </tr>
         </table>
     >]
-    
-    // Position legend below FACTS with invisible edge
-    FACTS -> legend_table [style=invis tailport=s headport=n minlen=0.1 splines="ortho"]
+
+	FINAL -> legend_table [style=invis]
 }
