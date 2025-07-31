@@ -4,11 +4,17 @@ import numpy as np
 from pathlib import Path
 from scipy import stats  # Add this import for KS test
 
-# Configure matplotlib to use T1 fonts for PDF compatibility
+# Configure matplotlib to use T1 fonts for PDF compatibility AND larger font sizes
 plt.rcParams['pdf.fonttype'] = 42  # Use T1 fonts instead of Type 3
 plt.rcParams['ps.fonttype'] = 42   # Also for PostScript
 plt.rcParams['font.family'] = 'serif'  # Use serif fonts (similar to LaTeX default)
 plt.rcParams['font.serif'] = ['Computer Modern Roman', 'Times New Roman', 'DejaVu Serif']
+plt.rcParams['font.size'] = 14  # Set default font size to 14
+plt.rcParams['axes.labelsize'] = 14  # Axis labels
+plt.rcParams['axes.titlesize'] = 16  # Axis titles
+plt.rcParams['xtick.labelsize'] = 14  # X-axis tick labels
+plt.rcParams['ytick.labelsize'] = 14  # Y-axis tick labels
+plt.rcParams['legend.fontsize'] = 14  # Legend text
 
 # Read the CSV data
 df = pd.read_csv('health_checks/gender_bias/gender_bias_outputs/gender_bias_results.csv')
@@ -39,17 +45,17 @@ for i, col in enumerate(df.columns):
     y_values = np.arange(1, len(sorted_data) + 1) / len(sorted_data)
     
     # Plot CDF
-    plt.plot(sorted_data, y_values, color=colors[i], linewidth=2.5, 
+    plt.plot(sorted_data, y_values, color=colors[i], linewidth=4,  # Increased linewidth
              linestyle=line_styles[i], label=labels[i])
 
-# Customize the plot
-plt.xlabel('Score Values', fontsize=12, fontweight='bold')
-plt.ylabel('Cumulative Probability', fontsize=12, fontweight='bold')
+# Customize the plot with larger fonts
+plt.xlabel('Score Values', fontsize=16, fontweight='bold')
+plt.ylabel('Cumulative Probability', fontsize=16, fontweight='bold')
 plt.title('Gender Bias Results - Cumulative Distribution Functions by Party Combinations', 
-          fontsize=14, fontweight='bold', pad=20)
+          fontsize=18, fontweight='bold', pad=25)
 
-# Add legend inside the plot area
-plt.legend(loc='lower right', fontsize=9, frameon=True, fancybox=True, shadow=True)
+# Add legend with larger font
+plt.legend(loc='lower right', fontsize=14, frameon=True, fancybox=True, shadow=True)
 
 # Add grid for better readability
 plt.grid(True, alpha=0.3, linestyle='--')
@@ -63,7 +69,7 @@ plt.axhline(y=0.25, color='gray', linestyle=':', alpha=0.5, linewidth=1)
 plt.axhline(y=0.5, color='gray', linestyle=':', alpha=0.5, linewidth=1)
 plt.axhline(y=0.75, color='gray', linestyle=':', alpha=0.5, linewidth=1)
 
-# Create statistics table
+# Create statistics table with larger fonts
 table_data = []
 for i, col in enumerate(df.columns):
     parts = col.split('_')
@@ -73,27 +79,28 @@ for i, col in enumerate(df.columns):
     std = df[col].std()
     table_data.append([f'WP: {wealthy}, UP: {underprivileged}', f'{median:.4f}', f'{std:.4f}'])
 
-# Add table to the plot
+# Add table to the plot with larger fonts
 table = plt.table(cellText=table_data,
                  colLabels=['Party Combination', 'Median', 'Std Dev'],
                  cellLoc='center',
                  loc='upper left',
-                 bbox=[0.02, 0.7, 0.35, 0.25])
+                 bbox=[0.02, 0.7, 0.5, 0.25],
+                 colWidths=[0.2, 0.15, 0.15])  # Made wider for better readability
 
-# Style the table
+# Style the table with larger fonts
 table.auto_set_font_size(False)
-table.set_fontsize(8)
-table.scale(1, 1.2)
+table.set_fontsize(14)  # Increased to 14
+table.scale(1.3, 1.6)   # Increased scaling
 
 # Color the table cells to match the line colors
 for i in range(len(table_data)):
     table[(i+1, 0)].set_facecolor(colors[i])
     table[(i+1, 0)].set_alpha(0.3)
 
-# Style header row
+# Style header row with larger fonts
 for j in range(3):
     table[(0, j)].set_facecolor('#f0f0f0')
-    table[(0, j)].set_text_props(weight='bold')
+    table[(0, j)].set_text_props(weight='bold', fontsize=14)
 
 # KOLMOGOROV-SMIRNOV TESTS
 print("\n" + "="*60)
@@ -104,7 +111,7 @@ print("="*60)
 ks_results = []
 col_names = df.columns.tolist()
 # Shorter labels for better table formatting
-col_labels = col_names.copy()
+col_labels = ['MM', 'MW', 'WM', 'WW']  # Much shorter for readability
 
 for i in range(len(col_names)):
     for j in range(i+1, len(col_names)):
@@ -140,7 +147,7 @@ plt.savefig(eps_path, dpi=300, bbox_inches='tight', facecolor='white', format='e
 plt.show()
 
 # CREATE SEPARATE KS TEST RESULTS TABLE
-fig_ks, ax_ks = plt.subplots(figsize=(10, 6))
+fig_ks, ax_ks = plt.subplots(figsize=(10, 8))  # Made taller
 ax_ks.axis('tight')
 ax_ks.axis('off')
 
@@ -149,12 +156,12 @@ ks_table = ax_ks.table(cellText=ks_results,
                       colLabels=['Comparison', 'KS Statistic', 'p-value', 'Significance'],
                       cellLoc='center',
                       loc='center',
-                      colWidths=[0.4, 0.2, 0.25, 0.25])
+                      colWidths=[0.3, 0.2, 0.25, 0.25])
 
-# Style the KS table
+# Style the KS table with larger fonts
 ks_table.auto_set_font_size(False)
-ks_table.set_fontsize(12)
-ks_table.scale(1.2, 2.0)  # Make table larger and taller
+ks_table.set_fontsize(16)  # Increased to 16
+ks_table.scale(1.5, 2.5)   # Much larger scaling
 
 # Color code significance levels
 for i, (_, _, p_val, sig) in enumerate(ks_results):
@@ -167,10 +174,10 @@ for i, (_, _, p_val, sig) in enumerate(ks_results):
     else:
         ks_table[(i+1, 3)].set_facecolor('#f0f0f0')  # Light gray for non-significant
 
-# Style KS table header
+# Style KS table header with larger fonts
 for j in range(4):
     ks_table[(0, j)].set_facecolor('#e0e0e0')
-    ks_table[(0, j)].set_text_props(weight='bold', fontsize=14)
+    ks_table[(0, j)].set_text_props(weight='bold', fontsize=18)  # Increased to 18
 
 # Style all cells for better readability
 for i in range(len(ks_results) + 1):
@@ -178,18 +185,18 @@ for i in range(len(ks_results) + 1):
         ks_table[(i, j)].set_edgecolor('black')
         ks_table[(i, j)].set_linewidth(1)
 
-# Add title to the KS table
+# Add title to the KS table with larger font
 plt.title('Kolmogorov-Smirnov Test Results\nGender Bias Analysis', 
-          fontsize=16, fontweight='bold', pad=20)
+          fontsize=20, fontweight='bold', pad=25)  # Increased to 20
 
-# Add significance legend
+# Add significance legend with larger font
 legend_text = ("Significance levels:\n"
                "*** p < 0.001 (highly significant)\n"
                "**  p < 0.01 (very significant)\n"
                "*   p < 0.05 (significant)\n"
                "ns  p ≥ 0.05 (not significant)")
 
-plt.figtext(0.02, 0.02, legend_text, fontsize=10, 
+plt.figtext(0.02, 0.02, legend_text, fontsize=14,  # Increased to 14
             bbox=dict(boxstyle="round,pad=0.3", facecolor="lightgray", alpha=0.5))
 
 plt.tight_layout()
@@ -227,22 +234,22 @@ plt.figure(figsize=(10, 6))
 # Create histogram with probabilities (density=False, weights to normalize)
 weights = np.ones_like(cross_combination_stds) / len(cross_combination_stds)
 plt.hist(cross_combination_stds, bins=25, weights=weights,
-         edgecolor='#2E8B57', facecolor='none', linewidth=2.5, 
+         edgecolor='#2E8B57', facecolor='none', linewidth=4,  # Increased linewidth
          histtype='stepfilled', label='Cross-Combination Standard Deviation')
 
-# Customize the plot
-plt.xlabel('Standard Deviation Across Gender Combinations', fontsize=12, fontweight='bold')
-plt.ylabel('Probability', fontsize=12, fontweight='bold')
-plt.title('Distribution of Standard Deviation Across Gender Combinations per Experiment', 
-          fontsize=14, fontweight='bold', pad=20)
+# Customize the plot with larger fonts
+plt.xlabel('Standard Deviation Across Gender Combinations', fontsize=16, fontweight='bold')
+plt.ylabel('Probability', fontsize=16, fontweight='bold')
+plt.title('Distribution of Standard Deviation Across Gender Combinations', 
+          fontsize=18, fontweight='bold', pad=25)
 
-# Add legend
-plt.legend(loc='upper right', fontsize=10, frameon=True, fancybox=True, shadow=True)
+# Add legend with larger font
+plt.legend(loc='lower center', fontsize=14, frameon=True, fancybox=True, shadow=True)
 
 # Add grid for better readability
 plt.grid(True, alpha=0.3, linestyle='--')
 
-# Add statistics table for cross-combination analysis
+# Add statistics table for cross-combination analysis with larger fonts
 cross_stats = {
     'Mean': np.mean(cross_combination_stds),
     'Median': np.median(cross_combination_stds),
@@ -251,28 +258,28 @@ cross_stats = {
     'Max': np.max(cross_combination_stds)
 }
 
-# Create statistics table
+# Create statistics table with larger fonts
 stats_data = [[f'{value:.6f}'] for value in cross_stats.values()]
 stats_table = plt.table(cellText=stats_data,
                        rowLabels=list(cross_stats.keys()),
                        colLabels=['Value'],
                        cellLoc='center',
                        loc='upper left',
-                       bbox=[0.08, 0.65, 0.15, 0.30])
+                       bbox=[0.1, 0.65, 0.20, 0.35])  # Made wider
 
-# Style the statistics table
+# Style the statistics table with larger fonts
 stats_table.auto_set_font_size(False)
-stats_table.set_fontsize(8)
-stats_table.scale(1, 1.2)
+stats_table.set_fontsize(14)  # Increased to 14
+stats_table.scale(1.3, 1.6)   # Increased scaling
 
-# Style header
+# Style header with larger font
 stats_table[(0, 0)].set_facecolor('#f0f0f0')
-stats_table[(0, 0)].set_text_props(weight='bold')
+stats_table[(0, 0)].set_text_props(weight='bold', fontsize=14)
 
-# Color row labels
+# Color row labels with larger font
 for i in range(1, len(cross_stats) + 1):
     stats_table[(i, -1)].set_facecolor('#e8f4f8')
-    stats_table[(i, -1)].set_text_props(weight='bold')
+    stats_table[(i, -1)].set_text_props(weight='bold', fontsize=14)
 
 plt.tight_layout()
 
