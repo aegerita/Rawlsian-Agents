@@ -2,6 +2,8 @@
 .env:Zone.Identifier
 venv/
 
+**/gender_bias_outputs/*.md
+
 
 dist/
 .vscode/
